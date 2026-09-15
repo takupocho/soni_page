@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-15T18:43:31.324203+00:00",
+  "updatedAt": "2026-09-15T21:55:30.056288+00:00",
   "items": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 19:00:47 GMT",
+      "timestamp": 1789498847.0,
+      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jX09FdmtVRG5XUFl6LVR1Z0dWaDBDUDVqSS1oZlZ2SGE2V1Q0NlhsZWdjNVUzbFJGUy1leVRYb0dxN0lHZ29zeVJfZUZmRC1wQmRvOUp2dmNVel9KN0E?oc=5",
+      "title": "SEL400F45GM | デジタル一眼カメラ α（アルファ） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jX09FdmtVRG5XUFl6LVR1Z0dWaDBDUDVqSS1oZlZ2SGE2V1Q0NlhsZWdjNVUzbFJGUy1leVRYb0dxN0lHZ29zeVJfZUZmRC1wQmRvOUp2dmNVel9KN0E?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 15:17:12 GMT",
+      "timestamp": 1789485432.0,
+      "description": "SEL400F45GM | デジタル一眼カメラ α（アルファ）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jX09FdmtVRG5XUFl6LVR1Z0dWaDBDUDVqSS1oZlZ2SGE2V1Q0NlhsZWdjNVUzbFJGUy1leVRYb0dxN0lHZ29zeVJfZUZmRC1wQmRvOUp2dmNVel9KN0E?oc=5",
+      "title": "SEL400F45GM | デジタル一眼カメラ α（アルファ） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9jX09FdmtVRG5XUFl6LVR1Z0dWaDBDUDVqSS1oZlZ2SGE2V1Q0NlhsZWdjNVUzbFJGUy1leVRYb0dxN0lHZ29zeVJfZUZmRC1wQmRvOUp2dmNVel9KN0E?oc=5",
+      "pubDate": "Tue, 15 Sep 2026 15:17:12 GMT",
+      "timestamp": 1789485432.0,
+      "description": "SEL400F45GM | デジタル一眼カメラ α（アルファ）&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9MeWJBV1UxcVFBSHRaMWhSSG9YcDVxY29EQjltZVJJM0JHeHNhdmtqSGpWZ1gwUk4yZDRyT2wtVm1QME45LUtpR1VpMjhuWE9JWnBQNU9fTmFabzN6b2lzMzl4cTMzU1JFdmc?oc=5",
       "title": "新商品 発売前先行体験・展示について - ソニーストア",
@@ -12,42 +42,12 @@
       "feedName": "ストア・イベント"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Wb1BmZk9wZi1RUHRCeHlwRlAzX0x0QjVuN1FZdVlZZ0x0bkVRQmVrOUxfT2tMcHFIckZOTG9mYnd5S2s4UGxIR2NvR0tmOWlFNVZ2YTl1S1Q5NFI1NVE?oc=5",
-      "title": "SEL600F63GM | デジタル一眼カメラ α（アルファ） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Wb1BmZk9wZi1RUHRCeHlwRlAzX0x0QjVuN1FZdVlZZ0x0bkVRQmVrOUxfT2tMcHFIckZOTG9mYnd5S2s4UGxIR2NvR0tmOWlFNVZ2YTl1S1Q5NFI1NVE?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 14:40:33 GMT",
-      "timestamp": 1789483233.0,
-      "description": "SEL600F63GM | デジタル一眼カメラ α（アルファ）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Wb1BmZk9wZi1RUHRCeHlwRlAzX0x0QjVuN1FZdVlZZ0x0bkVRQmVrOUxfT2tMcHFIckZOTG9mYnd5S2s4UGxIR2NvR0tmOWlFNVZ2YTl1S1Q5NFI1NVE?oc=5",
-      "title": "SEL600F63GM | デジタル一眼カメラ α（アルファ） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Wb1BmZk9wZi1RUHRCeHlwRlAzX0x0QjVuN1FZdVlZZ0x0bkVRQmVrOUxfT2tMcHFIckZOTG9mYnd5S2s4UGxIR2NvR0tmOWlFNVZ2YTl1S1Q5NFI1NVE?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 14:40:33 GMT",
-      "timestamp": 1789483233.0,
-      "description": "SEL600F63GM | デジタル一眼カメラ α（アルファ）&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SblZ4OC1kbTRER2FOSTBUY0dCOXdFSHVPcTBlUkNmVmttMVlXY2Z1MlZHMnd5cDB0M3QzbDh2RkNJbWVLM2JMcHlLRUYtWUlDd0JIdlExN3VQVnlNeXRlem41MUdMU3Ba?oc=5",
       "title": "焦点距離400 mmおよび600 mmで世界最軽量を実現した超望遠単焦点レンズ Gマスター（TM）2機種を発売 | ニュースリリース - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SblZ4OC1kbTRER2FOSTBUY0dCOXdFSHVPcTBlUkNmVmttMVlXY2Z1MlZHMnd5cDB0M3QzbDh2RkNJbWVLM2JMcHlLRUYtWUlDd0JIdlExN3VQVnlNeXRlem41MUdMU3Ba?oc=5",
       "pubDate": "Tue, 15 Sep 2026 14:15:34 GMT",
       "timestamp": 1789481734.0,
       "description": "焦点距離400 mmおよび600 mmで世界最軽量を実現した超望遠単焦点レンズ Gマスター（TM）2機種を発売 | ニュースリリース&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Mon, 14 Sep 2026 14:00:35 GMT",
-      "timestamp": 1789394435.0,
-      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -142,16 +142,6 @@
       "feedName": "製品ニュース"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTWFBnMGdiUWNzVXUwNThIUWtXa1BuMDJ0cjJ6cGl6dVZCdVM5b09aSVd3Mms2c0Q5MnhDVDlfNER2N0ZFTXVyR0l2bTZLdy1KTkJiRl9WLXRLWTJvSWpkNHF3Q05BaTNDbjRB?oc=5",
-      "title": "αcafeフォト＆ムービー フェスティバル - cpn.acafe.msc.sony.jp",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTWFBnMGdiUWNzVXUwNThIUWtXa1BuMDJ0cjJ6cGl6dVZCdVM5b09aSVd3Mms2c0Q5MnhDVDlfNER2N0ZFTXVyR0l2bTZLdy1KTkJiRl9WLXRLWTJvSWpkNHF3Q05BaTNDbjRB?oc=5",
-      "pubDate": "Wed, 19 Aug 2026 02:58:47 GMT",
-      "timestamp": 1787108327.0,
-      "description": "αcafeフォト＆ムービー フェスティバル&nbsp;&nbsp;cpn.acafe.msc.sony.jp",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TOTlqd1N4MkM3UHNfRm94MFJ6MHpiejltV0JjQmt1NENzWVYzMHpaR3NJV2ZabFlzZXB4RGRHbzRRNmFydlpCeGFLTDRuVXNXSkRYQVVZd1N3SU5Z?oc=5",
       "title": "新作は劇場で、名作は自宅で！ ＴＯＨＯシネマズ×ソニーストア ＴＯＨＯシネマズ映画鑑賞クーポンGETキャンペーン - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TOTlqd1N4MkM3UHNfRm94MFJ6MHpiejltV0JjQmt1NENzWVYzMHpaR3NJV2ZabFlzZXB4RGRHbzRRNmFydlpCeGFLTDRuVXNXSkRYQVVZd1N3SU5Z?oc=5",
@@ -210,6 +200,16 @@
       "description": "サポート&nbsp;&nbsp;sr-origin.sony.jp",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HZWRiLVlfNXNaWGNIdE5qZXMza2lIY2d0eVhTdjZPd2tBb1FkUGNGaXdxWEdBY3MtcDRiVjFld2UwcVpLWWRKWUNicmRxakM4WEx0aF93NjU0dzNPZnBzSDRoMXdWWG9YWkYwVw?oc=5",
+      "title": "ソニーオープンフォトコン 星空フォトコンテスト2025 結果発表 - αcafe",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HZWRiLVlfNXNaWGNIdE5qZXMza2lIY2d0eVhTdjZPd2tBb1FkUGNGaXdxWEdBY3MtcDRiVjFld2UwcVpLWWRKWUNicmRxakM4WEx0aF93NjU0dzNPZnBzSDRoMXdWWG9YWkYwVw?oc=5",
+      "pubDate": "Thu, 20 Nov 2025 01:55:17 GMT",
+      "timestamp": 1763603717.0,
+      "description": "ソニーオープンフォトコン 星空フォトコンテスト2025 結果発表&nbsp;&nbsp;αcafe",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iME9oa0llVnFuY193U3lILXVqRTF6Z3pPUTIwMGxPNzNSNjk3Slp3UUR5cWhzTmpTeUNsNWRPS3U2UWtaWDBLWjc1Y1BvX0sxYjF3dWZkTTd2aWhTMmp6V1pXMm5naDRkdVdiMEppUl9fVDh0VlJLMg?oc=5",
@@ -302,16 +302,6 @@
       "feedName": "サポート・全般"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94UUN4TzJnOTZFdEJQODEwYU1jMVpRTTk3VnRtVDljMlhkYWF6d3g3T3lWREtSVURLSWpGTEdjaW5hUW0waUc0cHh0dTNXLVZYSjgxQzJzdGJaMEw4SVFqSVoyTlc?oc=5",
-      "title": "ソニーポイント - msc.sony.jp",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94UUN4TzJnOTZFdEJQODEwYU1jMVpRTTk3VnRtVDljMlhkYWF6d3g3T3lWREtSVURLSWpGTEdjaW5hUW0waUc0cHh0dTNXLVZYSjgxQzJzdGJaMEw4SVFqSVoyTlc?oc=5",
-      "pubDate": "Sat, 02 Sep 2023 20:12:42 GMT",
-      "timestamp": 1693685562.0,
-      "description": "ソニーポイント&nbsp;&nbsp;msc.sony.jp",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0pwLUxVb29Gc0dHZlRXcE9adjRrWkF2Vk14ci1maEt4cjRZbm9feHpfdjFfYWhGOHYzRG1weFBlZWJpM1VFQ3dpOU9oWTZZcU05ckhYd0NMaXVfQzNkR053Tl9WMFJSbk5rajNyUWJIY0hVREs0SGVrUmtHSmRyY24tcTBsal9MMjZWdFNaZ1J2R3ZPblcwRWFpUQ?oc=5",
       "title": "アプリをアップデート（インストール）できない | よくある質問 | Windows アプリ | PC TV Plus - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0pwLUxVb29Gc0dHZlRXcE9adjRrWkF2Vk14ci1maEt4cjRZbm9feHpfdjFfYWhGOHYzRG1weFBlZWJpM1VFQ3dpOU9oWTZZcU05ckhYd0NMaXVfQzNkR053Tl9WMFJSbk5rajNyUWJIY0hVREs0SGVrUmtHSmRyY24tcTBsal9MMjZWdFNaZ1J2R3ZPblcwRWFpUQ?oc=5",
@@ -320,6 +310,16 @@
       "description": "アプリをアップデート（インストール）できない | よくある質問 | Windows アプリ | PC TV Plus&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qaUY3bktRcUVFVXdGNWZWUU8yYnYyb0tRS2RmX2xScWZvOWdzSXBfcmhWTUZMQXBjUDk0SEJ4WjBndHkycS1nd3J1S1o0QXFlZmFuUElpTQ?oc=5",
+      "title": "ソニーポイント - msc.sony.jp",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qaUY3bktRcUVFVXdGNWZWUU8yYnYyb0tRS2RmX2xScWZvOWdzSXBfcmhWTUZMQXBjUDk0SEJ4WjBndHkycS1nd3J1S1o0QXFlZmFuUElpTQ?oc=5",
+      "pubDate": "Fri, 28 Aug 2020 16:22:42 GMT",
+      "timestamp": 1598631762.0,
+      "description": "ソニーポイント&nbsp;&nbsp;msc.sony.jp",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5samJKcmx0c2RCMk5KRFB6blBDQTJRNUtSZDRlVDJRWm84MDhOcjU2NWN4eFFmQThJT3RaRmJWS1h4SEVHdU9PV0QyQ29SeFE?oc=5",
