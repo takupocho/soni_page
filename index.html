@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ソニー公式 更新情報ダッシュボード</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body class="bg-gray-100 text-gray-800 min-h-screen pb-12">
+
+  <header class="bg-black text-white py-6 shadow-md mb-8">
+    <div class="max-w-5xl mx-auto px-4 flex justify-between items-center">
+      <div>
+        <h1 class="text-2xl font-bold tracking-wide flex items-center gap-2">
+          <i class="fa-solid fa-bell text-blue-400"></i> ソニー公式 更新情報チェッカー
+        </h1>
+        <p class="text-xs text-gray-400 mt-1">ソニーの最新ニュース・製品発表を一括チェック</p>
+      </div>
+      <button onclick="fetchAllFeeds()" id="refresh-btn" class="bg-blue-600 hover:bg-blue-500 text-white text-sm px-4 py-2 rounded-lg transition flex items-center gap-2">
+        <i class="fa-solid fa-rotate"></i> 最新情報に更新
+      </button>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4">
+    <div class="flex gap-2 mb-6 border-b border-gray-300 pb-3 overflow-x-auto" id="filter-tabs">
+      <button onclick="filterCategory('all', event)" class="tab-btn bg-gray-800 text-white px-4 py-1.5 rounded-full text-sm font-medium">すべて</button>
+      <button onclick="filterCategory('press', event)" class="tab-btn bg-white text-gray-700 hover:bg-gray-200 px-4 py-1.5 rounded-full text-sm font-medium">プレスリリース</button>
+      <button onclick="filterCategory('product', event)" class="tab-btn bg-white text-gray-700 hover:bg-gray-200 px-4 py-1.5 rounded-full text-sm font-medium">製品ニュース</button>
+    </div>
+
+    <div id="status" class="text-center py-8 text-gray-500">
+      <i class="fa-solid fa-spinner fa-spin fa-2x"></i>
+      <p class="mt-2 text-sm">最新情報を取得中...</p>
+    </div>
+
+    <div id="news-container" class="grid gap-4"></div>
+  </main>
+
+  <script>
+    const FEEDS = [
+      { id: 'press', name: 'プレスリリース', url: 'https://www.sony.co.jp/SonyInfo/News/Press/rss/index.xml' },
+      { id: 'product', name: '製品情報・新着', url: 'https://www.sony.jp/xml/news.xml' }
+    ];
+
+    // より安定したCORSプロキシ経由で取得
+    const PROXY_URL = 'https://api.allorigins.win/get?url=';
+
+    let allItems = [];
+    let currentCategory = 'all';
+
+    function getReadIds() {
+      return JSON.parse(localStorage.getItem('sony_read_ids') || '[]');
+    }
+
+    function markAsRead(guid) {
+      const readIds = getReadIds();
+      if (!readIds.includes(guid)) {
+        readIds.push(guid);
+        localStorage.setItem('sony_read_ids', JSON.stringify(readIds));
+        renderNews();
+      }
+    }
+
+    async function fetchSingleFeed(feed) {
+      try {
+        const response = await fetch(`${PROXY_URL}${encodeURIComponent(feed.url)}`);
+        if (!response.ok) throw new Error('ネットワークエラー');
+        
+        const data = await response.json();
+        const parser = new DOMParser();
+        const xmlDoc = parser.parseFromString(data.contents, 'text/xml');
+        const items = xmlDoc.querySelectorAll('item');
+
+        const parsedItems = [];
+        items.forEach(item => {
+          const title = item.querySelector('title')?.textContent || 'タイトルなし';
+          const link = item.querySelector('link')?.textContent || '#';
+          const pubDate = item.querySelector('pubDate')?.textContent || new Date().toISOString();
+          const description = item.querySelector('description')?.textContent || '';
+          const guid = item.querySelector('guid')?.textContent || link;
+
+          parsedItems.push({
+            id: guid,
+            title,
+            link,
+            pubDate,
+            description,
+            feedId: feed.id,
+            feedName: feed.name
+          });
+        });
+        return parsedItems;
+      } catch (err) {
+        console.error(`フィード取得失敗 [${feed.name}]:`, err);
+        return [];
+      }
+    }
+
+    async function fetchAllFeeds() {
+      const statusEl = document.getElementById('status');
+      const refreshBtn = document.getElementById('refresh-btn');
+      statusEl.classList.remove('hidden');
+      statusEl.innerHTML = '<i class="fa-solid fa-spinner fa-spin fa-2x"></i><p class="mt-2 text-sm">ソニー公式サイトから通信中...</p>';
+      refreshBtn.disabled = true;
+
+      allItems = [];
+
+      const results = await Promise.all(FEEDS.map(fetchSingleFeed));
+      allItems = results.flat();
+
+      // 日付順にソート（新しい順）
+      allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+      if (allItems.length === 0) {
+        statusEl.innerHTML = `
+          <div class="bg-red-50 text-red-600 p-4 rounded-lg inline-block">
+            <i class="fa-solid fa-triangle-exclamation mb-1"></i>
+            <p class="font-bold">情報を取得できませんでした。</p>
+            <p class="text-xs mt-1">通信制限またはローカルセキュリティ設定の影響の可能性があります。</p>
+          </div>`;
+      } else {
+        statusEl.classList.add('hidden');
+        renderNews();
+      }
+      refreshBtn.disabled = false;
+    }
+
+    function renderNews() {
+      const container = document.getElementById('news-container');
+      const readIds = getReadIds();
+      container.innerHTML = '';
+
+      const filtered = currentCategory === 'all' 
+        ? allItems 
+        : allItems.filter(item => item.feedId === currentCategory);
+
+      if (filtered.length === 0 && allItems.length > 0) {
+        container.innerHTML = '<p class="text-center text-gray-500 py-8">該当する記事はありません。</p>';
+        return;
+      }
+
+      filtered.forEach(item => {
+        const isRead = readIds.includes(item.id);
+        const itemDate = new Date(item.pubDate);
+        const dateStr = isNaN(itemDate) ? '' : itemDate.toLocaleDateString('ja-JP', {
+          year: 'numeric', month: '2-digit', day: '2-digit'
+        });
+
+        const isNew = !isNaN(itemDate) && (new Date() - itemDate) < (7 * 24 * 60 * 60 * 1000);
+
+        const card = document.createElement('div');
+        card.className = `bg-white p-5 rounded-xl border ${isRead ? 'opacity-60 border-gray-200' : 'border-gray-300 shadow-sm'} hover:shadow-md transition`;
+        
+        // HTMLタグを除去したプレーンテキスト抽出
+        const cleanDesc = item.description.replace(/<[^>]*>?/gm, '').trim();
+
+        card.innerHTML = `
+          <div class="flex items-center gap-2 mb-2 text-xs">
+            <span class="bg-blue-100 text-blue-800 font-semibold px-2.5 py-0.5 rounded">${item.feedName}</span>
+            ${dateStr ? `<span class="text-gray-400"><i class="fa-regular fa-clock"></i> ${dateStr}</span>` : ''}
+            ${isNew && !isRead ? '<span class="bg-red-500 text-white font-bold px-2 py-0.5 rounded text-[10px]">NEW</span>' : ''}
+          </div>
+          <h2 class="text-base font-bold text-gray-900 mb-2 hover:text-blue-600">
+            <a href="${item.link}" target="_blank" rel="noopener noreferrer" onclick="markAsRead('${item.id}')">${item.title}</a>
+          </h2>
+          ${cleanDesc ? `<p class="text-xs text-gray-600 line-clamp-2 mb-3">${cleanDesc}</p>` : ''}
+          <div class="flex justify-between items-center text-xs pt-2 border-t border-gray-100">
+            <a href="${item.link}" target="_blank" rel="noopener noreferrer" onclick="markAsRead('${item.id}')" class="text-blue-600 font-medium hover:underline flex items-center gap-1">
+              公式サイトで開く <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+            </a>
+            ${!isRead ? `<button onclick="markAsRead('${item.id}')" class="text-gray-400 hover:text-gray-600">既読にする</button>` : '既読済み'}
+          </div>
+        `;
+        container.appendChild(card);
+      });
+    }
+
+    function filterCategory(cat, event) {
+      currentCategory = cat;
+      document.querySelectorAll('.tab-btn').forEach(btn => {
+        btn.classList.remove('bg-gray-800', 'text-white');
+        btn.classList.add('bg-white', 'text-gray-700');
+      });
+      event.target.classList.remove('bg-white', 'text-gray-700');
+      event.target.classList.add('bg-gray-800', 'text-white');
+      renderNews();
+    }
+
+    fetchAllFeeds();
+  </script>
+</body>
+</html>
