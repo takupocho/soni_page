@@ -21,15 +21,16 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install feedparser
+        run: pip install feedparser requests
 
       - name: Fetch Sony RSS and Output JSON
         run: |
           python3 << 'EOF'
-          import urllib.request
+          import requests
           import feedparser
           import json
           import re
+          import sys
           from datetime import datetime, timezone
 
           feeds = [
@@ -38,37 +39,48 @@ jobs:
           ]
 
           items = []
-          headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+          headers = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+              "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"
+          }
 
           for feed in feeds:
               try:
-                  req = urllib.request.Request(feed["url"], headers=headers)
-                  with urllib.request.urlopen(req) as resp:
-                      content = resp.read()
+                  res = requests.get(feed["url"], headers=headers, timeout=15)
+                  print(f"[{feed['name']}] HTTPステータス: {res.status_code}")
                   
-                  parsed = feedparser.parse(content)
-                  
-                  for entry in parsed.entries:
-                      title = getattr(entry, 'title', '').strip()
-                      link = getattr(entry, 'link', '').strip()
-                      guid = getattr(entry, 'id', link).strip()
+                  if res.status_code == 200:
+                      parsed = feedparser.parse(res.content)
+                      print(f"[{feed['name']}] 取得エントリー数: {len(parsed.entries)}")
                       
-                      pub_date = getattr(entry, 'published', getattr(entry, 'updated', ''))
-                      summary = getattr(entry, 'summary', getattr(entry, 'description', ''))
-                      clean_desc = re.sub(r"<[^>]+>", "", summary).strip()
-                      
-                      if title and link:
-                          items.append({
-                              "id": guid,
-                              "title": title,
-                              "link": link,
-                              "pubDate": pub_date,
-                              "description": clean_desc,
-                              "feedId": feed["id"],
-                              "feedName": feed["name"]
-                          })
+                      for entry in parsed.entries:
+                          title = getattr(entry, 'title', '').strip()
+                          link = getattr(entry, 'link', '').strip()
+                          guid = getattr(entry, 'id', link).strip()
+                          pub_date = getattr(entry, 'published', getattr(entry, 'updated', ''))
+                          summary = getattr(entry, 'summary', getattr(entry, 'description', ''))
+                          clean_desc = re.sub(r"<[^>]+>", "", summary).strip()
+                          
+                          if title and link:
+                              items.append({
+                                  "id": guid,
+                                  "title": title,
+                                  "link": link,
+                                  "pubDate": pub_date,
+                                  "description": clean_desc,
+                                  "feedId": feed["id"],
+                                  "feedName": feed["name"]
+                              })
+                  else:
+                      print(f"[{feed['name']}] 通信エラー (HTTP {res.status_code})")
               except Exception as e:
-                  print(f"Error fetching {feed['name']}: {e}")
+                  print(f"[{feed['name']}] 例外発生: {e}")
+
+          print(f"合計取得件数: {len(items)} 件")
+
+          if len(items) == 0:
+              print("エラー: 記事データが0件のためJSONの更新を中断します。")
+              sys.exit(1)
 
           output = {
               "updatedAt": datetime.now(timezone.utc).isoformat(),
@@ -78,7 +90,7 @@ jobs:
           with open("sony_news.json", "w", encoding="utf-8") as f:
               json.dump(output, f, ensure_ascii=False, indent=2)
 
-          print(f"取得成功: 合計 {len(items)} 件")
+          print("sony_news.json の書き出しに成功しました。")
           EOF
 
       - name: Commit and Push sony_news.json
