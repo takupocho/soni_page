@@ -1,116 +1,122 @@
-name: Fetch Sony RSS to sony_news.json
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ソニー公式 更新情報ポータル</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body class="bg-gray-100 text-gray-800 min-h-screen pb-12">
 
-on:
-  schedule:
-    - cron: '0 * * * *' # 1時間ごとに自動更新
-  workflow_dispatch: # 手動実行ボタン
+  <header class="bg-black text-white py-6 shadow-md mb-8">
+    <div class="max-w-5xl mx-auto px-4 flex justify-between items-center">
+      <div>
+        <h1 class="text-2xl font-bold tracking-wide flex items-center gap-2">
+          <i class="fa-solid fa-bell text-blue-400"></i> ソニー公式 更新情報
+        </h1>
+        <p class="text-xs text-gray-400 mt-1" id="last-update">データ取得中...</p>
+      </div>
+      <button onclick="loadNewsData()" id="refresh-btn" class="bg-blue-600 hover:bg-blue-500 text-white text-sm px-4 py-2 rounded-lg transition flex items-center gap-2">
+        <i class="fa-solid fa-rotate"></i> 再読み込み
+      </button>
+    </div>
+  </header>
 
-permissions:
-  contents: write
+  <main class="max-w-5xl mx-auto px-4">
+    <!-- カテゴリ切り替えタブ -->
+    <div class="flex gap-2 mb-6 border-b border-gray-300 pb-3 overflow-x-auto">
+      <button onclick="filterCategory('all', event)" class="tab-btn bg-gray-800 text-white px-4 py-1.5 rounded-full text-sm font-medium whitespace-nowrap">すべて</button>
+      <button onclick="filterCategory('press', event)" class="tab-btn bg-white text-gray-700 hover:bg-gray-200 px-4 py-1.5 rounded-full text-sm font-medium whitespace-nowrap">プレスリリース</button>
+      <button onclick="filterCategory('product', event)" class="tab-btn bg-white text-gray-700 hover:bg-gray-200 px-4 py-1.5 rounded-full text-sm font-medium whitespace-nowrap">製品ニュース</button>
+      <button onclick="filterCategory('support', event)" class="tab-btn bg-white text-gray-700 hover:bg-gray-200 px-4 py-1.5 rounded-full text-sm font-medium whitespace-nowrap">サポート・アップデート</button>
+      <button onclick="filterCategory('store', event)" class="tab-btn bg-white text-gray-700 hover:bg-gray-200 px-4 py-1.5 rounded-full text-sm font-medium whitespace-nowrap">ストア・イベント</button>
+    </div>
 
-jobs:
-  fetch-rss:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    <div id="status" class="text-center py-8 text-gray-500">
+      <i class="fa-solid fa-spinner fa-spin fa-2x"></i>
+      <p class="mt-2 text-sm">最新データを読み込んでいます...</p>
+    </div>
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
+    <div id="news-container" class="grid gap-4"></div>
+  </main>
 
-      - name: Install dependencies
-        run: pip install requests feedparser
+  <script>
+    let allItems = [];
+    let currentCategory = 'all';
 
-      - name: Fetch Sony RSS and Output JSON
-        run: |
-          python3 << 'EOF'
-          import requests
-          import feedparser
-          import json
-          import re
-          import sys
-          from datetime import datetime, timezone
+    async function loadNewsData() {
+      const statusEl = document.getElementById('status');
+      const lastUpdateEl = document.getElementById('last-update');
+      statusEl.classList.remove('hidden');
 
-          # ブロックを受けない各種フィード一覧
-          feeds = [
-              {
-                  "id": "press",
-                  "name": "プレスリリース",
-                  "url": "https://prtimes.jp/companyrss/action.php?market_id=0&company_id=12968"
-              },
-              {
-                  "id": "product",
-                  "name": "製品ニュース",
-                  "url": "https://news.google.com/rss/search?q=site:sony.jp+OR+site:sony.co.jp&hl=ja&gl=JP&ceid=JP:ja"
-              },
-              {
-                  "id": "support",
-                  "name": "サポート・アップデート",
-                  "url": "https://news.google.com/rss/search?q=site:sony.jp%2Fsupport+OR+%22%E3%82%BD%E3%83%8B%E3%83%BC%22+%22%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%22&hl=ja&gl=JP&ceid=JP:ja"
-              },
-              {
-                  "id": "store",
-                  "name": "ストア・イベント",
-                  "url": "https://news.google.com/rss/search?q=site:sony.jp%2Fstore+OR+site:sony.jp%2Finfo&hl=ja&gl=JP&ceid=JP:ja"
-              }
-          ]
+      try {
+        const response = await fetch('./sony_news.json?t=' + new Date().getTime());
+        if (!response.ok) throw new Error('データが見つかりません');
 
-          items = []
-          headers = {
-              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
-          }
+        const data = await response.json();
+        allItems = data.items || [];
 
-          for feed in feeds:
-              try:
-                  res = requests.get(feed["url"], headers=headers, timeout=15)
-                  if res.status_code == 200:
-                      parsed = feedparser.parse(res.content)
-                      print(f"[{feed['name']}] 取得成功: {len(parsed.entries)}件")
-                      
-                      for entry in parsed.entries[:15]:
-                          title = entry.get("title", "").strip()
-                          link = entry.get("link", "").strip()
-                          pub_date = entry.get("published", entry.get("updated", ""))
-                          summary = entry.get("summary", entry.get("description", ""))
-                          clean_desc = re.sub(r"<[^>]+>", "", summary).strip()
+        if (data.updatedAt) {
+          const updateDate = new Date(data.updatedAt);
+          lastUpdateEl.textContent = `最終更新: ${updateDate.toLocaleString('ja-JP')}`;
+        }
 
-                          if title and link:
-                              items.append({
-                                  "id": link,
-                                  "title": title,
-                                  "link": link,
-                                  "pubDate": pub_date,
-                                  "description": clean_desc[:120] + "..." if len(clean_desc) > 120 else clean_desc,
-                                  "feedId": feed["id"],
-                                  "feedName": feed["name"]
-                              })
-                  else:
-                      print(f"[{feed['name']}] 通信エラー: HTTP {res.status_code}")
-              except Exception as e:
-                  print(f"[{feed['name']}] 例外発生: {e}")
+        statusEl.classList.add('hidden');
+        renderNews();
+      } catch (err) {
+        statusEl.innerHTML = `<p class="text-red-500 text-sm py-4">データ（sony_news.json）の読み込みに失敗しました。</p>`;
+      }
+    }
 
-          print(f"合計取得件数: {len(items)}件")
+    function renderNews() {
+      const container = document.getElementById('news-container');
+      container.innerHTML = '';
 
-          if len(items) == 0:
-              print("エラー: 記事データが0件のため処理を中止します。")
-              sys.exit(1)
+      const filtered = currentCategory === 'all' 
+        ? allItems 
+        : allItems.filter(item => item.feedId === currentCategory);
 
-          output = {
-              "updatedAt": datetime.now(timezone.utc).isoformat(),
-              "items": items
-          }
+      if (filtered.length === 0) {
+        container.innerHTML = '<p class="text-center text-gray-500 py-12 bg-white rounded-xl border border-gray-200">表示できる記事がありません。</p>';
+        return;
+      }
 
-          with open("sony_news.json", "w", encoding="utf-8") as f:
-              json.dump(output, f, ensure_ascii=False, indent=2)
+      filtered.forEach(item => {
+        const card = document.createElement('div');
+        card.className = 'bg-white p-5 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition';
 
-          print("sony_news.json の書き出しに成功しました。")
-          EOF
+        card.innerHTML = `
+          <div class="flex items-center gap-2 mb-2 text-xs">
+            <span class="bg-blue-100 text-blue-800 font-semibold px-2.5 py-0.5 rounded">${item.feedName}</span>
+            ${item.pubDate ? `<span class="text-gray-400"><i class="fa-regular fa-clock"></i> ${item.pubDate}</span>` : ''}
+          </div>
+          <h2 class="text-base font-bold text-gray-900 mb-2 hover:text-blue-600">
+            <a href="${item.link}" target="_blank" rel="noopener noreferrer">${item.title}</a>
+          </h2>
+          ${item.description ? `<p class="text-xs text-gray-600 line-clamp-2 mb-3 leading-relaxed">${item.description}</p>` : ''}
+          <div class="pt-2 border-t border-gray-100 text-xs">
+            <a href="${item.link}" target="_blank" rel="noopener noreferrer" class="text-blue-600 font-medium hover:underline flex items-center gap-1">
+              記事を開く <i class="fa-solid fa-arrow-up-right-from-square text-[10px]"></i>
+            </a>
+          </div>
+        `;
+        container.appendChild(card);
+      });
+    }
 
-      - name: Commit and Push sony_news.json
-        run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add sony_news.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update sony_news.json [skip ci]" && git push)
+    function filterCategory(cat, event) {
+      currentCategory = cat;
+      document.querySelectorAll('.tab-btn').forEach(btn => {
+        btn.classList.remove('bg-gray-800', 'text-white');
+        btn.classList.add('bg-white', 'text-gray-700');
+      });
+      event.target.classList.remove('bg-white', 'text-gray-700');
+      event.target.classList.add('bg-gray-800', 'text-white');
+      renderNews();
+    }
+
+    loadNewsData();
+  </script>
+</body>
+</html>
