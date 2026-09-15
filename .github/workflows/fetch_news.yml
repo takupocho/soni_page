@@ -20,11 +20,14 @@ jobs:
         with:
           python-version: '3.x'
 
+      - name: Install dependencies
+        run: pip install feedparser
+
       - name: Fetch Sony RSS and Output JSON
         run: |
           python3 << 'EOF'
           import urllib.request
-          import xml.etree.ElementTree as ET
+          import feedparser
           import json
           import re
           from datetime import datetime, timezone
@@ -41,34 +44,29 @@ jobs:
               try:
                   req = urllib.request.Request(feed["url"], headers=headers)
                   with urllib.request.urlopen(req) as resp:
-                      data = resp.read()
-                  root = ET.fromstring(data)
+                      content = resp.read()
                   
-                  for elem in root.iter():
-                      tag = elem.tag.split("}")[-1] if "}" in elem.tag else elem.tag
-                      if tag == "item":
-                          title, link, pubDate, desc, guid = "", "", "", "", ""
-                          for child in elem:
-                              c_tag = child.tag.split("}")[-1] if "}" in child.tag else child.tag
-                              if c_tag == "title": title = child.text or ""
-                              elif c_tag == "link": link = child.text or ""
-                              elif c_tag == "pubDate": pubDate = child.text or ""
-                              elif c_tag == "description": desc = child.text or ""
-                              elif c_tag == "guid": guid = child.text or ""
-                          
-                          if not guid: guid = link
-                          clean_desc = re.sub(r"<[^>]+>", "", desc).strip()
-                          
-                          if title and link:
-                              items.append({
-                                  "id": guid.strip(),
-                                  "title": title.strip(),
-                                  "link": link.strip(),
-                                  "pubDate": pubDate.strip(),
-                                  "description": clean_desc,
-                                  "feedId": feed["id"],
-                                  "feedName": feed["name"]
-                              })
+                  parsed = feedparser.parse(content)
+                  
+                  for entry in parsed.entries:
+                      title = getattr(entry, 'title', '').strip()
+                      link = getattr(entry, 'link', '').strip()
+                      guid = getattr(entry, 'id', link).strip()
+                      
+                      pub_date = getattr(entry, 'published', getattr(entry, 'updated', ''))
+                      summary = getattr(entry, 'summary', getattr(entry, 'description', ''))
+                      clean_desc = re.sub(r"<[^>]+>", "", summary).strip()
+                      
+                      if title and link:
+                          items.append({
+                              "id": guid,
+                              "title": title,
+                              "link": link,
+                              "pubDate": pub_date,
+                              "description": clean_desc,
+                              "feedId": feed["id"],
+                              "feedName": feed["name"]
+                          })
               except Exception as e:
                   print(f"Error fetching {feed['name']}: {e}")
 
@@ -80,7 +78,7 @@ jobs:
           with open("sony_news.json", "w", encoding="utf-8") as f:
               json.dump(output, f, ensure_ascii=False, indent=2)
 
-          print(f"正常完了: {len(items)} 件のニュースを取得しました。")
+          print(f"取得成功: 合計 {len(items)} 件")
           EOF
 
       - name: Commit and Push sony_news.json
