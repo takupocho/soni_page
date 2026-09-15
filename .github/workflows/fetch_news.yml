@@ -16,18 +16,18 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
       - name: Fetch Sony RSS and Output JSON
         run: |
-          python -c '
+          python3 << 'EOF'
           import urllib.request
           import xml.etree.ElementTree as ET
           import json
           import re
-          from datetime import datetime
+          from datetime import datetime, timezone
 
           feeds = [
               {"id": "press", "name": "プレスリリース", "url": "https://www.sony.co.jp/SonyInfo/News/Press/rss/index.xml"},
@@ -44,7 +44,6 @@ jobs:
                       data = resp.read()
                   root = ET.fromstring(data)
                   
-                  # 名前空間を無視してitemタグを全検索
                   for elem in root.iter():
                       tag = elem.tag.split("}")[-1] if "}" in elem.tag else elem.tag
                       if tag == "item":
@@ -71,16 +70,18 @@ jobs:
                                   "feedName": feed["name"]
                               })
               except Exception as e:
-                  print(f"Error fetching {feed[\"name\"]}: {e}")
+                  print(f"Error fetching {feed['name']}: {e}")
 
           output = {
-              "updatedAt": datetime.utcnow().isoformat() + "Z",
+              "updatedAt": datetime.now(timezone.utc).isoformat(),
               "items": items
           }
 
           with open("sony_news.json", "w", encoding="utf-8") as f:
               json.dump(output, f, ensure_ascii=False, indent=2)
-          '
+
+          print(f"正常完了: {len(items)} 件のニュースを取得しました。")
+          EOF
 
       - name: Commit and Push sony_news.json
         run: |
