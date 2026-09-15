@@ -44,15 +44,12 @@ jobs:
           for feed in feeds:
               try:
                   res = requests.get(feed["url"], headers=headers, timeout=15)
-                  # 文字化け防止のためバイナリからデコード
                   try:
                       content = res.content.decode('utf-8')
                   except UnicodeDecodeError:
                       content = res.content.decode('shift_jis', errors='ignore')
                   
-                  # <item>タグをブロック単位で直接抽出
                   blocks = re.findall(r'<item[\s>](.*?)</item>', content, re.DOTALL | re.IGNORECASE)
-                  print(f"[{feed['name']}] 検出ブロック数: {len(blocks)}")
 
                   for block in blocks:
                       title_m = re.search(r'<title.*?>(.*?)</title>', block, re.DOTALL | re.IGNORECASE)
@@ -84,8 +81,6 @@ jobs:
               except Exception as e:
                   print(f"[{feed['name']}] エラー: {e}")
 
-          print(f"合計取得件数: {len(items)}件")
-
           output = {
               "updatedAt": datetime.now(timezone.utc).isoformat(),
               "items": items
@@ -102,4 +97,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add sony_news.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update sony_news.json [skip ci]" && push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update sony_news.json [skip ci]" && git push)
