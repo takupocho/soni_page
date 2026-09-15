@@ -33,7 +33,7 @@ jobs:
           import sys
           from datetime import datetime, timezone
 
-          # クラウドIPブロックを受けない公式配信サービス＆GoogleニュースRSSを利用
+          # ブロックを受けない各種フィード一覧
           feeds = [
               {
                   "id": "press",
@@ -44,6 +44,16 @@ jobs:
                   "id": "product",
                   "name": "製品ニュース",
                   "url": "https://news.google.com/rss/search?q=site:sony.jp+OR+site:sony.co.jp&hl=ja&gl=JP&ceid=JP:ja"
+              },
+              {
+                  "id": "support",
+                  "name": "サポート・アップデート",
+                  "url": "https://news.google.com/rss/search?q=site:sony.jp%2Fsupport+OR+%22%E3%82%BD%E3%83%8B%E3%83%BC%22+%22%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%22&hl=ja&gl=JP&ceid=JP:ja"
+              },
+              {
+                  "id": "store",
+                  "name": "ストア・イベント",
+                  "url": "https://news.google.com/rss/search?q=site:sony.jp%2Fstore+OR+site:sony.jp%2Finfo&hl=ja&gl=JP&ceid=JP:ja"
               }
           ]
 
