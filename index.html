@@ -9,36 +9,32 @@
 </head>
 <body class="bg-gray-100 text-gray-800 min-h-screen pb-12">
 
-  <!-- ヘッダー -->
   <header class="bg-black text-white py-6 shadow-md mb-8">
     <div class="max-w-5xl mx-auto px-4 flex justify-between items-center">
       <div>
         <h1 class="text-2xl font-bold tracking-wide flex items-center gap-2">
           <i class="fa-solid fa-bell text-blue-400"></i> ソニー公式 更新情報
         </h1>
-        <p class="text-xs text-gray-400 mt-1">リポジトリ内の news.xml を直接読み込んで表示中</p>
+        <p class="text-xs text-gray-400 mt-1" id="last-update">データ取得中...</p>
       </div>
-      <button onclick="loadNewsXml()" id="refresh-btn" class="bg-blue-600 hover:bg-blue-500 text-white text-sm px-4 py-2 rounded-lg transition flex items-center gap-2">
+      <button onclick="loadNewsData()" id="refresh-btn" class="bg-blue-600 hover:bg-blue-500 text-white text-sm px-4 py-2 rounded-lg transition flex items-center gap-2">
         <i class="fa-solid fa-rotate"></i> 再読み込み
       </button>
     </div>
   </header>
 
   <main class="max-w-5xl mx-auto px-4">
-    <!-- カテゴリ選択タブ -->
     <div class="flex gap-2 mb-6 border-b border-gray-300 pb-3 overflow-x-auto" id="filter-tabs">
       <button onclick="filterCategory('all', event)" class="tab-btn bg-gray-800 text-white px-4 py-1.5 rounded-full text-sm font-medium">すべて</button>
       <button onclick="filterCategory('press', event)" class="tab-btn bg-white text-gray-700 hover:bg-gray-200 px-4 py-1.5 rounded-full text-sm font-medium">プレスリリース</button>
       <button onclick="filterCategory('product', event)" class="tab-btn bg-white text-gray-700 hover:bg-gray-200 px-4 py-1.5 rounded-full text-sm font-medium">製品ニュース</button>
     </div>
 
-    <!-- ステータス・ローディング -->
     <div id="status" class="text-center py-8 text-gray-500">
       <i class="fa-solid fa-spinner fa-spin fa-2x"></i>
-      <p class="mt-2 text-sm">リポジトリから news.xml を読み込んでいます...</p>
+      <p class="mt-2 text-sm">最新データを読み込んでいます...</p>
     </div>
 
-    <!-- 記事一覧リスト -->
     <div id="news-container" class="grid gap-4"></div>
   </main>
 
@@ -59,80 +55,38 @@
       }
     }
 
-    // リポジトリ直下の news.xml を直接取得してパース
-    async function loadNewsXml() {
+    async function loadNewsData() {
       const statusEl = document.getElementById('status');
+      const lastUpdateEl = document.getElementById('last-update');
       const refreshBtn = document.getElementById('refresh-btn');
       statusEl.classList.remove('hidden');
       refreshBtn.disabled = true;
 
       try {
-        // キャッシュ対策としてクエリパラメータを付与
-        const response = await fetch('./news.xml?t=' + new Date().getTime());
-        
-        if (!response.ok) {
-          throw new Error(`HTTP status ${response.status}`);
-        }
+        const response = await fetch('./sony_news.json?t=' + new Date().getTime());
+        if (!response.ok) throw new Error('データが見つかりません');
 
-        const xmlText = await response.text();
-        const parser = new DOMParser();
-        const xmlDoc = parser.parseFromString(xmlText, 'text/xml');
+        const data = await response.json();
+        allItems = data.items || [];
 
-        if (xmlDoc.querySelector('parsererror')) {
-          throw new Error('XMLパースエラー');
-        }
-
-        const items = xmlDoc.querySelectorAll('item');
-        allItems = [];
-
-        items.forEach(item => {
-          const title = item.querySelector('title')?.textContent || 'タイトルなし';
-          const link = item.querySelector('link')?.textContent || '#';
-          const pubDate = item.querySelector('pubDate')?.textContent || '';
-          const description = item.querySelector('description')?.textContent || '';
-          const category = item.querySelector('category')?.textContent || 'news';
-          const guid = item.querySelector('guid')?.textContent || link;
-
-          let feedId = 'product';
-          let feedName = '製品ニュース';
-          if (category === 'press' || link.includes('News/Press') || title.includes('プレス')) {
-            feedId = 'press';
-            feedName = 'プレスリリース';
-          }
-
-          const cleanDesc = description.replace(/<[^>]*>?/gm, '').trim();
-
-          allItems.push({
-            id: guid.trim(),
-            title: title.trim(),
-            link: link.trim(),
-            pubDate: pubDate.trim(),
-            description: cleanDesc,
-            feedId,
-            feedName
-          });
-        });
-
-        // 最新順に並び替え
         allItems.sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));
+
+        if (data.updatedAt) {
+          const updateDate = new Date(data.updatedAt);
+          lastUpdateEl.textContent = `最終更新: ${updateDate.toLocaleString('ja-JP')}`;
+        }
 
         statusEl.classList.add('hidden');
         renderNews();
       } catch (err) {
-        console.error('news.xml 読み込みエラー:', err);
         statusEl.innerHTML = `
           <div class="bg-amber-50 text-amber-800 p-5 rounded-xl border border-amber-200 max-w-lg mx-auto text-left">
             <div class="flex items-center gap-2 font-bold text-base mb-2 text-amber-900">
-              <i class="fa-solid fa-triangle-exclamation text-amber-600"></i> news.xml がまだ生成されていません
+              <i class="fa-solid fa-clock-rotate-left text-amber-600"></i> データ準備中
             </div>
-            <p class="text-xs leading-relaxed mb-3">
-              GitHub Actionsが未実行のため、リポジトリ内に <code>news.xml</code> が存在していません。
+            <p class="text-xs leading-relaxed">
+              GitHubの「Actions」タブから <strong>Run workflow</strong> を実行してください。
             </p>
-            <div class="bg-amber-100/60 p-3 rounded text-xs space-y-1 font-mono text-amber-950">
-              <p>1. GitHubの「Actions」タブを開く</p>
-              <p>2. 「Fetch Sony RSS to news.xml」を選択</p>
-              <p>3. 「Run workflow」を押して実行してください</p>
-            </div>
           </div>`;
       } finally {
         refreshBtn.disabled = false;
@@ -157,7 +111,7 @@
         const isRead = readIds.includes(item.id);
         const itemDate = new Date(item.pubDate);
         const dateStr = isNaN(itemDate) ? item.pubDate : itemDate.toLocaleDateString('ja-JP', {
-          year: 'numeric', month: '2-digit', day: '2-digit', hour: '2-digit', minute: '2-digit'
+          year: 'numeric', month: '2-digit', day: '2-digit'
         });
 
         const isNew = !isNaN(itemDate) && (new Date() - itemDate) < (7 * 24 * 60 * 60 * 1000);
@@ -197,7 +151,7 @@
       renderNews();
     }
 
-    loadNewsXml();
+    loadNewsData();
   </script>
 </body>
 </html>
