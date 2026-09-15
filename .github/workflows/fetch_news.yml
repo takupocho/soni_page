@@ -46,8 +46,18 @@ jobs:
                   "url": "https://news.google.com/rss/search?q=site:sony.jp+OR+site:sony.co.jp&hl=ja&gl=JP&ceid=JP:ja"
               },
               {
+                  "id": "camera_update",
+                  "name": "カメラ更新",
+                  "url": "https://news.google.com/rss/search?q=site:sony.jp%2Fsupport%2F+%22%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%22+OR+%22%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%A6%E3%82%A7%E3%82%A2%22&hl=ja&gl=JP&ceid=JP:ja"
+              },
+              {
+                  "id": "xperia_update",
+                  "name": "Xperia更新",
+                  "url": "https://news.google.com/rss/search?q=(site:xperia.sony.jp+OR+%22Xperia%22)+%22%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%22&hl=ja&gl=JP&ceid=JP:ja"
+              },
+              {
                   "id": "support",
-                  "name": "サポート・アップデート",
+                  "name": "サポート・全般",
                   "url": "https://news.google.com/rss/search?q=site:sony.jp%2Fsupport+OR+%22%E3%82%BD%E3%83%8B%E3%83%BC%22+%22%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%22&hl=ja&gl=JP&ceid=JP:ja"
               },
               {
@@ -74,7 +84,6 @@ jobs:
                           link = entry.get("link", "").strip()
                           pub_date = entry.get("published", entry.get("updated", ""))
                           
-                          # 時系列ソート用に数値化したタイムスタンプを取得
                           parsed_time = entry.get("published_parsed") or entry.get("updated_parsed")
                           timestamp = time.mktime(parsed_time) if parsed_time else 0
 
@@ -95,10 +104,10 @@ jobs:
               except Exception as e:
                   print(f"[{feed['name']}] 例外発生: {e}")
 
-          # 日付（タイムスタンプ）が新しい順に全体をソート
+          # 全体を最新日時順（降順）にソート
           items.sort(key=lambda x: x["timestamp"], reverse=True)
 
-          print(f"合計取得件数: {len(items)}件 (時系列ソート完了)")
+          print(f"合計取得件数: {len(items)}件")
 
           if len(items) == 0:
               print("エラー: 記事データが0件のため処理を中止します。")
