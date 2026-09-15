@@ -21,14 +21,17 @@ jobs:
           python-version: '3.x'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests feedparser
 
       - name: Fetch Sony RSS and Output JSON
         run: |
           python3 << 'EOF'
           import requests
+          import feedparser
           import json
           import re
+          import sys
+          import urllib.parse
           from datetime import datetime, timezone
 
           feeds = [
@@ -42,31 +45,39 @@ jobs:
           }
 
           for feed in feeds:
+              content = None
+              
+              # 1. 直接取得の試行
               try:
-                  res = requests.get(feed["url"], headers=headers, timeout=15)
+                  res = requests.get(feed["url"], headers=headers, timeout=10)
+                  if res.status_code == 200 and len(res.content) > 100:
+                      content = res.content
+                      print(f"[{feed['name']}] 直接取得成功")
+              except Exception as e:
+                  print(f"[{feed['name']}] 直接取得失敗: {e}")
+
+              # 2. 直接取得が失敗した場合はプロキシ経由で試行
+              if not content:
                   try:
-                      content = res.content.decode('utf-8')
-                  except UnicodeDecodeError:
-                      content = res.content.decode('shift_jis', errors='ignore')
-                  
-                  blocks = re.findall(r'<item[\s>](.*?)</item>', content, re.DOTALL | re.IGNORECASE)
+                      encoded_url = urllib.parse.quote(feed["url"], safe='')
+                      proxy_url = f"https://api.allorigins.win/raw?url={encoded_url}"
+                      res = requests.get(proxy_url, headers=headers, timeout=10)
+                      if res.status_code == 200:
+                          content = res.content
+                          print(f"[{feed['name']}] プロキシ経由で取得成功")
+                  except Exception as e:
+                      print(f"[{feed['name']}] プロキシ取得失敗: {e}")
 
-                  for block in blocks:
-                      title_m = re.search(r'<title.*?>(.*?)</title>', block, re.DOTALL | re.IGNORECASE)
-                      link_m = re.search(r'<link.*?>(.*?)</link>', block, re.DOTALL | re.IGNORECASE)
-                      date_m = re.search(r'<(?:pubDate|dc:date).*?>(.*?)</(?:pubDate|dc:date)>', block, re.DOTALL | re.IGNORECASE)
-                      desc_m = re.search(r'<description.*?>(.*?)</description>', block, re.DOTALL | re.IGNORECASE)
-
-                      def clean(val):
-                          if not val: return ""
-                          text = val.group(1).strip()
-                          text = re.sub(r'<!\[CDATA\[(.*?)\]\]>', r'\1', text, flags=re.DOTALL)
-                          return re.sub(r'<[^>]+>', '', text).strip()
-
-                      title = clean(title_m)
-                      link = clean(link_m)
-                      pub_date = clean(date_m)
-                      desc = clean(desc_m)
+              # 3. RSSの解析
+              if content:
+                  parsed = feedparser.parse(content)
+                  print(f"[{feed['name']}] 解析エントリー数: {len(parsed.entries)}")
+                  for entry in parsed.entries:
+                      title = entry.get("title", "").strip()
+                      link = entry.get("link", "").strip()
+                      pub_date = entry.get("published", entry.get("updated", ""))
+                      summary = entry.get("summary", entry.get("description", ""))
+                      clean_desc = re.sub(r"<[^>]+>", "", summary).strip()
 
                       if title and link:
                           items.append({
@@ -74,12 +85,16 @@ jobs:
                               "title": title,
                               "link": link,
                               "pubDate": pub_date,
-                              "description": desc,
+                              "description": clean_desc,
                               "feedId": feed["id"],
                               "feedName": feed["name"]
                           })
-              except Exception as e:
-                  print(f"[{feed['name']}] エラー: {e}")
+
+          print(f"合計取得件数: {len(items)}件")
+
+          if len(items) == 0:
+              print("エラー: 記事データが0件のためファイルの書き換えを中止します。")
+              sys.exit(1)
 
           output = {
               "updatedAt": datetime.now(timezone.utc).isoformat(),
@@ -89,7 +104,7 @@ jobs:
           with open("sony_news.json", "w", encoding="utf-8") as f:
               json.dump(output, f, ensure_ascii=False, indent=2)
 
-          print("sony_news.json を正常に生成しました。")
+          print("sony_news.json を正常に更新しました。")
           EOF
 
       - name: Commit and Push sony_news.json
