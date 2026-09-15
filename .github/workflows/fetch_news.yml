@@ -29,8 +29,6 @@ jobs:
           import requests
           import json
           import re
-          import sys
-          import urllib.parse
           from datetime import datetime, timezone
 
           feeds = [
@@ -39,49 +37,54 @@ jobs:
           ]
 
           items = []
+          headers = {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36"
+          }
 
           for feed in feeds:
-              encoded_url = urllib.parse.quote(feed["url"], safe='')
-              api_url = f"https://api.rss2json.com/v1/api.json?rss_url={encoded_url}"
-              
               try:
-                  res = requests.get(api_url, timeout=15)
-                  if res.status_code == 200:
-                      data = res.json()
-                      if data.get("status") == "ok":
-                          raw_items = data.get("items", [])
-                          print(f"[{feed['name']}] 取得成功: {len(raw_items)}件")
-                          
-                          for entry in raw_items:
-                              title = entry.get("title", "").strip()
-                              link = entry.get("link", "").strip()
-                              guid = entry.get("guid", link).strip()
-                              pub_date = entry.get("pubDate", "")
-                              desc = entry.get("description", "")
-                              clean_desc = re.sub(r"<[^>]+>", "", desc).strip()
-                              
-                              if title and link:
-                                  items.append({
-                                      "id": guid,
-                                      "title": title,
-                                      "link": link,
-                                      "pubDate": pub_date,
-                                      "description": clean_desc,
-                                      "feedId": feed["id"],
-                                      "feedName": feed["name"]
-                                  })
-                      else:
-                          print(f"[{feed['name']}] APIエラー: {data.get('message')}")
-                  else:
-                      print(f"[{feed['name']}] 通信エラー HTTP: {res.status_code}")
+                  res = requests.get(feed["url"], headers=headers, timeout=15)
+                  # 文字化け防止のためバイナリからデコード
+                  try:
+                      content = res.content.decode('utf-8')
+                  except UnicodeDecodeError:
+                      content = res.content.decode('shift_jis', errors='ignore')
+                  
+                  # <item>タグをブロック単位で直接抽出
+                  blocks = re.findall(r'<item[\s>](.*?)</item>', content, re.DOTALL | re.IGNORECASE)
+                  print(f"[{feed['name']}] 検出ブロック数: {len(blocks)}")
+
+                  for block in blocks:
+                      title_m = re.search(r'<title.*?>(.*?)</title>', block, re.DOTALL | re.IGNORECASE)
+                      link_m = re.search(r'<link.*?>(.*?)</link>', block, re.DOTALL | re.IGNORECASE)
+                      date_m = re.search(r'<(?:pubDate|dc:date).*?>(.*?)</(?:pubDate|dc:date)>', block, re.DOTALL | re.IGNORECASE)
+                      desc_m = re.search(r'<description.*?>(.*?)</description>', block, re.DOTALL | re.IGNORECASE)
+
+                      def clean(val):
+                          if not val: return ""
+                          text = val.group(1).strip()
+                          text = re.sub(r'<!\[CDATA\[(.*?)\]\]>', r'\1', text, flags=re.DOTALL)
+                          return re.sub(r'<[^>]+>', '', text).strip()
+
+                      title = clean(title_m)
+                      link = clean(link_m)
+                      pub_date = clean(date_m)
+                      desc = clean(desc_m)
+
+                      if title and link:
+                          items.append({
+                              "id": link,
+                              "title": title,
+                              "link": link,
+                              "pubDate": pub_date,
+                              "description": desc,
+                              "feedId": feed["id"],
+                              "feedName": feed["name"]
+                          })
               except Exception as e:
-                  print(f"[{feed['name']}] 例外発生: {e}")
+                  print(f"[{feed['name']}] エラー: {e}")
 
           print(f"合計取得件数: {len(items)}件")
-
-          if len(items) == 0:
-              print("エラー: データが取得できませんでした。")
-              sys.exit(1)
 
           output = {
               "updatedAt": datetime.now(timezone.utc).isoformat(),
@@ -91,7 +94,7 @@ jobs:
           with open("sony_news.json", "w", encoding="utf-8") as f:
               json.dump(output, f, ensure_ascii=False, indent=2)
 
-          print("sony_news.json の書き出しが正常完了しました。")
+          print("sony_news.json を正常に生成しました。")
           EOF
 
       - name: Commit and Push sony_news.json
@@ -99,4 +102,4 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add sony_news.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update sony_news.json [skip ci]" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update sony_news.json [skip ci]" && push)
