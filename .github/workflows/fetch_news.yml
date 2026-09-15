@@ -1,9 +1,9 @@
-name: Fetch Sony RSS to news.xml
+name: Fetch Sony RSS to sony_news.json
 
 on:
   schedule:
     - cron: '0 * * * *' # 1時間ごとに自動更新
-  workflow_dispatch: # 手動実行ボタンを有効化
+  workflow_dispatch: # 手動実行ボタン
 
 permissions:
   contents: write
@@ -20,48 +20,71 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Fetch and Merge Sony RSS into news.xml
+      - name: Fetch Sony RSS and Output JSON
         run: |
           python -c '
           import urllib.request
           import xml.etree.ElementTree as ET
+          import json
+          import re
+          from datetime import datetime
 
-          urls = [
-              ("press", "https://www.sony.co.jp/SonyInfo/News/Press/rss/index.xml"),
-              ("product", "https://www.sony.jp/xml/news.xml")
+          feeds = [
+              {"id": "press", "name": "プレスリリース", "url": "https://www.sony.co.jp/SonyInfo/News/Press/rss/index.xml"},
+              {"id": "product", "name": "製品情報・新着", "url": "https://www.sony.jp/xml/news.xml"}
           ]
 
-          rss = ET.Element("rss", version="2.0")
-          channel = ET.SubElement(rss, "channel")
-          ET.SubElement(channel, "title").text = "Sony Aggregated News"
-          ET.SubElement(channel, "link").text = "https://www.sony.co.jp/"
-          ET.SubElement(channel, "description").text = "Sony News Aggregated via GitHub Actions"
-
+          items = []
           headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
-          for cat, url in urls:
+          for feed in feeds:
               try:
-                  req = urllib.request.Request(url, headers=headers)
+                  req = urllib.request.Request(feed["url"], headers=headers)
                   with urllib.request.urlopen(req) as resp:
                       data = resp.read()
                   root = ET.fromstring(data)
-                  for item in root.findall(".//item"):
-                      cat_elem = item.find("category")
-                      if cat_elem is None:
-                          cat_elem = ET.SubElement(item, "category")
-                      cat_elem.text = cat
-                      channel.append(item)
+                  
+                  # 名前空間を無視してitemタグを全検索
+                  for elem in root.iter():
+                      tag = elem.tag.split("}")[-1] if "}" in elem.tag else elem.tag
+                      if tag == "item":
+                          title, link, pubDate, desc, guid = "", "", "", "", ""
+                          for child in elem:
+                              c_tag = child.tag.split("}")[-1] if "}" in child.tag else child.tag
+                              if c_tag == "title": title = child.text or ""
+                              elif c_tag == "link": link = child.text or ""
+                              elif c_tag == "pubDate": pubDate = child.text or ""
+                              elif c_tag == "description": desc = child.text or ""
+                              elif c_tag == "guid": guid = child.text or ""
+                          
+                          if not guid: guid = link
+                          clean_desc = re.sub(r"<[^>]+>", "", desc).strip()
+                          
+                          if title and link:
+                              items.append({
+                                  "id": guid.strip(),
+                                  "title": title.strip(),
+                                  "link": link.strip(),
+                                  "pubDate": pubDate.strip(),
+                                  "description": clean_desc,
+                                  "feedId": feed["id"],
+                                  "feedName": feed["name"]
+                              })
               except Exception as e:
-                  print(f"Error fetching {url}: {e}")
+                  print(f"Error fetching {feed[\"name\"]}: {e}")
 
-          tree = ET.ElementTree(rss)
-          ET.indent(tree, space="  ")
-          tree.write("news.xml", encoding="utf-8", xml_declaration=True)
+          output = {
+              "updatedAt": datetime.utcnow().isoformat() + "Z",
+              "items": items
+          }
+
+          with open("sony_news.json", "w", encoding="utf-8") as f:
+              json.dump(output, f, ensure_ascii=False, indent=2)
           '
 
-      - name: Commit and Push news.xml
+      - name: Commit and Push sony_news.json
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add news.xml
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update news.xml [skip ci]" && git push)
+          git add sony_news.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update sony_news.json [skip ci]" && git push)
