@@ -31,9 +31,9 @@ jobs:
           import json
           import re
           import sys
+          import time
           from datetime import datetime, timezone
 
-          # ブロックを受けない各種フィード一覧
           feeds = [
               {
                   "id": "press",
@@ -73,6 +73,11 @@ jobs:
                           title = entry.get("title", "").strip()
                           link = entry.get("link", "").strip()
                           pub_date = entry.get("published", entry.get("updated", ""))
+                          
+                          # 時系列ソート用に数値化したタイムスタンプを取得
+                          parsed_time = entry.get("published_parsed") or entry.get("updated_parsed")
+                          timestamp = time.mktime(parsed_time) if parsed_time else 0
+
                           summary = entry.get("summary", entry.get("description", ""))
                           clean_desc = re.sub(r"<[^>]+>", "", summary).strip()
 
@@ -82,16 +87,18 @@ jobs:
                                   "title": title,
                                   "link": link,
                                   "pubDate": pub_date,
+                                  "timestamp": timestamp,
                                   "description": clean_desc[:120] + "..." if len(clean_desc) > 120 else clean_desc,
                                   "feedId": feed["id"],
                                   "feedName": feed["name"]
                               })
-                  else:
-                      print(f"[{feed['name']}] 通信エラー: HTTP {res.status_code}")
               except Exception as e:
                   print(f"[{feed['name']}] 例外発生: {e}")
 
-          print(f"合計取得件数: {len(items)}件")
+          # 日付（タイムスタンプ）が新しい順に全体をソート
+          items.sort(key=lambda x: x["timestamp"], reverse=True)
+
+          print(f"合計取得件数: {len(items)}件 (時系列ソート完了)")
 
           if len(items) == 0:
               print("エラー: 記事データが0件のため処理を中止します。")
