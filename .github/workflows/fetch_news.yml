@@ -1,0 +1,67 @@
+name: Fetch Sony RSS to news.xml
+
+on:
+  schedule:
+    - cron: '0 * * * *' # 1時間ごとに自動更新
+  workflow_dispatch: # 手動実行ボタンを有効化
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-rss:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Fetch and Merge Sony RSS into news.xml
+        run: |
+          python -c '
+          import urllib.request
+          import xml.etree.ElementTree as ET
+
+          urls = [
+              ("press", "https://www.sony.co.jp/SonyInfo/News/Press/rss/index.xml"),
+              ("product", "https://www.sony.jp/xml/news.xml")
+          ]
+
+          rss = ET.Element("rss", version="2.0")
+          channel = ET.SubElement(rss, "channel")
+          ET.SubElement(channel, "title").text = "Sony Aggregated News"
+          ET.SubElement(channel, "link").text = "https://www.sony.co.jp/"
+          ET.SubElement(channel, "description").text = "Sony News Aggregated via GitHub Actions"
+
+          headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
+
+          for cat, url in urls:
+              try:
+                  req = urllib.request.Request(url, headers=headers)
+                  with urllib.request.urlopen(req) as resp:
+                      data = resp.read()
+                  root = ET.fromstring(data)
+                  for item in root.findall(".//item"):
+                      cat_elem = item.find("category")
+                      if cat_elem is None:
+                          cat_elem = ET.SubElement(item, "category")
+                      cat_elem.text = cat
+                      channel.append(item)
+              except Exception as e:
+                  print(f"Error fetching {url}: {e}")
+
+          tree = ET.ElementTree(rss)
+          ET.indent(tree, space="  ")
+          tree.write("news.xml", encoding="utf-8", xml_declaration=True)
+          '
+
+      - name: Commit and Push news.xml
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add news.xml
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update news.xml [skip ci]" && git push)
