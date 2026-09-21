@@ -1,36 +1,6 @@
 {
-  "updatedAt": "2026-09-21T03:33:08.122119+00:00",
+  "updatedAt": "2026-09-21T09:38:27.486264+00:00",
   "items": [
-    {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 23:54:25 GMT",
-      "timestamp": 1789862065.0,
-      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNUNYRGZEM3RPaG9WWUFIcG9PU2tvSjQ3TmdCb0NPQ3dPak5IdWVWa1ZUcUE2WnA5NEZlbkJQbDMxb1NDbjFwS1RiVklScllySzl2S1RpX2RxaGp6NUNCYkp3eldWRDN1SFJpZXU1cF9aeHNXTzdNWGFSQ2g1U3B1T1Bn?oc=5",
-      "title": "WF-1000XM6 購入 | ヘッドホン - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNUNYRGZEM3RPaG9WWUFIcG9PU2tvSjQ3TmdCb0NPQ3dPak5IdWVWa1ZUcUE2WnA5NEZlbkJQbDMxb1NDbjFwS1RiVklScllySzl2S1RpX2RxaGp6NUNCYkp3eldWRDN1SFJpZXU1cF9aeHNXTzdNWGFSQ2g1U3B1T1Bn?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 15:40:58 GMT",
-      "timestamp": 1789832458.0,
-      "description": "WF-1000XM6 購入 | ヘッドホン&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
-      "title": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 01:37:04 GMT",
-      "timestamp": 1789781824.0,
-      "description": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
     {
       "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHTXdUTDVBNWRuUm1FZ3FJN0FXcWxkZTBMaDZ4bEc1VnlxQjd3QXBTUnN2cHQ0Q1ZLLU5ncVBaVGhjTnd5UjVxMUtUTzZvMS1PbTZBMFphSUE4eFlNOGx4UTRHSmx2MExqWWZoZQ?oc=5",
       "title": "ソニーストア 店舗 感謝祭 | ソニーストアについて | ソニー - ソニーストア",
@@ -162,6 +132,26 @@
       "feedName": "サポート・全般"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tYWdyQXliQW1QTFFyYmx3dnhDeFg0bzlEVTZuQ1FWeFByZVpkTWh0ZzBQYVVJVENiN1FsTHFKWDZWZWNRbVkxazlnWkQ5SHd1U2dyMjQxNmt2QWNTM3NCRWZ3?oc=5",
+      "title": "ソニーストア おすすめ商品 | ソニーストアについて | ソニー - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tYWdyQXliQW1QTFFyYmx3dnhDeFg0bzlEVTZuQ1FWeFByZVpkTWh0ZzBQYVVJVENiN1FsTHFKWDZWZWNRbVkxazlnWkQ5SHd1U2dyMjQxNmt2QWNTM3NCRWZ3?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 05:03:10 GMT",
+      "timestamp": 1782882190.0,
+      "description": "ソニーストア おすすめ商品 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "pubDate": "Wed, 13 May 2026 02:14:31 GMT",
+      "timestamp": 1778638471.0,
+      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43YjZhcl9MNWdQN0NnbXBZbUJrZjNxbTlkbU13ZTRjX1JUWVJveXJ1UVZ5UmhVNkdjYnZXUl9SOVEzWXBwNUc1T25yZE53LTFtUEZQanVjQ210Zw?oc=5",
       "title": "Xperia 1 VIII - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43YjZhcl9MNWdQN0NnbXBZbUJrZjNxbTlkbU13ZTRjX1JUWVJveXJ1UVZ5UmhVNkdjYnZXUl9SOVEzWXBwNUc1T25yZE53LTFtUEZQanVjQ210Zw?oc=5",
@@ -273,11 +263,11 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFdqTXc3M2RzMmYwRC15TklZU1dWNTcySTZGME9TME9tbmhDa0dsYVpfb19idDY4aFZ4WUpMcDY5QWpiaWpIeFhqYkdUbmNjTlVkMWlFWFBEd0dXajF0OXh2NE9BLVNVVnB0TXI3VF9hUnRqMlpzNVh1MTlxbjljRmFTRy1IWmpG?oc=5",
-      "title": "Version 8.2.0 Android版アップデートのお知らせ | Video & TV SideView（ビデオ＆テレビサイドビュー） | サポート・お問い合わせ - ソニーストア",
+      "title": "Video & TV SideView サポート Version 8.2.0 Android 版アップデートのお知らせ - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFdqTXc3M2RzMmYwRC15TklZU1dWNTcySTZGME9TME9tbmhDa0dsYVpfb19idDY4aFZ4WUpMcDY5QWpiaWpIeFhqYkdUbmNjTlVkMWlFWFBEd0dXajF0OXh2NE9BLVNVVnB0TXI3VF9hUnRqMlpzNVh1MTlxbjljRmFTRy1IWmpG?oc=5",
       "pubDate": "Thu, 29 May 2025 07:00:00 GMT",
       "timestamp": 1748502000.0,
-      "description": "Version 8.2.0 Android版アップデートのお知らせ | Video & TV SideView（ビデオ＆テレビサイドビュー） | サポート・お問い合わせ&nbsp;&nbsp;ソニーストア",
+      "description": "Video & TV SideView サポート Version 8.2.0 Android 版アップデートのお知らせ&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
     },
@@ -298,16 +288,6 @@
       "pubDate": "Sun, 16 Jun 2024 15:32:53 GMT",
       "timestamp": 1718551973.0,
       "description": "夫婦自撮りショットのススメ自然に見える幸せシーンの作り方｜矢野明日香’s recipe&nbsp;&nbsp;αcafe",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15aEpacUViZG9yWGYwY2Jia2REWWEtZV9CMUdiMC1BY2ZERFZJdHU2ZlpTczlnQi1pSXVWUDMzdUk1WmZTSEJPRFVveHRFRVpWMXhZR29mdU8tMXIxRTFVY2ZTRzI?oc=5",
-      "title": "風景写真をより美しくする二分割構図のススメ｜zookomi’s recipe - αcafe",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15aEpacUViZG9yWGYwY2Jia2REWWEtZV9CMUdiMC1BY2ZERFZJdHU2ZlpTczlnQi1pSXVWUDMzdUk1WmZTSEJPRFVveHRFRVpWMXhZR29mdU8tMXIxRTFVY2ZTRzI?oc=5",
-      "pubDate": "Thu, 06 Jun 2024 03:41:24 GMT",
-      "timestamp": 1717645284.0,
-      "description": "風景写真をより美しくする二分割構図のススメ｜zookomi’s recipe&nbsp;&nbsp;αcafe",
       "feedId": "store",
       "feedName": "ストア・イベント"
     },
@@ -363,21 +343,21 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ZVYyNFB2N0k5b1l0a2JvS3Y2OFFOeWNfQWhQUmtDR3hVcGFnSFNWdFA4bkp3ZDVDMzVLUVRCazVoWEFObVlmTGItR2taRHlRLVdab2dBVVg?oc=5",
-      "title": "ソニーストアご利用感謝 ラッキー抽選会 - ソニーストア",
+      "title": "ソニーストアご利用感謝 ラッキー抽選会 | ソニーストアについて | ソニー - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ZVYyNFB2N0k5b1l0a2JvS3Y2OFFOeWNfQWhQUmtDR3hVcGFnSFNWdFA4bkp3ZDVDMzVLUVRCazVoWEFObVlmTGItR2taRHlRLVdab2dBVVg?oc=5",
       "pubDate": "Wed, 22 Feb 2023 03:51:08 GMT",
       "timestamp": 1677037868.0,
-      "description": "ソニーストアご利用感謝 ラッキー抽選会&nbsp;&nbsp;ソニーストア",
+      "description": "ソニーストアご利用感謝 ラッキー抽選会 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ZVYyNFB2N0k5b1l0a2JvS3Y2OFFOeWNfQWhQUmtDR3hVcGFnSFNWdFA4bkp3ZDVDMzVLUVRCazVoWEFObVlmTGItR2taRHlRLVdab2dBVVg?oc=5",
-      "title": "ソニーストアご利用感謝 ラッキー抽選会 - ソニーストア",
+      "title": "ソニーストアご利用感謝 ラッキー抽選会 | ソニーストアについて | ソニー - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ZVYyNFB2N0k5b1l0a2JvS3Y2OFFOeWNfQWhQUmtDR3hVcGFnSFNWdFA4bkp3ZDVDMzVLUVRCazVoWEFObVlmTGItR2taRHlRLVdab2dBVVg?oc=5",
       "pubDate": "Wed, 22 Feb 2023 03:51:08 GMT",
       "timestamp": 1677037868.0,
-      "description": "ソニーストアご利用感謝 ラッキー抽選会&nbsp;&nbsp;ソニーストア",
+      "description": "ソニーストアご利用感謝 ラッキー抽選会 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
     },
@@ -423,11 +403,11 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SSk5GRThheHNyTFhFaW1BQkFyWkdOUXhvUDlHLVdzZnZNTVBhdG9uVTBrUV9kVTRfb2VjU19WYWgtWXdJT3Q0YlFpb1FtXzdWbVJMZFJrVEdvcmEwZ3VvanpwWVE?oc=5",
-      "title": "パソコンでテレビ視聴、かんたんダビング「PC TV Plus (Lite)」 | 関連ソフトウェア - ソニーストア",
+      "title": "パソコンでテレビ視聴、かんたんダビング「PC TV Plus (Lite)」 | 関連ソフトウェア | ソニー - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1SSk5GRThheHNyTFhFaW1BQkFyWkdOUXhvUDlHLVdzZnZNTVBhdG9uVTBrUV9kVTRfb2VjU19WYWgtWXdJT3Q0YlFpb1FtXzdWbVJMZFJrVEdvcmEwZ3VvanpwWVE?oc=5",
       "pubDate": "Mon, 01 Jul 2019 06:35:35 GMT",
       "timestamp": 1561962935.0,
-      "description": "パソコンでテレビ視聴、かんたんダビング「PC TV Plus (Lite)」 | 関連ソフトウェア&nbsp;&nbsp;ソニーストア",
+      "description": "パソコンでテレビ視聴、かんたんダビング「PC TV Plus (Lite)」 | 関連ソフトウェア | ソニー&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -462,6 +442,16 @@
       "feedName": "カメラ更新"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMQ3hQN1dXSzk0cElTbVlZRHdSdlB1dmxOT0VpTzdrVTBxUGlheFNONFc3MnVRYTAyVWVpcXNWb1Q1aVhmWmc?oc=5",
+      "title": "カート - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMQ3hQN1dXSzk0cElTbVlZRHdSdlB1dmxOT0VpTzdrVTBxUGlheFNONFc3MnVRYTAyVWVpcXNWb1Q1aVhmWmc?oc=5",
+      "pubDate": "Wed, 29 Nov 2017 14:15:21 GMT",
+      "timestamp": 1511964921.0,
+      "description": "カート&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDNvOGl5WDdNa01hQ0lTNUEybjAyMFVXeHRrS21ZTFdkZ2pKVnFWZmtpdVh1ZVV5Ynhic242SjVJNFlfRzJIdThkSHlxWVItUUVqbzFQMzVHeE1MbENjb2RJSFdRUC1kY19UUEJRR0w1S05hQTJhdHBSdEcxTnJkRjUybw?oc=5",
       "title": "ウォークマンをアップデートする - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDNvOGl5WDdNa01hQ0lTNUEybjAyMFVXeHRrS21ZTFdkZ2pKVnFWZmtpdVh1ZVV5Ynhic242SjVJNFlfRzJIdThkSHlxWVItUUVqbzFQMzVHeE1MbENjb2RJSFdRUC1kY19UUEJRR0w1S05hQTJhdHBSdEcxTnJkRjUybw?oc=5",
@@ -483,11 +473,11 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4X1YtcTZUNFBuTnotd3BSSDlwTERXbV83cmxKUlRJR0hOdUM3eFNEeUVBMHNKOVVleXNYenJOVEtMdHYwTWRR?oc=5",
-      "title": "ソニーストアのご利用ガイド - ソニーストア",
+      "title": "ソニーストアのご利用ガイド | ソニーストアについて | ソニー - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4X1YtcTZUNFBuTnotd3BSSDlwTERXbV83cmxKUlRJR0hOdUM3eFNEeUVBMHNKOVVleXNYenJOVEtMdHYwTWRR?oc=5",
       "pubDate": "Sun, 03 May 2015 20:19:48 GMT",
       "timestamp": 1430684388.0,
-      "description": "ソニーストアのご利用ガイド&nbsp;&nbsp;ソニーストア",
+      "description": "ソニーストアのご利用ガイド | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
     },
@@ -510,6 +500,16 @@
       "description": "残価設定クレジット&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04YUVwaUNrcGY2cm9NOHhabHJlNUppM2VJM2NxSlNLdllTQVJpQmJFQTUtNE9lM0xxbUZOWHNTUkhiallWWUt4Z1R5Z3dUbUgxdHpHR0ZJTHJsaERMY0Z3RjN3?oc=5",
+      "title": "クーポン、お買い物券の種類とご利用方法 - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04YUVwaUNrcGY2cm9NOHhabHJlNUppM2VJM2NxSlNLdllTQVJpQmJFQTUtNE9lM0xxbUZOWHNTUkhiallWWUt4Z1R5Z3dUbUgxdHpHR0ZJTHJsaERMY0Z3RjN3?oc=5",
+      "pubDate": "Mon, 23 Mar 2015 12:33:24 GMT",
+      "timestamp": 1427114004.0,
+      "description": "クーポン、お買い物券の種類とご利用方法&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04YUVwaUNrcGY2cm9NOHhabHJlNUppM2VJM2NxSlNLdllTQVJpQmJFQTUtNE9lM0xxbUZOWHNTUkhiallWWUt4Z1R5Z3dUbUgxdHpHR0ZJTHJsaERMY0Z3RjN3?oc=5",
