@@ -1,23 +1,13 @@
 {
-  "updatedAt": "2026-09-21T23:50:29.116626+00:00",
+  "updatedAt": "2026-09-22T03:31:58.420026+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Sun, 20 Sep 2026 18:07:25 GMT",
-      "timestamp": 1789927645.0,
+      "pubDate": "Sun, 20 Sep 2026 03:08:20 GMT",
+      "timestamp": 1789873700.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
-      "title": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
-      "pubDate": "Sat, 19 Sep 2026 16:45:11 GMT",
-      "timestamp": 1789836311.0,
-      "description": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -180,16 +170,6 @@
       "description": "メモリーカードでカメラをアップデートする方法&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSSC1Hb05BYmNidUxkcl9tN05uVEh2aTgzWkJfaVVjWTk2c0JsWUVJUXJjNFVyel91SWI3ZlJ1bDMxQVY1RF8xVDE3Uy13S1A5MGxOY25FSmhsbUZBVGNDMHEyN3pRQUx2TmV3UFQ1YnlYQQ?oc=5",
-      "title": "Music Center for PC - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSSC1Hb05BYmNidUxkcl9tN05uVEh2aTgzWkJfaVVjWTk2c0JsWUVJUXJjNFVyel91SWI3ZlJ1bDMxQVY1RF8xVDE3Uy13S1A5MGxOY25FSmhsbUZBVGNDMHEyN3pRQUx2TmV3UFQ1YnlYQQ?oc=5",
-      "pubDate": "Tue, 03 Mar 2026 04:56:44 GMT",
-      "timestamp": 1772513804.0,
-      "description": "Music Center for PC&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSSC1Hb05BYmNidUxkcl9tN05uVEh2aTgzWkJfaVVjWTk2c0JsWUVJUXJjNFVyel91SWI3ZlJ1bDMxQVY1RF8xVDE3Uy13S1A5MGxOY25FSmhsbUZBVGNDMHEyN3pRQUx2TmV3UFQ1YnlYQQ?oc=5",
@@ -588,6 +568,26 @@
       "pubDate": "Mon, 24 Oct 2011 03:19:08 GMT",
       "timestamp": 1319426348.0,
       "description": "ソニー製品情報・ソニーストア - ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OM0NpM0R3SjlKNlQ4ZEY1czBuamNrZXB6eVVTU0JkTlBxVjhRUGE0dGF5S3JuaTBYYXYtU0lUN3UtOS04SXJIbnlxMGE?oc=5",
+      "title": "αcafeとは？ - αcafe",
+      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OM0NpM0R3SjlKNlQ4ZEY1czBuamNrZXB6eVVTU0JkTlBxVjhRUGE0dGF5S3JuaTBYYXYtU0lUN3UtOS04SXJIbnlxMGE?oc=5",
+      "pubDate": "Thu, 22 Sep 2011 03:09:41 GMT",
+      "timestamp": 1316660981.0,
+      "description": "αcafeとは？&nbsp;&nbsp;αcafe",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1EbVhtOTJSRWV6di1nQVQ3RjBrbU1NLVBwX3JmOGhSNVRwTllQQkxMUXF5YzhsNHkzcXpiMFlqNA?oc=5",
+      "title": "αcafe - αcafe",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1EbVhtOTJSRWV6di1nQVQ3RjBrbU1NLVBwX3JmOGhSNVRwTllQQkxMUXF5YzhsNHkzcXpiMFlqNA?oc=5",
+      "pubDate": "Fri, 20 May 2011 04:16:07 GMT",
+      "timestamp": 1305864967.0,
+      "description": "αcafe&nbsp;&nbsp;αcafe",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
