@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-22T18:31:35.368788+00:00",
+  "updatedAt": "2026-09-22T21:47:52.039346+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 09:23:01 GMT",
-      "timestamp": 1790068981.0,
+      "pubDate": "Tue, 22 Sep 2026 12:15:43 GMT",
+      "timestamp": 1790079343.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -43,11 +43,11 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SblZ4OC1kbTRER2FOSTBUY0dCOXdFSHVPcTBlUkNmVmttMVlXY2Z1MlZHMnd5cDB0M3QzbDh2RkNJbWVLM2JMcHlLRUYtWUlDd0JIdlExN3VQVnlNeXRlem41MUdMU3Ba?oc=5",
-      "title": "を実現した超望遠単焦点レンズ Gマスター - ソニーストア",
+      "title": "焦点距離400 mmおよび600 mmで世界最軽量を実現した超望遠単焦点レンズ Gマスター（TM）2機種を発売 | ニュースリリース - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SblZ4OC1kbTRER2FOSTBUY0dCOXdFSHVPcTBlUkNmVmttMVlXY2Z1MlZHMnd5cDB0M3QzbDh2RkNJbWVLM2JMcHlLRUYtWUlDd0JIdlExN3VQVnlNeXRlem41MUdMU3Ba?oc=5",
       "pubDate": "Tue, 15 Sep 2026 14:15:34 GMT",
       "timestamp": 1789481734.0,
-      "description": "を実現した超望遠単焦点レンズ Gマスター&nbsp;&nbsp;ソニーストア",
+      "description": "焦点距離400 mmおよび600 mmで世界最軽量を実現した超望遠単焦点レンズ Gマスター（TM）2機種を発売 | ニュースリリース&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -198,6 +198,16 @@
       "pubDate": "Fri, 12 Sep 2025 05:19:26 GMT",
       "timestamp": 1757654366.0,
       "description": "Xperia 10 VII&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtekV0OXYzUFFPdDRKU2dMenNWTHZnQXZVdEpJXzEzUWJaUGZadTlmRlpoS1VoWm9UZzc2RC1kbms2dTh4dVNTY0s2OFZINFROYnZnS1hxY2h1YkE?oc=5",
+      "title": "Xperia 10 VII - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtekV0OXYzUFFPdDRKU2dMenNWTHZnQXZVdEpJXzEzUWJaUGZadTlmRlpoS1VoWm9UZzc2RC1kbms2dTh4dVNTY0s2OFZINFROYnZnS1hxY2h1YkE?oc=5",
+      "pubDate": "Fri, 12 Sep 2025 05:19:26 GMT",
+      "timestamp": 1757654366.0,
+      "description": "Xperia 10 VII&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -263,11 +273,11 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1zdXlmWVpJam5tX2RtenNCSkxVMWVncFNuWGE3MG1BNEh5UXFqYnV4RnU5UFA5SVN6Z2FoT0s3aWo?oc=5",
-      "title": "Xperia 1 VIII:構えて、選んで、撮っちゃって【ソニー公式】 - ソニーストア",
+      "title": "Xperia - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1zdXlmWVpJam5tX2RtenNCSkxVMWVncFNuWGE3MG1BNEh5UXFqYnV4RnU5UFA5SVN6Z2FoT0s3aWo?oc=5",
       "pubDate": "Mon, 11 Sep 2023 01:07:45 GMT",
       "timestamp": 1694394465.0,
-      "description": "Xperia 1 VIII:構えて、選んで、撮っちゃって【ソニー公式】&nbsp;&nbsp;ソニーストア",
+      "description": "Xperia&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -290,16 +300,6 @@
       "description": "アプリをアップデート（インストール）できない | よくある質問 | Windows アプリ | PC TV Plus&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ZVYyNFB2N0k5b1l0a2JvS3Y2OFFOeWNfQWhQUmtDR3hVcGFnSFNWdFA4bkp3ZDVDMzVLUVRCazVoWEFObVlmTGItR2taRHlRLVdab2dBVVg?oc=5",
-      "title": "ソニーストアご利用感謝 ラッキー抽選会 | ソニーストアについて | ソニー - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ZVYyNFB2N0k5b1l0a2JvS3Y2OFFOeWNfQWhQUmtDR3hVcGFnSFNWdFA4bkp3ZDVDMzVLUVRCazVoWEFObVlmTGItR2taRHlRLVdab2dBVVg?oc=5",
-      "pubDate": "Wed, 22 Feb 2023 03:51:08 GMT",
-      "timestamp": 1677037868.0,
-      "description": "ソニーストアご利用感謝 ラッキー抽選会 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ZVYyNFB2N0k5b1l0a2JvS3Y2OFFOeWNfQWhQUmtDR3hVcGFnSFNWdFA4bkp3ZDVDMzVLUVRCazVoWEFObVlmTGItR2taRHlRLVdab2dBVVg?oc=5",
@@ -563,11 +563,11 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE8yZjJHM2xhVUtQYVdfV29RT25RSUgtbC1Cdmpac21oRjNWVF8wWWNqVnU5XzEwSVU?oc=5",
-      "title": "ソニー製品情報・ソニーストア - ソニー - ソニーストア",
+      "title": "ソニーストア - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE8yZjJHM2xhVUtQYVdfV29RT25RSUgtbC1Cdmpac21oRjNWVF8wWWNqVnU5XzEwSVU?oc=5",
       "pubDate": "Mon, 24 Oct 2011 03:19:08 GMT",
       "timestamp": 1319426348.0,
-      "description": "ソニー製品情報・ソニーストア - ソニー&nbsp;&nbsp;ソニーストア",
+      "description": "ソニーストア&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
