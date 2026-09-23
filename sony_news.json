@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-23T10:51:29.865254+00:00",
+  "updatedAt": "2026-09-23T15:18:20.400393+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Wed, 23 Sep 2026 09:21:58 GMT",
-      "timestamp": 1790155318.0,
+      "pubDate": "Tue, 22 Sep 2026 12:23:07 GMT",
+      "timestamp": 1790079787.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -102,6 +102,16 @@
       "feedName": "サポート・全般"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wX0hGRnpPbUQxeUF3NnVqS3VNSmhvQUE0WFZ6S1ltZDVmeTJvbXk2eGYzbTUtdlFLMmVvaG5XUUVuYXFYRzRsSlpnOWhVckQ5aUtpQVE2dVlWU0tDR2hxXzVMZzBOdw?oc=5",
+      "title": "Xperia 1 VIII | 仕様（スペック） | Xperia（エクスペリア） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wX0hGRnpPbUQxeUF3NnVqS3VNSmhvQUE0WFZ6S1ltZDVmeTJvbXk2eGYzbTUtdlFLMmVvaG5XUUVuYXFYRzRsSlpnOWhVckQ5aUtpQVE2dVlWU0tDR2hxXzVMZzBOdw?oc=5",
+      "pubDate": "Wed, 13 May 2026 02:06:00 GMT",
+      "timestamp": 1778637960.0,
+      "description": "Xperia 1 VIII | 仕様（スペック） | Xperia（エクスペリア）&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzZKcjNhaWlHSVJKSzMzSV84MXhVQ0NUbUNFMW5Eb0RHb19XV0hVR2pBLWhUYVA2cjUwcUp1aHdsSzBTYkJyWlpvUENod1ZMVmc4S3FSWU1vUklDa0QyRmh0Zjl5cU9iNEMtZ2ZTbmxqSloyY2VMTjVCSkZuMG5rSGFURTdpUFFL?oc=5",
       "title": "Video & TV SideView サポート Version 8.3.1 Android 版アップデートのお知らせ - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbzZKcjNhaWlHSVJKSzMzSV84MXhVQ0NUbUNFMW5Eb0RHb19XV0hVR2pBLWhUYVA2cjUwcUp1aHdsSzBTYkJyWlpvUENod1ZMVmc4S3FSWU1vUklDa0QyRmh0Zjl5cU9iNEMtZ2ZTbmxqSloyY2VMTjVCSkZuMG5rSGFURTdpUFFL?oc=5",
@@ -110,16 +120,6 @@
       "description": "Video & TV SideView サポート Version 8.3.1 Android 版アップデートのお知らせ&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzdoQUw0VTlQc0Z4WWg1SmJjaHhPcUFtWHlsNGswWkFxWlJTVEtFR3RqU1lJczFOYl9pRno4bVZlaHZHZ0E4aDI2bkh6aWg2OUNJRTlxN0xnT2JaanBxeG9yQkstMklYbTFBT2JOaUdkaGZMRnJyRUk1X09fVW5NWlI1RTlZaXRkRlVQLTVZZFN4a0k?oc=5",
-      "title": "ドライバーとソフトウェアのアップデート スマートフォン | ソニー - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzdoQUw0VTlQc0Z4WWg1SmJjaHhPcUFtWHlsNGswWkFxWlJTVEtFR3RqU1lJczFOYl9pRno4bVZlaHZHZ0E4aDI2bkh6aWg2OUNJRTlxN0xnT2JaanBxeG9yQkstMklYbTFBT2JOaUdkaGZMRnJyRUk1X09fVW5NWlI1RTlZaXRkRlVQLTVZZFN4a0k?oc=5",
-      "pubDate": "Mon, 06 Apr 2026 06:00:41 GMT",
-      "timestamp": 1775455241.0,
-      "description": "ドライバーとソフトウェアのアップデート スマートフォン | ソニー&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jSmhOb0xJZkw1SGt3dUc2Y1l4ZFhOaFJJNDNlbmdxLUc0Z0VjTUR4SDBwcGR1bkM4ZEhRLXRvbGZsTEhLbzQyV3hFVkR5SHpRRTF3NlpEQXNSWkZhbmp6LWozNA?oc=5",
@@ -312,6 +312,16 @@
       "feedName": "ストア・イベント"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtdHBINjlpSmN6M2YxVXVPa0dGWnRNb2R0b1hMQk1wcUNkeWF5bHYxNGtGakIwNWtIR2ZWZjA3ODhGdDZyNmUtQnlNZkZwSENTQldBSjFFQ3RhZXgzbVpub05OQ3pZaTZWX1ZHaHRXZWgwRURRaThRUA?oc=5",
+      "title": "ソフトウェアアップデートについて | 2021 | 使いかたマニュアル | ブルーレイディスク / DVDレコーダー | サポート・お問い合わせ - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtdHBINjlpSmN6M2YxVXVPa0dGWnRNb2R0b1hMQk1wcUNkeWF5bHYxNGtGakIwNWtIR2ZWZjA3ODhGdDZyNmUtQnlNZkZwSENTQldBSjFFQ3RhZXgzbVpub05OQ3pZaTZWX1ZHaHRXZWgwRURRaThRUA?oc=5",
+      "pubDate": "Thu, 29 Apr 2021 15:25:37 GMT",
+      "timestamp": 1619709937.0,
+      "description": "ソフトウェアアップデートについて | 2021 | 使いかたマニュアル | ブルーレイディスク / DVDレコーダー | サポート・お問い合わせ&nbsp;&nbsp;ソニーストア",
+      "feedId": "camera_update",
+      "feedName": "カメラ更新"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81WHlfVks1T2dZU29vUTlSdzA1R2tzRElDNWQ2Y1BPUGpZdFhoSEhjM1JZWTJ0cjRYWmxPdVVWLWp1cFR2cjRIdFZDc0dGQ0kxak5Iag?oc=5",
       "title": "社会福祉法人 明日へ向かって 様 - aibo",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81WHlfVks1T2dZU29vUTlSdzA1R2tzRElDNWQ2Y1BPUGpZdFhoSEhjM1JZWTJ0cjRYWmxPdVVWLWp1cFR2cjRIdFZDc0dGQ0kxak5Iag?oc=5",
@@ -358,16 +368,6 @@
       "pubDate": "Thu, 26 Jul 2018 15:12:24 GMT",
       "timestamp": 1532617944.0,
       "description": "Infineon TPM ファームウェア アップデート手順書 For Windows 10&nbsp;&nbsp;contents.sony.jp",
-      "feedId": "camera_update",
-      "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlZFLUZEUnpvc3BUcjhOQjVHOVBiWDEyN1FyOVVXUVNwaVIza0FXSGVqOFpnNU1BM1pPQ2pZZUptVU5fQXlVOTJmOGpXSVIwRGFPczdTel9UZndOT0tsWl92LXJSc3dHcXd1SlV2RHJHX2NBZ2dEbjhKMTlnRE9CbmQ5dmZVNkItdlk0ZDAtOA?oc=5",
-      "title": "デジタルスチルカメラ サイバーショット ファームウェアアップデートのご案内 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlZFLUZEUnpvc3BUcjhOQjVHOVBiWDEyN1FyOVVXUVNwaVIza0FXSGVqOFpnNU1BM1pPQ2pZZUptVU5fQXlVOTJmOGpXSVIwRGFPczdTel9UZndOT0tsWl92LXJSc3dHcXd1SlV2RHJHX2NBZ2dEbjhKMTlnRE9CbmQ5dmZVNkItdlk0ZDAtOA?oc=5",
-      "pubDate": "Thu, 24 May 2018 12:29:44 GMT",
-      "timestamp": 1527164984.0,
-      "description": "デジタルスチルカメラ サイバーショット ファームウェアアップデートのご案内&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
     },
