@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-24T01:07:28.221182+00:00",
+  "updatedAt": "2026-09-24T07:15:39.835747+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Tue, 22 Sep 2026 00:27:07 GMT",
-      "timestamp": 1790036827.0,
+      "pubDate": "Tue, 22 Sep 2026 06:31:30 GMT",
+      "timestamp": 1790058690.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -20,26 +20,6 @@
       "description": "ソニーストア 店舗 感謝祭&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Wb1BmZk9wZi1RUHRCeHlwRlAzX0x0QjVuN1FZdVlZZ0x0bkVRQmVrOUxfT2tMcHFIckZOTG9mYnd5S2s4UGxIR2NvR0tmOWlFNVZ2YTl1S1Q5NFI1NVE?oc=5",
-      "title": "SEL600F63GM | デジタル一眼カメラ α（アルファ） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Wb1BmZk9wZi1RUHRCeHlwRlAzX0x0QjVuN1FZdVlZZ0x0bkVRQmVrOUxfT2tMcHFIckZOTG9mYnd5S2s4UGxIR2NvR0tmOWlFNVZ2YTl1S1Q5NFI1NVE?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 14:40:33 GMT",
-      "timestamp": 1789483233.0,
-      "description": "SEL600F63GM | デジタル一眼カメラ α（アルファ）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Wb1BmZk9wZi1RUHRCeHlwRlAzX0x0QjVuN1FZdVlZZ0x0bkVRQmVrOUxfT2tMcHFIckZOTG9mYnd5S2s4UGxIR2NvR0tmOWlFNVZ2YTl1S1Q5NFI1NVE?oc=5",
-      "title": "SEL600F63GM | デジタル一眼カメラ α（アルファ） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Wb1BmZk9wZi1RUHRCeHlwRlAzX0x0QjVuN1FZdVlZZ0x0bkVRQmVrOUxfT2tMcHFIckZOTG9mYnd5S2s4UGxIR2NvR0tmOWlFNVZ2YTl1S1Q5NFI1NVE?oc=5",
-      "pubDate": "Tue, 15 Sep 2026 14:40:33 GMT",
-      "timestamp": 1789483233.0,
-      "description": "SEL600F63GM | デジタル一眼カメラ α（アルファ）&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SblZ4OC1kbTRER2FOSTBUY0dCOXdFSHVPcTBlUkNmVmttMVlXY2Z1MlZHMnd5cDB0M3QzbDh2RkNJbWVLM2JMcHlLRUYtWUlDd0JIdlExN3VQVnlNeXRlem41MUdMU3Ba?oc=5",
@@ -78,16 +58,6 @@
       "pubDate": "Tue, 25 Aug 2026 02:07:23 GMT",
       "timestamp": 1787623643.0,
       "description": "Xperia 10 VIII | 仕様（スペック） | Xperia（エクスペリア）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzNHRhY1JkdDVtTWdieHFiTXhqNW9OYUR5R3N3bXZkX1VIbThBR2ttbUxycDJTc2xrWHV6eXpRZjctSWNPUjEySGZQLXFsTFE4Q2pXWnAtaHNWd3hSeFpGSGVTV290RmM?oc=5",
-      "title": "Xperia 10 VIII | 仕様（スペック） | Xperia（エクスペリア） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzNHRhY1JkdDVtTWdieHFiTXhqNW9OYUR5R3N3bXZkX1VIbThBR2ttbUxycDJTc2xrWHV6eXpRZjctSWNPUjEySGZQLXFsTFE4Q2pXWnAtaHNWd3hSeFpGSGVTV290RmM?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 02:07:23 GMT",
-      "timestamp": 1787623643.0,
-      "description": "Xperia 10 VIII | 仕様（スペック） | Xperia（エクスペリア）&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -98,6 +68,16 @@
       "pubDate": "Wed, 10 Jun 2026 07:00:00 GMT",
       "timestamp": 1781074800.0,
       "description": "指紋認証がうまく反応しない／認識が悪くなった&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wX0hGRnpPbUQxeUF3NnVqS3VNSmhvQUE0WFZ6S1ltZDVmeTJvbXk2eGYzbTUtdlFLMmVvaG5XUUVuYXFYRzRsSlpnOWhVckQ5aUtpQVE2dVlWU0tDR2hxXzVMZzBOdw?oc=5",
+      "title": "Xperia 1 VIII | 仕様（スペック） | Xperia（エクスペリア） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9wX0hGRnpPbUQxeUF3NnVqS3VNSmhvQUE0WFZ6S1ltZDVmeTJvbXk2eGYzbTUtdlFLMmVvaG5XUUVuYXFYRzRsSlpnOWhVckQ5aUtpQVE2dVlWU0tDR2hxXzVMZzBOdw?oc=5",
+      "pubDate": "Wed, 13 May 2026 02:06:00 GMT",
+      "timestamp": 1778637960.0,
+      "description": "Xperia 1 VIII | 仕様（スペック） | Xperia（エクスペリア）&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -190,6 +170,26 @@
       "description": "WF-1000XM5 本体ソフトウェア アップデート方法（Ver 6.1.0）Android | ヘッドホン | ソニー&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
+      "title": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
+      "pubDate": "Thu, 02 Oct 2025 01:50:39 GMT",
+      "timestamp": 1759369839.0,
+      "description": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtekV0OXYzUFFPdDRKU2dMenNWTHZnQXZVdEpJXzEzUWJaUGZadTlmRlpoS1VoWm9UZzc2RC1kbms2dTh4dVNTY0s2OFZINFROYnZnS1hxY2h1YkE?oc=5",
+      "title": "Xperia 10 VII - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtekV0OXYzUFFPdDRKU2dMenNWTHZnQXZVdEpJXzEzUWJaUGZadTlmRlpoS1VoWm9UZzc2RC1kbms2dTh4dVNTY0s2OFZINFROYnZnS1hxY2h1YkE?oc=5",
+      "pubDate": "Fri, 12 Sep 2025 05:19:26 GMT",
+      "timestamp": 1757654366.0,
+      "description": "Xperia 10 VII&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtekV0OXYzUFFPdDRKU2dMenNWTHZnQXZVdEpJXzEzUWJaUGZadTlmRlpoS1VoWm9UZzc2RC1kbms2dTh4dVNTY0s2OFZINFROYnZnS1hxY2h1YkE?oc=5",
