@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-26T09:09:53.067431+00:00",
+  "updatedAt": "2026-09-26T14:09:28.457265+00:00",
   "items": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - pur.store.sony.jp",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 13:02:30 GMT",
+      "timestamp": 1790341350.0,
+      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;pur.store.sony.jp",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUTnZodFA0cjZCTlZibEJGTWFRR0FFbHEzSlVXV0t3NVNRbVFIRjJrWS1nWWpmYmtzZU8wVmxOaWRHMEZKZUdaMXVkQkF2VjFBcFlwNw?oc=5",
       "title": "αcafe - acafe.msc.sony.jp",
@@ -10,16 +20,6 @@
       "description": "αcafe&nbsp;&nbsp;acafe.msc.sony.jp",
       "feedId": "store",
       "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - pur.store.sony.jp",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 06:58:28 GMT",
-      "timestamp": 1790319508.0,
-      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;pur.store.sony.jp",
-      "feedId": "product",
-      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHTXdUTDVBNWRuUm1FZ3FJN0FXcWxkZTBMaDZ4bEc1VnlxQjd3QXBTUnN2cHQ0Q1ZLLU5ncVBaVGhjTnd5UjVxMUtUTzZvMS1PbTZBMFphSUE4eFlNOGx4UTRHSmx2MExqWWZoZQ?oc=5",
@@ -98,16 +98,6 @@
       "pubDate": "Thu, 05 Mar 2026 10:04:19 GMT",
       "timestamp": 1772705059.0,
       "description": "ホームオーディオ／ビデオ用 リモコン&nbsp;&nbsp;support.sony.jp",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56cVMxYmdEZFVlazRiYnJtaGdFTk5pZjY0eUpFTzRwbGJocmJYbjhQVnhwSnNqVWVkdUFMVmRZZ2o2R1ZOYmYwRnNqeXZzY2tYcWRkUEE0bzFOVHFEUU9jRGYxMWM2dDJvSVViLUlB?oc=5",
-      "title": "ILME-FX3 - support.sony.jp",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56cVMxYmdEZFVlazRiYnJtaGdFTk5pZjY0eUpFTzRwbGJocmJYbjhQVnhwSnNqVWVkdUFMVmRZZ2o2R1ZOYmYwRnNqeXZzY2tYcWRkUEE0bzFOVHFEUU9jRGYxMWM2dDJvSVViLUlB?oc=5",
-      "pubDate": "Wed, 04 Mar 2026 10:02:44 GMT",
-      "timestamp": 1772618564.0,
-      "description": "ILME-FX3&nbsp;&nbsp;support.sony.jp",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -202,6 +192,16 @@
       "feedName": "製品ニュース"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtekV0OXYzUFFPdDRKU2dMenNWTHZnQXZVdEpJXzEzUWJaUGZadTlmRlpoS1VoWm9UZzc2RC1kbms2dTh4dVNTY0s2OFZINFROYnZnS1hxY2h1YkE?oc=5",
+      "title": "Xperia 10 VII - sony.jp",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtekV0OXYzUFFPdDRKU2dMenNWTHZnQXZVdEpJXzEzUWJaUGZadTlmRlpoS1VoWm9UZzc2RC1kbms2dTh4dVNTY0s2OFZINFROYnZnS1hxY2h1YkE?oc=5",
+      "pubDate": "Fri, 12 Sep 2025 05:19:26 GMT",
+      "timestamp": 1757654366.0,
+      "description": "Xperia 10 VII&nbsp;&nbsp;sony.jp",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxekJVVk01SHRMMm1jdVBtYW1nZVl4RFByWmtBY3BQeVpjUnVjQ0dRY25yaHQyZEhYQmxZU0lDU1ZEekZLd0hETE5nVXlZSEhoYV9qWjg0Mm1kaUl2MklLczgwNlBoZWZJaTA2dGlWMWRKWjFaY2c?oc=5",
       "title": "ソフトウェアアップデートできているか確認したい / 自動アップデートされるための設定方法は？ - support.sony.jp",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxekJVVk01SHRMMm1jdVBtYW1nZVl4RFByWmtBY3BQeVpjUnVjQ0dRY25yaHQyZEhYQmxZU0lDU1ZEekZLd0hETE5nVXlZSEhoYV9qWjg0Mm1kaUl2MklLczgwNlBoZWZJaTA2dGlWMWRKWjFaY2c?oc=5",
@@ -230,6 +230,16 @@
       "description": "ソフトウェアアップデートを行う方法は？&nbsp;&nbsp;support.sony.jp",
       "feedId": "support",
       "feedName": "サポート・全般"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oSnJiVFJ5RG5fWjg0dF9hR0xEXzRWLUZJMFAxRzRGb3NoZWhlYW4xUWZEclpRMXd5OUpJWlp5UU9OSnVyYjlKTGpBT1pVeWVKb1NuTVVMM0ZoeVk1dnpvQW9Cb1g?oc=5",
+      "title": "αcafe 第14回スペシャルコンテスト - acafe.msc.sony.jp",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oSnJiVFJ5RG5fWjg0dF9hR0xEXzRWLUZJMFAxRzRGb3NoZWhlYW4xUWZEclpRMXd5OUpJWlp5UU9OSnVyYjlKTGpBT1pVeWVKb1NuTVVMM0ZoeVk1dnpvQW9Cb1g?oc=5",
+      "pubDate": "Thu, 05 Dec 2024 03:48:24 GMT",
+      "timestamp": 1733370504.0,
+      "description": "αcafe 第14回スペシャルコンテスト&nbsp;&nbsp;acafe.msc.sony.jp",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xSWJ3Wk80UDJtbGFOYThaZ05jM3lPRFhFcnM2cmJ6RzJJbUJDT0VrZmp2R24tZnc0czVqQUlBb3dBNGJ1SkdPdmFPQ0NFMnY0SGJMVVBETlZYMXQ3eldJQWpTWU5YRWsxUGJ0X2Q2dw?oc=5",
@@ -273,31 +283,21 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ZVYyNFB2N0k5b1l0a2JvS3Y2OFFOeWNfQWhQUmtDR3hVcGFnSFNWdFA4bkp3ZDVDMzVLUVRCazVoWEFObVlmTGItR2taRHlRLVdab2dBVVg?oc=5",
-      "title": "ソニーストアご利用感謝 ラッキー抽選会 - sony.jp",
+      "title": "ソニーストアご利用感謝 ラッキー抽選会 | ソニーストアについて | ソニー - sony.jp",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ZVYyNFB2N0k5b1l0a2JvS3Y2OFFOeWNfQWhQUmtDR3hVcGFnSFNWdFA4bkp3ZDVDMzVLUVRCazVoWEFObVlmTGItR2taRHlRLVdab2dBVVg?oc=5",
       "pubDate": "Wed, 22 Feb 2023 03:51:08 GMT",
       "timestamp": 1677037868.0,
-      "description": "ソニーストアご利用感謝 ラッキー抽選会&nbsp;&nbsp;sony.jp",
+      "description": "ソニーストアご利用感謝 ラッキー抽選会 | ソニーストアについて | ソニー&nbsp;&nbsp;sony.jp",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ZVYyNFB2N0k5b1l0a2JvS3Y2OFFOeWNfQWhQUmtDR3hVcGFnSFNWdFA4bkp3ZDVDMzVLUVRCazVoWEFObVlmTGItR2taRHlRLVdab2dBVVg?oc=5",
-      "title": "ソニーストアご利用感謝 ラッキー抽選会 - sony.jp",
+      "title": "ソニーストアご利用感謝 ラッキー抽選会 | ソニーストアについて | ソニー - sony.jp",
       "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ZVYyNFB2N0k5b1l0a2JvS3Y2OFFOeWNfQWhQUmtDR3hVcGFnSFNWdFA4bkp3ZDVDMzVLUVRCazVoWEFObVlmTGItR2taRHlRLVdab2dBVVg?oc=5",
       "pubDate": "Wed, 22 Feb 2023 03:51:08 GMT",
       "timestamp": 1677037868.0,
-      "description": "ソニーストアご利用感謝 ラッキー抽選会&nbsp;&nbsp;sony.jp",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TeF9rZm83UUs1TGVKRGNhSXVmVHVxaWpSMzdONlQ0V1psdkxTdHRxY3hjRXg4dG5hemV3SHdzRXRYX3BRTEs3TFE4U3lhMTdGNjkzY1RaZXJCeThvekdr?oc=5",
-      "title": "残価設定クレジット（SIMフリーモデル） - sony.jp",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TeF9rZm83UUs1TGVKRGNhSXVmVHVxaWpSMzdONlQ0V1psdkxTdHRxY3hjRXg4dG5hemV3SHdzRXRYX3BRTEs3TFE4U3lhMTdGNjkzY1RaZXJCeThvekdr?oc=5",
-      "pubDate": "Wed, 11 May 2022 22:31:08 GMT",
-      "timestamp": 1652308268.0,
-      "description": "残価設定クレジット（SIMフリーモデル）&nbsp;&nbsp;sony.jp",
+      "description": "ソニーストアご利用感謝 ラッキー抽選会 | ソニーストアについて | ソニー&nbsp;&nbsp;sony.jp",
       "feedId": "store",
       "feedName": "ストア・イベント"
     },
