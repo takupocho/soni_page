@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-26T21:51:38.378204+00:00",
+  "updatedAt": "2026-09-27T00:16:36.067725+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Sat, 26 Sep 2026 15:04:07 GMT",
-      "timestamp": 1790435047.0,
+      "pubDate": "Fri, 25 Sep 2026 22:03:48 GMT",
+      "timestamp": 1790373828.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -312,6 +312,16 @@
       "feedName": "ストア・イベント"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtdHBINjlpSmN6M2YxVXVPa0dGWnRNb2R0b1hMQk1wcUNkeWF5bHYxNGtGakIwNWtIR2ZWZjA3ODhGdDZyNmUtQnlNZkZwSENTQldBSjFFQ3RhZXgzbVpub05OQ3pZaTZWX1ZHaHRXZWgwRURRaThRUA?oc=5",
+      "title": "ソフトウェアアップデートについて | 2021 | 使いかたマニュアル | ブルーレイディスク / DVDレコーダー | サポート・お問い合わせ - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtdHBINjlpSmN6M2YxVXVPa0dGWnRNb2R0b1hMQk1wcUNkeWF5bHYxNGtGakIwNWtIR2ZWZjA3ODhGdDZyNmUtQnlNZkZwSENTQldBSjFFQ3RhZXgzbVpub05OQ3pZaTZWX1ZHaHRXZWgwRURRaThRUA?oc=5",
+      "pubDate": "Thu, 29 Apr 2021 15:25:37 GMT",
+      "timestamp": 1619709937.0,
+      "description": "ソフトウェアアップデートについて | 2021 | 使いかたマニュアル | ブルーレイディスク / DVDレコーダー | サポート・お問い合わせ&nbsp;&nbsp;ソニーストア",
+      "feedId": "camera_update",
+      "feedName": "カメラ更新"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81WHlfVks1T2dZU29vUTlSdzA1R2tzRElDNWQ2Y1BPUGpZdFhoSEhjM1JZWTJ0cjRYWmxPdVVWLWp1cFR2cjRIdFZDc0dGQ0kxak5Iag?oc=5",
       "title": "社会福祉法人 明日へ向かって 様 - aibo",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE81WHlfVks1T2dZU29vUTlSdzA1R2tzRElDNWQ2Y1BPUGpZdFhoSEhjM1JZWTJ0cjRYWmxPdVVWLWp1cFR2cjRIdFZDc0dGQ0kxak5Iag?oc=5",
@@ -388,16 +398,6 @@
       "pubDate": "Thu, 08 Mar 2018 02:29:47 GMT",
       "timestamp": 1520476187.0,
       "description": "α700(DSLR-A700) ファームウェアアップデート&nbsp;&nbsp;ソニーストア",
-      "feedId": "camera_update",
-      "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ0gtOHBWODNKajVLamViWUw1UWZZZ1Jjcnhkb0Z2dzVZSkJ2U05ydHJXNUpZcncxSlk5RWRoejVxZHNyVlJFczQ3R1JCUjdFRVB6QlBva2JCem1WTklvbzYtY2JaaVFuSFZGLVRrZWhNVEpwRzc0MnZHRnA1SGtpdUtB?oc=5",
-      "title": "α100(DSLR-A100) ファームウェアアップデート - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ0gtOHBWODNKajVLamViWUw1UWZZZ1Jjcnhkb0Z2dzVZSkJ2U05ydHJXNUpZcncxSlk5RWRoejVxZHNyVlJFczQ3R1JCUjdFRVB6QlBva2JCem1WTklvbzYtY2JaaVFuSFZGLVRrZWhNVEpwRzc0MnZHRnA1SGtpdUtB?oc=5",
-      "pubDate": "Sat, 03 Mar 2018 07:07:42 GMT",
-      "timestamp": 1520060862.0,
-      "description": "α100(DSLR-A100) ファームウェアアップデート&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
     },
