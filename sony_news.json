@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-09-27T00:16:36.067725+00:00",
+  "updatedAt": "2026-09-27T06:17:11.252622+00:00",
   "items": [
-    {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Fri, 25 Sep 2026 22:03:48 GMT",
-      "timestamp": 1790373828.0,
-      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
     {
       "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBUTnZodFA0cjZCTlZibEJGTWFRR0FFbHEzSlVXV0t3NVNRbVFIRjJrWS1nWWpmYmtzZU8wVmxOaWRHMEZKZUdaMXVkQkF2VjFBcFlwNw?oc=5",
       "title": "αcafe - αcafe",
@@ -22,14 +12,14 @@
       "feedName": "ストア・イベント"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHTXdUTDVBNWRuUm1FZ3FJN0FXcWxkZTBMaDZ4bEc1VnlxQjd3QXBTUnN2cHQ0Q1ZLLU5ncVBaVGhjTnd5UjVxMUtUTzZvMS1PbTZBMFphSUE4eFlNOGx4UTRHSmx2MExqWWZoZQ?oc=5",
-      "title": "ソニーストア 店舗 感謝祭 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHTXdUTDVBNWRuUm1FZ3FJN0FXcWxkZTBMaDZ4bEc1VnlxQjd3QXBTUnN2cHQ0Q1ZLLU5ncVBaVGhjTnd5UjVxMUtUTzZvMS1PbTZBMFphSUE4eFlNOGx4UTRHSmx2MExqWWZoZQ?oc=5",
-      "pubDate": "Wed, 16 Sep 2026 10:49:47 GMT",
-      "timestamp": 1789555787.0,
-      "description": "ソニーストア 店舗 感謝祭&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "pubDate": "Fri, 25 Sep 2026 04:09:51 GMT",
+      "timestamp": 1790309391.0,
+      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zX0FqbW1oVEMwSTFQUjNOYXFtTGRDYmJ2S0M1d3VTTlh1RTRtTGtwVlk1M0dnalJKbzM5RTdoUUx3Z2p1SE1WTEZURzRjckdDVngtT3FHOXhFQmc?oc=5",
@@ -118,16 +108,6 @@
       "pubDate": "Wed, 04 Mar 2026 08:24:17 GMT",
       "timestamp": 1772612657.0,
       "description": "ソニー製品のドライバーとソフトウェアのアップデート&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcWVQcTVzc0ZRbTRmYURqNUhFeVg3eF9iUHRDalczMkRYWjdjMmxKVkxvZjdvWTdXbjJrckhWa0FReDdMaG1OZ2t1a01sTWVwWXBLZ1hZa2pudXdpeUV0NVFKbF80dm5CVEk3bUFnYXlQMS13T3UwS1BUT2JveDB4dnE2YXpVQQ?oc=5",
-      "title": "ILCE-7M3 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcWVQcTVzc0ZRbTRmYURqNUhFeVg3eF9iUHRDalczMkRYWjdjMmxKVkxvZjdvWTdXbjJrckhWa0FReDdMaG1OZ2t1a01sTWVwWXBLZ1hZa2pudXdpeUV0NVFKbF80dm5CVEk3bUFnYXlQMS13T3UwS1BUT2JveDB4dnE2YXpVQQ?oc=5",
-      "pubDate": "Tue, 03 Mar 2026 19:08:20 GMT",
-      "timestamp": 1772564900.0,
-      "description": "ILCE-7M3&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -262,6 +242,16 @@
       "feedName": "ストア・イベント"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xRjk4SjRuQmQ0elYxV09MNTFzd1gyanpmd0tsVVp0ZHpIZnZnZy1TenhDRTVqcS02aVZlZlF1VDU1bmNfdVlyM3VzOHdoNXd1TTNmb0FHelpEVnFSbmFYcTQwUQ?oc=5",
+      "title": "イベント情報 - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xRjk4SjRuQmQ0elYxV09MNTFzd1gyanpmd0tsVVp0ZHpIZnZnZy1TenhDRTVqcS02aVZlZlF1VDU1bmNfdVlyM3VzOHdoNXd1TTNmb0FHelpEVnFSbmFYcTQwUQ?oc=5",
+      "pubDate": "Fri, 13 Oct 2023 06:36:24 GMT",
+      "timestamp": 1697178984.0,
+      "description": "イベント情報&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1zdXlmWVpJam5tX2RtenNCSkxVMWVncFNuWGE3MG1BNEh5UXFqYnV4RnU5UFA5SVN6Z2FoT0s3aWo?oc=5",
       "title": "Xperia - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1zdXlmWVpJam5tX2RtenNCSkxVMWVncFNuWGE3MG1BNEh5UXFqYnV4RnU5UFA5SVN6Z2FoT0s3aWo?oc=5",
@@ -280,6 +270,16 @@
       "description": "Xperia（エクスペリア）スマートフォン | Xperia（エクスペリア）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RTVE5cXhmZXk2RGF0dGNsWHJLbEpTMG1wb21iakVuc0pGSkdvOXU3SVhUZmlqOG93LXlrcmM0M2laNjIxeHJtWGlZakxHS0FTbmtBOA?oc=5",
+      "title": "Xperiaを比較する - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RTVE5cXhmZXk2RGF0dGNsWHJLbEpTMG1wb21iakVuc0pGSkdvOXU3SVhUZmlqOG93LXlrcmM0M2laNjIxeHJtWGlZakxHS0FTbmtBOA?oc=5",
+      "pubDate": "Mon, 11 Sep 2023 00:58:03 GMT",
+      "timestamp": 1694393883.0,
+      "description": "Xperiaを比較する&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0pwLUxVb29Gc0dHZlRXcE9adjRrWkF2Vk14ci1maEt4cjRZbm9feHpfdjFfYWhGOHYzRG1weFBlZWJpM1VFQ3dpOU9oWTZZcU05ckhYd0NMaXVfQzNkR053Tl9WMFJSbk5rajNyUWJIY0hVREs0SGVrUmtHSmRyY24tcTBsal9MMjZWdFNaZ1J2R3ZPblcwRWFpUQ?oc=5",
