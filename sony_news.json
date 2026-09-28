@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-28T18:29:32.490840+00:00",
+  "updatedAt": "2026-09-28T23:44:06.064731+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Sun, 27 Sep 2026 16:25:49 GMT",
-      "timestamp": 1790526349.0,
+      "pubDate": "Sun, 27 Sep 2026 22:28:07 GMT",
+      "timestamp": 1790548087.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -140,6 +140,16 @@
       "description": "サポート&nbsp;&nbsp;sr-origin.sony.jp",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5fMmtQZXJMNzBMM3FoRFc2MHVodmFtVDVTeE95M3VtYmhwQ1ZFWEwyWlIzeGllU3BNZnkyNVJDa1kzemxUWXhiemVR?oc=5",
+      "title": "ソニーストア 人気ランキング | ソニーストアについて | ソニー - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5fMmtQZXJMNzBMM3FoRFc2MHVodmFtVDVTeE95M3VtYmhwQ1ZFWEwyWlIzeGllU3BNZnkyNVJDa1kzemxUWXhiemVR?oc=5",
+      "pubDate": "Fri, 26 Dec 2025 18:50:25 GMT",
+      "timestamp": 1766775025.0,
+      "description": "ソニーストア 人気ランキング | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EMG5QZV9ITGhmVWNlZkdZR0pxai1zWFptWlAzM0lBbzhXNWNqSWtJazNpWTkwaGFBWUcyQVFObl9XSDYySlpNbTdPYldWTWRXNkdfWFlMcWF3V0ZicjEwUHlUODRKbHNHMFZBZlU1ZjlRQQ?oc=5",
@@ -288,16 +298,6 @@
       "pubDate": "Wed, 22 Feb 2023 03:51:08 GMT",
       "timestamp": 1677037868.0,
       "description": "ソニーストアご利用感謝 ラッキー抽選会 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lTU9BWUFaZXh5N2pGNGtndXhTemhLR1k2V3VLTXBwMGE5N21ieGRnTWVkY21yTFQ4UGY1aW5MSEhkUW9rQnN3aHVfc2s4cXFEaVR4M2RucW9HX09VdGJXU2doOHNNX0pQTlNBYmxn?oc=5",
-      "title": "Xperiaフォトコンテスト - αcafe",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1lTU9BWUFaZXh5N2pGNGtndXhTemhLR1k2V3VLTXBwMGE5N21ieGRnTWVkY21yTFQ4UGY1aW5MSEhkUW9rQnN3aHVfc2s4cXFEaVR4M2RucW9HX09VdGJXU2doOHNNX0pQTlNBYmxn?oc=5",
-      "pubDate": "Tue, 22 Feb 2022 02:02:26 GMT",
-      "timestamp": 1645495346.0,
-      "description": "Xperiaフォトコンテスト&nbsp;&nbsp;αcafe",
       "feedId": "store",
       "feedName": "ストア・イベント"
     },
