@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T17:43:29.404609+00:00",
+  "updatedAt": "2026-09-29T21:55:35.293664+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YRjQ3UDZ5Mk9KY3RZbm5CYUFqZUpJY2xwUkpLdVdWNlRIZlMzLVlua1lkVnhlNXFwajR6M0hVb3pJWTJoVFRLOUJOWUZiQzZjeWo3b1hFWnVsc00?oc=5",
@@ -52,22 +52,22 @@
       "feedName": "ストア・イベント"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "pubDate": "Tue, 29 Sep 2026 02:51:02 GMT",
+      "timestamp": 1790650262.0,
+      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa2FwYk5YMmsxd0lMNTV6alBDYjVYT3B1c3RUbHA1UmhMSy1KUG1XYk0tcnRJNHdrUkJ5UkFiQ25SeDVRWV8tckVHbmtNYzhTcVFfcS1JaEpKUWs0bENjLWNqVVYzdFYwd2ZyLWtHWmFZUUs0R2xYQ1c4T1dObFljR2RR?oc=5",
       "title": "SEL600F63GM 購入 | デジタル一眼カメラ α：アルファ - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQa2FwYk5YMmsxd0lMNTV6alBDYjVYT3B1c3RUbHA1UmhMSy1KUG1XYk0tcnRJNHdrUkJ5UkFiQ25SeDVRWV8tckVHbmtNYzhTcVFfcS1JaEpKUWs0bENjLWNqVVYzdFYwd2ZyLWtHWmFZUUs0R2xYQ1c4T1dObFljR2RR?oc=5",
       "pubDate": "Tue, 29 Sep 2026 02:00:44 GMT",
       "timestamp": 1790647244.0,
       "description": "SEL600F63GM 購入 | デジタル一眼カメラ α：アルファ&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 16:43:40 GMT",
-      "timestamp": 1790613820.0,
-      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -212,16 +212,6 @@
       "feedName": "ストア・イベント"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EMG5QZV9ITGhmVWNlZkdZR0pxai1zWFptWlAzM0lBbzhXNWNqSWtJazNpWTkwaGFBWUcyQVFObl9XSDYySlpNbTdPYldWTWRXNkdfWFlMcWF3V0ZicjEwUHlUODRKbHNHMFZBZlU1ZjlRQQ?oc=5",
-      "title": "CFI-7100B01 購入 | PlayStation（R）5 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EMG5QZV9ITGhmVWNlZkdZR0pxai1zWFptWlAzM0lBbzhXNWNqSWtJazNpWTkwaGFBWUcyQVFObl9XSDYySlpNbTdPYldWTWRXNkdfWFlMcWF3V0ZicjEwUHlUODRKbHNHMFZBZlU1ZjlRQQ?oc=5",
-      "pubDate": "Fri, 19 Dec 2025 06:45:20 GMT",
-      "timestamp": 1766126720.0,
-      "description": "CFI-7100B01 購入 | PlayStation（R）5&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HZWRiLVlfNXNaWGNIdE5qZXMza2lIY2d0eVhTdjZPd2tBb1FkUGNGaXdxWEdBY3MtcDRiVjFld2UwcVpLWWRKWUNicmRxakM4WEx0aF93NjU0dzNPZnBzSDRoMXdWWG9YWkYwVw?oc=5",
       "title": "ソニーオープンフォトコン 星空フォトコンテスト2025 結果発表 - αcafe",
       "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HZWRiLVlfNXNaWGNIdE5qZXMza2lIY2d0eVhTdjZPd2tBb1FkUGNGaXdxWEdBY3MtcDRiVjFld2UwcVpLWWRKWUNicmRxakM4WEx0aF93NjU0dzNPZnBzSDRoMXdWWG9YWkYwVw?oc=5",
@@ -303,11 +293,21 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1zdXlmWVpJam5tX2RtenNCSkxVMWVncFNuWGE3MG1BNEh5UXFqYnV4RnU5UFA5SVN6Z2FoT0s3aWo?oc=5",
-      "title": "Xperia（エクスペリア）ホーム | Xperia（エクスペリア） - ソニーストア",
+      "title": "Xperia - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1zdXlmWVpJam5tX2RtenNCSkxVMWVncFNuWGE3MG1BNEh5UXFqYnV4RnU5UFA5SVN6Z2FoT0s3aWo?oc=5",
       "pubDate": "Mon, 11 Sep 2023 01:07:45 GMT",
       "timestamp": 1694394465.0,
-      "description": "Xperia（エクスペリア）ホーム | Xperia（エクスペリア）&nbsp;&nbsp;ソニーストア",
+      "description": "Xperia&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpUW14Q2VvMWh4aGR2UmFob1dSeVMwcG50QTZoSjRPSVpQWlBiZkt6dzJ0UktreFZqNV9FdnFmM1hZQWROU2RoZUlR?oc=5",
+      "title": "Xperia（エクスペリア）スマートフォン | Xperia（エクスペリア） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpUW14Q2VvMWh4aGR2UmFob1dSeVMwcG50QTZoSjRPSVpQWlBiZkt6dzJ0UktreFZqNV9FdnFmM1hZQWROU2RoZUlR?oc=5",
+      "pubDate": "Mon, 11 Sep 2023 00:58:07 GMT",
+      "timestamp": 1694393887.0,
+      "description": "Xperia（エクスペリア）スマートフォン | Xperia（エクスペリア）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
