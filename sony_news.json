@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T15:39:59.299236+00:00",
+  "updatedAt": "2026-09-30T20:34:42.297737+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdV8tcThqMllTdE8ySWE4bEgydGZ6aUc1TzM4Ry1WZnJQdGxILWZBQ0FzUWVaczZjVkNCMWh1VXlqc3d3ZkxjLWNiRWttQnEzTC0zZ1hJSUlXcmNaemVJRFBveXZfYmJjMDBBZWF0N2NvMVBxbjFhRjItVnF0dTVBX01UNl9xU1NZZFV3aVplUFlxNEI4LW9Yd3VCYllYODVZczVxcDV5alM3dHJtR3JSajZJVzViamYxSFptRVFZUU5RZw?oc=5",
@@ -75,8 +75,8 @@
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Mon, 28 Sep 2026 14:03:07 GMT",
-      "timestamp": 1790604187.0,
+      "pubDate": "Mon, 28 Sep 2026 19:59:21 GMT",
+      "timestamp": 1790625561.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -313,11 +313,11 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xSWJ3Wk80UDJtbGFOYThaZ05jM3lPRFhFcnM2cmJ6RzJJbUJDT0VrZmp2R24tZnc0czVqQUlBb3dBNGJ1SkdPdmFPQ0NFMnY0SGJMVVBETlZYMXQ3eldJQWpTWU5YRWsxUGJ0X2Q2dw?oc=5",
-      "title": "アップデート情報 - ソニーストア",
+      "title": "アップデート情報 - info.aibo.sony.jp",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xSWJ3Wk80UDJtbGFOYThaZ05jM3lPRFhFcnM2cmJ6RzJJbUJDT0VrZmp2R24tZnc0czVqQUlBb3dBNGJ1SkdPdmFPQ0NFMnY0SGJMVVBETlZYMXQ3eldJQWpTWU5YRWsxUGJ0X2Q2dw?oc=5",
       "pubDate": "Mon, 25 Mar 2024 07:00:00 GMT",
       "timestamp": 1711350000.0,
-      "description": "アップデート情報&nbsp;&nbsp;ソニーストア",
+      "description": "アップデート情報&nbsp;&nbsp;info.aibo.sony.jp",
       "feedId": "store",
       "feedName": "ストア・イベント"
     },
@@ -328,6 +328,16 @@
       "pubDate": "Mon, 11 Sep 2023 01:07:45 GMT",
       "timestamp": 1694394465.0,
       "description": "Xperia&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpUW14Q2VvMWh4aGR2UmFob1dSeVMwcG50QTZoSjRPSVpQWlBiZkt6dzJ0UktreFZqNV9FdnFmM1hZQWROU2RoZUlR?oc=5",
+      "title": "Xperia（エクスペリア）スマートフォン | Xperia（エクスペリア） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpUW14Q2VvMWh4aGR2UmFob1dSeVMwcG50QTZoSjRPSVpQWlBiZkt6dzJ0UktreFZqNV9FdnFmM1hZQWROU2RoZUlR?oc=5",
+      "pubDate": "Mon, 11 Sep 2023 00:58:07 GMT",
+      "timestamp": 1694393887.0,
+      "description": "Xperia（エクスペリア）スマートフォン | Xperia（エクスペリア）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -450,16 +460,6 @@
       "description": "ウォークマンをアップデートする&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB2aE93Q3J1a0owblUxZDhQTG9IMU45MFMtYVJvQzlVOHpwMHdsYXVoaVhNUGViVFFkZGhBSUk5RU91Zw?oc=5",
-      "title": "サインインID共通化のご案内 | My Sony - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFB2aE93Q3J1a0owblUxZDhQTG9IMU45MFMtYVJvQzlVOHpwMHdsYXVoaVhNUGViVFFkZGhBSUk5RU91Zw?oc=5",
-      "pubDate": "Tue, 28 Jun 2016 03:12:48 GMT",
-      "timestamp": 1467083568.0,
-      "description": "サインインID共通化のご案内 | My Sony&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9zNTN0aWdEc0Z2d1pnNDg0SXVfczRjNlBRbVBGUzNUbnRfLWR5dk9Ubk1ETTNnd2xRckZ3VVl4ajhaaUNkdFh1ZFVrVk10QVVaQV9Oa3lEdzRmZXlSMXV6c0hrTzRxVldiU2NySDdvWUgxTEV0RU9KbkFXa0tXQQ?oc=5",
