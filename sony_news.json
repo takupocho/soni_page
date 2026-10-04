@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T15:40:37.797857+00:00",
+  "updatedAt": "2026-10-04T19:14:33.655543+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVVnYwVlctYTRCUVNpa3NhYVVxMXgwT1dIQUxyLVF3LVBmMFZwQzRuNkxoZ01iN3pJeUV3QnhIZWk3TDcxT3BkMjhmZ3ZieTd1U0pkZWxCVWM3Q2RIVW5hc0h0WUxrelQ5U0YwSzhKLWo3X1VGUFJZQXAzSQ?oc=5",
@@ -8,6 +8,16 @@
       "pubDate": "Sat, 03 Oct 2026 14:49:54 GMT",
       "timestamp": 1791038994.0,
       "description": "Xperia 1 VII（XQ-FS44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "pubDate": "Sat, 03 Oct 2026 14:47:05 GMT",
+      "timestamp": 1791038825.0,
+      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -142,16 +152,6 @@
       "feedName": "サポート・全般"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzdoQUw0VTlQc0Z4WWg1SmJjaHhPcUFtWHlsNGswWkFxWlJTVEtFR3RqU1lJczFOYl9pRno4bVZlaHZHZ0E4aDI2bkh6aWg2OUNJRTlxN0xnT2JaanBxeG9yQkstMklYbTFBT2JOaUdkaGZMRnJyRUk1X09fVW5NWlI1RTlZaXRkRlVQLTVZZFN4a0k?oc=5",
-      "title": "ドライバーとソフトウェアのアップデート スマートフォン | ソニー - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzdoQUw0VTlQc0Z4WWg1SmJjaHhPcUFtWHlsNGswWkFxWlJTVEtFR3RqU1lJczFOYl9pRno4bVZlaHZHZ0E4aDI2bkh6aWg2OUNJRTlxN0xnT2JaanBxeG9yQkstMklYbTFBT2JOaUdkaGZMRnJyRUk1X09fVW5NWlI1RTlZaXRkRlVQLTVZZFN4a0k?oc=5",
-      "pubDate": "Mon, 06 Apr 2026 06:00:41 GMT",
-      "timestamp": 1775455241.0,
-      "description": "ドライバーとソフトウェアのアップデート スマートフォン | ソニー&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jSmhOb0xJZkw1SGt3dUc2Y1l4ZFhOaFJJNDNlbmdxLUc0Z0VjTUR4SDBwcGR1bkM4ZEhRLXRvbGZsTEhLbzQyV3hFVkR5SHpRRTF3NlpEQXNSWkZhbmp6LWozNA?oc=5",
       "title": "ソニー製品のドライバーとソフトウェアのアップデート - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jSmhOb0xJZkw1SGt3dUc2Y1l4ZFhOaFJJNDNlbmdxLUc0Z0VjTUR4SDBwcGR1bkM4ZEhRLXRvbGZsTEhLbzQyV3hFVkR5SHpRRTF3NlpEQXNSWkZhbmp6LWozNA?oc=5",
@@ -168,6 +168,16 @@
       "pubDate": "Tue, 03 Mar 2026 11:39:01 GMT",
       "timestamp": 1772537941.0,
       "description": "メモリーカードでカメラをアップデートする方法&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbFRCQWExYlFwRmprVFpiSnU3U1I2azRJcWdJeS1MOVNndEtpZXdiNlNHVjJROFpiNHRJWXlKejc2ZzRPZFFJTTZYT3U0WHM2Z2g3R09TekFPMUp6SHlsMWxvdHB2V2x0M3RUNHJTYnlub1BrZzhlTkxxT09oN0tWX0N0endRdw?oc=5",
+      "title": "スマートフォン - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbFRCQWExYlFwRmprVFpiSnU3U1I2azRJcWdJeS1MOVNndEtpZXdiNlNHVjJROFpiNHRJWXlKejc2ZzRPZFFJTTZYT3U0WHM2Z2g3R09TekFPMUp6SHlsMWxvdHB2V2x0M3RUNHJTYnlub1BrZzhlTkxxT09oN0tWX0N0endRdw?oc=5",
+      "pubDate": "Tue, 03 Mar 2026 09:14:23 GMT",
+      "timestamp": 1772529263.0,
+      "description": "スマートフォン&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -288,16 +298,6 @@
       "pubDate": "Mon, 11 Sep 2023 01:07:45 GMT",
       "timestamp": 1694394465.0,
       "description": "Xperia&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpUW14Q2VvMWh4aGR2UmFob1dSeVMwcG50QTZoSjRPSVpQWlBiZkt6dzJ0UktreFZqNV9FdnFmM1hZQWROU2RoZUlR?oc=5",
-      "title": "Xperia（エクスペリア）スマートフォン | Xperia（エクスペリア） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpUW14Q2VvMWh4aGR2UmFob1dSeVMwcG50QTZoSjRPSVpQWlBiZkt6dzJ0UktreFZqNV9FdnFmM1hZQWROU2RoZUlR?oc=5",
-      "pubDate": "Mon, 11 Sep 2023 00:58:07 GMT",
-      "timestamp": 1694393887.0,
-      "description": "Xperia（エクスペリア）スマートフォン | Xperia（エクスペリア）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
