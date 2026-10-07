@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T17:17:39.198464+00:00",
+  "updatedAt": "2026-10-07T22:47:23.235379+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EbDVVUVEzSTY0TU1RM1EtU3pFN1hjZFR4Slo3NENfTUlfMUJydWVBR0hfa21uU3dObTBGYm9JS3VZR0M0ZTd4TG5ZRE5pQjJZUU1EZzgyRHVLM0dnd2toTHV6Mm9XZm5LMTNDVlM1ZzdWUTlhaUNN?oc=5",
@@ -22,22 +22,22 @@
       "feedName": "製品ニュース"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "pubDate": "Mon, 05 Oct 2026 21:43:08 GMT",
+      "timestamp": 1791236588.0,
+      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
       "title": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
       "pubDate": "Mon, 05 Oct 2026 16:38:48 GMT",
       "timestamp": 1791218328.0,
       "description": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Mon, 05 Oct 2026 15:32:32 GMT",
-      "timestamp": 1791214352.0,
-      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -148,6 +148,16 @@
       "pubDate": "Wed, 20 May 2026 15:49:27 GMT",
       "timestamp": 1779292167.0,
       "description": "SEL600F40GM レンズ 本体ソフトウェアアップデート Ver. 02 （メモリーカード）&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fTEhZOVpKMkJyQTVBR1VJWVh5SWdlV2UtbFRmOEpxcWFZUGdaZl9LOUpXU2NRak4yaHJTMU4wRHUxbXhzNkd5SDFScVhGWWlVUk9EOGhUSEhULXQtMHRNRDJSUFA3NmROMngydXZn?oc=5",
+      "title": "ILCE-7RM4A 本体ソフトウェアアップデート Ver. 1.13 （Windows） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fTEhZOVpKMkJyQTVBR1VJWVh5SWdlV2UtbFRmOEpxcWFZUGdaZl9LOUpXU2NRak4yaHJTMU4wRHUxbXhzNkd5SDFScVhGWWlVUk9EOGhUSEhULXQtMHRNRDJSUFA3NmROMngydXZn?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 08:34:46 GMT",
+      "timestamp": 1776328486.0,
+      "description": "ILCE-7RM4A 本体ソフトウェアアップデート Ver. 1.13 （Windows）&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -570,16 +580,6 @@
       "description": "My Sony&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE51OFhFY3M4WnppYTVmaUFGYWhUSVVFazF5VkpEdEhCbFFBOGZVQURXWTdiTDhrX1Y3WkE5Zw?oc=5",
-      "title": "My Sony - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE51OFhFY3M4WnppYTVmaUFGYWhUSVVFazF5VkpEdEhCbFFBOGZVQURXWTdiTDhrX1Y3WkE5Zw?oc=5",
-      "pubDate": "Thu, 03 Nov 2011 02:37:56 GMT",
-      "timestamp": 1320287876.0,
-      "description": "My Sony&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE8yZjJHM2xhVUtQYVdfV29RT25RSUgtbC1Cdmpac21oRjNWVF8wWWNqVnU5XzEwSVU?oc=5",
