@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-08T02:33:36.883370+00:00",
+  "updatedAt": "2026-10-08T10:04:49.835525+00:00",
   "items": [
-    {
-      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
-      "title": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 23:50:50 GMT",
-      "timestamp": 1791330650.0,
-      "description": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
     {
       "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNUNYRGZEM3RPaG9WWUFIcG9PU2tvSjQ3TmdCb0NPQ3dPak5IdWVWa1ZUcUE2WnA5NEZlbkJQbDMxb1NDbjFwS1RiVklScllySzl2S1RpX2RxaGp6NUNCYkp3eldWRDN1SFJpZXU1cF9aeHNXTzdNWGFSQ2g1U3B1T1Bn?oc=5",
       "title": "WF-1000XM6 購入 | ヘッドホン - ソニーストア",
@@ -25,8 +15,8 @@
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Tue, 06 Oct 2026 00:39:59 GMT",
-      "timestamp": 1791247199.0,
+      "pubDate": "Tue, 06 Oct 2026 06:42:09 GMT",
+      "timestamp": 1791268929.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -92,6 +82,16 @@
       "feedName": "製品ニュース"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
+      "title": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 00:22:55 GMT",
+      "timestamp": 1790814175.0,
+      "description": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MV2hxVTI3Q3p4MHV3UjVoQWN2VUFHWjJBTU0ycHRteTM3LU5DNWdZWUo1MWdsdjFGYzFleGxQaXlWMUJNNkIxcVNjVDB6aHc2WVk5al9NUnpkM05iVXdubmFRWlhhYVJ1?oc=5",
       "title": "新サービス「Fan Sync」を体験できるスマートフォン『Xperia 10 VIII』を発売 | ニュースリリース - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MV2hxVTI3Q3p4MHV3UjVoQWN2VUFHWjJBTU0ycHRteTM3LU5DNWdZWUo1MWdsdjFGYzFleGxQaXlWMUJNNkIxcVNjVDB6aHc2WVk5al9NUnpkM05iVXdubmFRWlhhYVJ1?oc=5",
@@ -132,22 +132,22 @@
       "feedName": "ストア・イベント"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmwxbW1iQ3JZaEU4MmQtRkZJeHVCSGo4TGhseUFXSXdGZ3pnRjdYemtyMW5kR0c0TUdoVXpNNEpXOUcwcXdCYnNpMHF4d3hWQmpCM3ZmWm5sSjBCY2xheG9JUXROQjRwTzBLVkt6Vkp4WS1pU0s0ZmNjX2dySDV6VVgyYkxaWm5tVU96b09sY09laHNmc2Rpdg?oc=5",
+      "title": "ソニーグループ共通 インターンシップ・新卒採用マイページ - ソニー株式会社",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdmwxbW1iQ3JZaEU4MmQtRkZJeHVCSGo4TGhseUFXSXdGZ3pnRjdYemtyMW5kR0c0TUdoVXpNNEpXOUcwcXdCYnNpMHF4d3hWQmpCM3ZmWm5sSjBCY2xheG9JUXROQjRwTzBLVkt6Vkp4WS1pU0s0ZmNjX2dySDV6VVgyYkxaWm5tVU96b09sY09laHNmc2Rpdg?oc=5",
+      "pubDate": "Thu, 11 Jun 2026 03:31:04 GMT",
+      "timestamp": 1781148664.0,
+      "description": "ソニーグループ共通 インターンシップ・新卒採用マイページ&nbsp;&nbsp;ソニー株式会社",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWRUNHhFWkxDN2d4SkVDWGhBUmoxVzMxWnhqeWtVY25rcTZsVE9zTHNVeGFOaHk2TWhnaUdmcmk5TE1hMVQ5NTVYOE90VVNNQjB6b3l2TWpaeVl0bWE4YnhkazBEYmRrdC03ZXVoQ3cxTzZTTEtUSkxBVmFWdmlCOFBJOVN0b0hlRnNVQlNZTXlqN2ZWLTJGRzVxaw?oc=5",
       "title": "SEL600F40GM レンズ 本体ソフトウェアアップデート Ver. 02 （メモリーカード） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWRUNHhFWkxDN2d4SkVDWGhBUmoxVzMxWnhqeWtVY25rcTZsVE9zTHNVeGFOaHk2TWhnaUdmcmk5TE1hMVQ5NTVYOE90VVNNQjB6b3l2TWpaeVl0bWE4YnhkazBEYmRrdC03ZXVoQ3cxTzZTTEtUSkxBVmFWdmlCOFBJOVN0b0hlRnNVQlNZTXlqN2ZWLTJGRzVxaw?oc=5",
       "pubDate": "Wed, 20 May 2026 15:49:27 GMT",
       "timestamp": 1779292167.0,
       "description": "SEL600F40GM レンズ 本体ソフトウェアアップデート Ver. 02 （メモリーカード）&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fTEhZOVpKMkJyQTVBR1VJWVh5SWdlV2UtbFRmOEpxcWFZUGdaZl9LOUpXU2NRak4yaHJTMU4wRHUxbXhzNkd5SDFScVhGWWlVUk9EOGhUSEhULXQtMHRNRDJSUFA3NmROMngydXZn?oc=5",
-      "title": "ILCE-7RM4A 本体ソフトウェアアップデート Ver. 1.13 （Windows） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fTEhZOVpKMkJyQTVBR1VJWVh5SWdlV2UtbFRmOEpxcWFZUGdaZl9LOUpXU2NRak4yaHJTMU4wRHUxbXhzNkd5SDFScVhGWWlVUk9EOGhUSEhULXQtMHRNRDJSUFA3NmROMngydXZn?oc=5",
-      "pubDate": "Thu, 16 Apr 2026 08:34:46 GMT",
-      "timestamp": 1776328486.0,
-      "description": "ILCE-7RM4A 本体ソフトウェアアップデート Ver. 1.13 （Windows）&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -270,16 +270,6 @@
       "description": "ソニーポイント&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xRVdBejN1X1k0TFJ4ZWNUZmpZLXhqZ2xycVNPaHNLNmNod2pDNTRtdHlvMDFORkE5eGxnVnhqZEJ1aVplVHN6WVVhNEI?oc=5",
-      "title": "ソニーグループ共通 インターンシップ・新卒採用マイページ - ソニー株式会社",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xRVdBejN1X1k0TFJ4ZWNUZmpZLXhqZ2xycVNPaHNLNmNod2pDNTRtdHlvMDFORkE5eGxnVnhqZEJ1aVplVHN6WVVhNEI?oc=5",
-      "pubDate": "Tue, 01 Apr 2025 07:00:00 GMT",
-      "timestamp": 1743490800.0,
-      "description": "ソニーグループ共通 インターンシップ・新卒採用マイページ&nbsp;&nbsp;ソニー株式会社",
-      "feedId": "product",
-      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGX1RFclNJSVFqU2p4eWJTRmQwR1hCZVVuOUV2VHdXQnFqUXk0bDhIU200RWpkZDVaelVBMzhwcEN5Tlg2VXBSTS1Ba1h4cTcwQXhkNnZULVRZdlJPQjRuMkszNnVodW1NVUlYbmRWczAxUFdEZlE?oc=5",
@@ -533,11 +523,11 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtR0VDY1g1ODZKMktRd0xSWXZjRUc3UWdqWUREcmpxSEstRldJRmxTQXc1dWl0Zms4ODI3U3c3OFJUS0RvamJrRmdkRFVhbU9BNnYyVUx5aw?oc=5",
-      "title": "マイページ/アカウントサービス - My Sony - ソニーストア - ソニーストア",
+      "title": "エラー - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtR0VDY1g1ODZKMktRd0xSWXZjRUc3UWdqWUREcmpxSEstRldJRmxTQXc1dWl0Zms4ODI3U3c3OFJUS0RvamJrRmdkRFVhbU9BNnYyVUx5aw?oc=5",
       "pubDate": "Wed, 07 Aug 2013 05:16:29 GMT",
       "timestamp": 1375852589.0,
-      "description": "マイページ/アカウントサービス - My Sony - ソニーストア&nbsp;&nbsp;ソニーストア",
+      "description": "エラー&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -580,6 +570,16 @@
       "description": "My Sony&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE51OFhFY3M4WnppYTVmaUFGYWhUSVVFazF5VkpEdEhCbFFBOGZVQURXWTdiTDhrX1Y3WkE5Zw?oc=5",
+      "title": "My Sony - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE51OFhFY3M4WnppYTVmaUFGYWhUSVVFazF5VkpEdEhCbFFBOGZVQURXWTdiTDhrX1Y3WkE5Zw?oc=5",
+      "pubDate": "Thu, 03 Nov 2011 02:37:56 GMT",
+      "timestamp": 1320287876.0,
+      "description": "My Sony&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE8yZjJHM2xhVUtQYVdfV29RT25RSUgtbC1Cdmpac21oRjNWVF8wWWNqVnU5XzEwSVU?oc=5",
