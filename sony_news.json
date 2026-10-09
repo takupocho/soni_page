@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-09T10:07:05.341889+00:00",
+  "updatedAt": "2026-10-09T17:20:40.494730+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fUFZndlVVRzQ1d2MzaklTZjl2Q2FJS0tqY2hUNGhKdU5KdnBqd1FMWUhuWjlWNE0tSGNSNGRXWC1VdWt3aUg1YXMxTlJUOTFIZDV4NmhwQ1MzcE1kbWc?oc=5",
@@ -25,8 +25,8 @@
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 00:55:52 GMT",
-      "timestamp": 1791507352.0,
+      "pubDate": "Thu, 08 Oct 2026 16:05:06 GMT",
+      "timestamp": 1791475506.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -62,6 +62,16 @@
       "feedName": "ストア・イベント"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MV2hxVTI3Q3p4MHV3UjVoQWN2VUFHWjJBTU0ycHRteTM3LU5DNWdZWUo1MWdsdjFGYzFleGxQaXlWMUJNNkIxcVNjVDB6aHc2WVk5al9NUnpkM05iVXdubmFRWlhhYVJ1?oc=5",
+      "title": "新サービス「Fan Sync」を体験できるスマートフォン『Xperia 10 VIII』を発売 | ニュースリリース - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MV2hxVTI3Q3p4MHV3UjVoQWN2VUFHWjJBTU0ycHRteTM3LU5DNWdZWUo1MWdsdjFGYzFleGxQaXlWMUJNNkIxcVNjVDB6aHc2WVk5al9NUnpkM05iVXdubmFRWlhhYVJ1?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 07:00:00 GMT",
+      "timestamp": 1790838000.0,
+      "description": "新サービス「Fan Sync」を体験できるスマートフォン『Xperia 10 VIII』を発売 | ニュースリリース&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbDNFT0lNS2JuM1VWZkZMUGMxMm02T3A0RVQ3WEY1c255cVRPbDBVQzdxVmY3VTJIeFoyREVrbTZNMUtGWjVnMFoxMGF0SGJYclI0R2xsMU93enc?oc=5",
       "title": "Xperia 10 VIIIに乗り換えるとこんなに変わる。Go to 10 | Xperia (エクスペリア) スマートフォン - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbDNFT0lNS2JuM1VWZkZMUGMxMm02T3A0RVQ3WEY1c255cVRPbDBVQzdxVmY3VTJIeFoyREVrbTZNMUtGWjVnMFoxMGF0SGJYclI0R2xsMU93enc?oc=5",
@@ -92,16 +102,6 @@
       "feedName": "ストア・イベント"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xRGlCWFdUODdJR1VqZ29RYzFtS1U0YjExMmhwVnJJYkJhZFpfa1VMb3NDaHZMdzRpNjNqMEhJdUUyTVRndnNCZ1drMWpwMTk3S1EwT2NMZlVWRzFwLWczYmR4UlU5LTJu?oc=5",
-      "title": "Xperia 10 VIII 発売記念キャンペーン - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xRGlCWFdUODdJR1VqZ29RYzFtS1U0YjExMmhwVnJJYkJhZFpfa1VMb3NDaHZMdzRpNjNqMEhJdUUyTVRndnNCZ1drMWpwMTk3S1EwT2NMZlVWRzFwLWczYmR4UlU5LTJu?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 00:29:45 GMT",
-      "timestamp": 1790814585.0,
-      "description": "Xperia 10 VIII 発売記念キャンペーン&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
       "title": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
@@ -112,16 +112,6 @@
       "feedName": "製品ニュース"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MV2hxVTI3Q3p4MHV3UjVoQWN2VUFHWjJBTU0ycHRteTM3LU5DNWdZWUo1MWdsdjFGYzFleGxQaXlWMUJNNkIxcVNjVDB6aHc2WVk5al9NUnpkM05iVXdubmFRWlhhYVJ1?oc=5",
-      "title": "新サービス「Fan Sync」を体験できるスマートフォン『Xperia 10 VIII』を発売 | ニュースリリース - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MV2hxVTI3Q3p4MHV3UjVoQWN2VUFHWjJBTU0ycHRteTM3LU5DNWdZWUo1MWdsdjFGYzFleGxQaXlWMUJNNkIxcVNjVDB6aHc2WVk5al9NUnpkM05iVXdubmFRWlhhYVJ1?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 00:20:58 GMT",
-      "timestamp": 1790814058.0,
-      "description": "新サービス「Fan Sync」を体験できるスマートフォン『Xperia 10 VIII』を発売 | ニュースリリース&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zX0FqbW1oVEMwSTFQUjNOYXFtTGRDYmJ2S0M1d3VTTlh1RTRtTGtwVlk1M0dnalJKbzM5RTdoUUx3Z2p1SE1WTEZURzRjckdDVngtT3FHOXhFQmc?oc=5",
       "title": "Xperia 10 VIII - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zX0FqbW1oVEMwSTFQUjNOYXFtTGRDYmJ2S0M1d3VTTlh1RTRtTGtwVlk1M0dnalJKbzM5RTdoUUx3Z2p1SE1WTEZURzRjckdDVngtT3FHOXhFQmc?oc=5",
@@ -138,6 +128,36 @@
       "pubDate": "Tue, 25 Aug 2026 02:29:01 GMT",
       "timestamp": 1787624941.0,
       "description": "Xperia 10 VIII&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tYWdyQXliQW1QTFFyYmx3dnhDeFg0bzlEVTZuQ1FWeFByZVpkTWh0ZzBQYVVJVENiN1FsTHFKWDZWZWNRbVkxazlnWkQ5SHd1U2dyMjQxNmt2QWNTM3NCRWZ3?oc=5",
+      "title": "ソニーストア おすすめ商品 | ソニーストアについて | ソニー - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8tYWdyQXliQW1QTFFyYmx3dnhDeFg0bzlEVTZuQ1FWeFByZVpkTWh0ZzBQYVVJVENiN1FsTHFKWDZWZWNRbVkxazlnWkQ5SHd1U2dyMjQxNmt2QWNTM3NCRWZ3?oc=5",
+      "pubDate": "Wed, 01 Jul 2026 05:03:10 GMT",
+      "timestamp": 1782882190.0,
+      "description": "ソニーストア おすすめ商品 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWRUNHhFWkxDN2d4SkVDWGhBUmoxVzMxWnhqeWtVY25rcTZsVE9zTHNVeGFOaHk2TWhnaUdmcmk5TE1hMVQ5NTVYOE90VVNNQjB6b3l2TWpaeVl0bWE4YnhkazBEYmRrdC03ZXVoQ3cxTzZTTEtUSkxBVmFWdmlCOFBJOVN0b0hlRnNVQlNZTXlqN2ZWLTJGRzVxaw?oc=5",
+      "title": "SEL600F40GM レンズ 本体ソフトウェアアップデート Ver. 02 （メモリーカード） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWRUNHhFWkxDN2d4SkVDWGhBUmoxVzMxWnhqeWtVY25rcTZsVE9zTHNVeGFOaHk2TWhnaUdmcmk5TE1hMVQ5NTVYOE90VVNNQjB6b3l2TWpaeVl0bWE4YnhkazBEYmRrdC03ZXVoQ3cxTzZTTEtUSkxBVmFWdmlCOFBJOVN0b0hlRnNVQlNZTXlqN2ZWLTJGRzVxaw?oc=5",
+      "pubDate": "Wed, 20 May 2026 15:49:27 GMT",
+      "timestamp": 1779292167.0,
+      "description": "SEL600F40GM レンズ 本体ソフトウェアアップデート Ver. 02 （メモリーカード）&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fTEhZOVpKMkJyQTVBR1VJWVh5SWdlV2UtbFRmOEpxcWFZUGdaZl9LOUpXU2NRak4yaHJTMU4wRHUxbXhzNkd5SDFScVhGWWlVUk9EOGhUSEhULXQtMHRNRDJSUFA3NmROMngydXZn?oc=5",
+      "title": "ILCE-7RM4A 本体ソフトウェアアップデート Ver. 1.13 （Windows） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fTEhZOVpKMkJyQTVBR1VJWVh5SWdlV2UtbFRmOEpxcWFZUGdaZl9LOUpXU2NRak4yaHJTMU4wRHUxbXhzNkd5SDFScVhGWWlVUk9EOGhUSEhULXQtMHRNRDJSUFA3NmROMngydXZn?oc=5",
+      "pubDate": "Thu, 16 Apr 2026 08:34:46 GMT",
+      "timestamp": 1776328486.0,
+      "description": "ILCE-7RM4A 本体ソフトウェアアップデート Ver. 1.13 （Windows）&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -208,8 +228,8 @@
       "pubDate": "Tue, 03 Mar 2026 04:56:44 GMT",
       "timestamp": 1772513804.0,
       "description": "Music Center for PC&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
+      "feedId": "product",
+      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlZnhtMjJsRThrdGhqQkMxWWVaeGNXTVpvVHZleXg3eGw2RGhuVGw4cDU0MlViNWZnZnBYcU9sWExqSVJtVDA1cDhn?oc=5",
@@ -220,16 +240,6 @@
       "description": "サポート&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlZnhtMjJsRThrdGhqQkMxWWVaeGNXTVpvVHZleXg3eGw2RGhuVGw4cDU0MlViNWZnZnBYcU9sWExqSVJtVDA1cDhn?oc=5",
-      "title": "サポート - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlZnhtMjJsRThrdGhqQkMxWWVaeGNXTVpvVHZleXg3eGw2RGhuVGw4cDU0MlViNWZnZnBYcU9sWExqSVJtVDA1cDhn?oc=5",
-      "pubDate": "Thu, 26 Feb 2026 19:53:59 GMT",
-      "timestamp": 1772135639.0,
-      "description": "サポート&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HZWRiLVlfNXNaWGNIdE5qZXMza2lIY2d0eVhTdjZPd2tBb1FkUGNGaXdxWEdBY3MtcDRiVjFld2UwcVpLWWRKWUNicmRxakM4WEx0aF93NjU0dzNPZnBzSDRoMXdWWG9YWkYwVw?oc=5",
@@ -480,16 +490,6 @@
       "description": "パーソナルコンピューター VAIO&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tVEdrSGxmd2Z0T2lDUExrWUVnSXdXWDVSNi1fQXlLdHpYRWRWNHlCNG5xams4anhzeUI4Xzd4eFotM3A2eHZXVVpkNlBvekYw?oc=5",
-      "title": "ソニーストア 銀座 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tVEdrSGxmd2Z0T2lDUExrWUVnSXdXWDVSNi1fQXlLdHpYRWRWNHlCNG5xams4anhzeUI4Xzd4eFotM3A2eHZXVVpkNlBvekYw?oc=5",
-      "pubDate": "Fri, 27 Mar 2015 19:17:37 GMT",
-      "timestamp": 1427483857.0,
-      "description": "ソニーストア 銀座&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GYjh5Q3VZOGF6UzZjY211YW5pOU84c1hac3hRMThnRDkyQ1V0dmdIemNlSDVMaVRLcXhETEowVkZFOFBNNDRJZm16NlR6eVBtNmNBQUxIRXVzaEswRnZta2o4VEVkTkt6U2tNa0hTSQ?oc=5",
