@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-10T02:07:17.344222+00:00",
+  "updatedAt": "2026-10-10T09:28:19.621510+00:00",
   "items": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "pubDate": "Sat, 10 Oct 2026 07:13:25 GMT",
+      "timestamp": 1791616405.0,
+      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ESUhMR3p0SzZnWXQ2WHFnX3hsOXBGMmF1N2FtbmdSR200bWZTM0w1SEEzZUpTM1hMQ25lUXpwVFpZcmd1OHM0dWxGeEFoeV94OWJNbGRtRlVBNVZVbktOSFF3YTQ?oc=5",
       "title": "ECM-AX10 主な仕様 | マイクロホン - ソニーストア",
@@ -28,16 +38,6 @@
       "pubDate": "Fri, 09 Oct 2026 01:10:33 GMT",
       "timestamp": 1791508233.0,
       "description": "世界初Eclipsa Audio（TM）対応のスマートフォン用空間オーディオマイクロホン発売 | ニュースリリース&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 01:10:29 GMT",
-      "timestamp": 1791508229.0,
-      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -130,16 +130,6 @@
       "description": "ソニーストア おすすめ商品 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWRUNHhFWkxDN2d4SkVDWGhBUmoxVzMxWnhqeWtVY25rcTZsVE9zTHNVeGFOaHk2TWhnaUdmcmk5TE1hMVQ5NTVYOE90VVNNQjB6b3l2TWpaeVl0bWE4YnhkazBEYmRrdC03ZXVoQ3cxTzZTTEtUSkxBVmFWdmlCOFBJOVN0b0hlRnNVQlNZTXlqN2ZWLTJGRzVxaw?oc=5",
-      "title": "SEL600F40GM レンズ 本体ソフトウェアアップデート Ver. 02 （メモリーカード） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPaWRUNHhFWkxDN2d4SkVDWGhBUmoxVzMxWnhqeWtVY25rcTZsVE9zTHNVeGFOaHk2TWhnaUdmcmk5TE1hMVQ5NTVYOE90VVNNQjB6b3l2TWpaeVl0bWE4YnhkazBEYmRrdC03ZXVoQ3cxTzZTTEtUSkxBVmFWdmlCOFBJOVN0b0hlRnNVQlNZTXlqN2ZWLTJGRzVxaw?oc=5",
-      "pubDate": "Wed, 20 May 2026 15:49:27 GMT",
-      "timestamp": 1779292167.0,
-      "description": "SEL600F40GM レンズ 本体ソフトウェアアップデート Ver. 02 （メモリーカード）&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzdoQUw0VTlQc0Z4WWg1SmJjaHhPcUFtWHlsNGswWkFxWlJTVEtFR3RqU1lJczFOYl9pRno4bVZlaHZHZ0E4aDI2bkh6aWg2OUNJRTlxN0xnT2JaanBxeG9yQkstMklYbTFBT2JOaUdkaGZMRnJyRUk1X09fVW5NWlI1RTlZaXRkRlVQLTVZZFN4a0k?oc=5",
@@ -242,6 +232,16 @@
       "feedName": "サポート・全般"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtekV0OXYzUFFPdDRKU2dMenNWTHZnQXZVdEpJXzEzUWJaUGZadTlmRlpoS1VoWm9UZzc2RC1kbms2dTh4dVNTY0s2OFZINFROYnZnS1hxY2h1YkE?oc=5",
+      "title": "Xperia 10 VII - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtekV0OXYzUFFPdDRKU2dMenNWTHZnQXZVdEpJXzEzUWJaUGZadTlmRlpoS1VoWm9UZzc2RC1kbms2dTh4dVNTY0s2OFZINFROYnZnS1hxY2h1YkE?oc=5",
+      "pubDate": "Fri, 12 Sep 2025 05:19:26 GMT",
+      "timestamp": 1757654366.0,
+      "description": "Xperia 10 VII&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxekJVVk01SHRMMm1jdVBtYW1nZVl4RFByWmtBY3BQeVpjUnVjQ0dRY25yaHQyZEhYQmxZU0lDU1ZEekZLd0hETE5nVXlZSEhoYV9qWjg0Mm1kaUl2MklLczgwNlBoZWZJaTA2dGlWMWRKWjFaY2c?oc=5",
       "title": "ソフトウェアアップデートできているか確認したい / 自動アップデートされるための設定方法は？ - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxekJVVk01SHRMMm1jdVBtYW1nZVl4RFByWmtBY3BQeVpjUnVjQ0dRY25yaHQyZEhYQmxZU0lDU1ZEekZLd0hETE5nVXlZSEhoYV9qWjg0Mm1kaUl2MklLczgwNlBoZWZJaTA2dGlWMWRKWjFaY2c?oc=5",
@@ -312,12 +312,12 @@
       "feedName": "ストア・イベント"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdkhkMGg0T20xUWViM1dHSEtnSmFrTWVjeS10UjRaeTZzMm5fSnRuQnAxa3RrM2lIQllIRlIyendoOWpiUEVMR0Y3bDkwdkdwN1dpc3hKVFZfZS0yUEt4MUk3cEJ3ZzZYNURfaF9qdS1UMEFRdDkxUVJTQk9ISWpJNg?oc=5",
-      "title": "困ったときは モバイル視聴に関するエラーコードと対処方法 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdkhkMGg0T20xUWViM1dHSEtnSmFrTWVjeS10UjRaeTZzMm5fSnRuQnAxa3RrM2lIQllIRlIyendoOWpiUEVMR0Y3bDkwdkdwN1dpc3hKVFZfZS0yUEt4MUk3cEJ3ZzZYNURfaF9qdS1UMEFRdDkxUVJTQk9ISWpJNg?oc=5",
-      "pubDate": "Wed, 19 Jan 2022 07:24:16 GMT",
-      "timestamp": 1642577056.0,
-      "description": "困ったときは モバイル視聴に関するエラーコードと対処方法&nbsp;&nbsp;ソニーストア",
+      "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83OTB5ZThHbjhxNk4zNjRWQUJHenRQeTVIV0U5blhoQnA3QTYtc0pkQjRFZXo3THVFY3U2UFpQZXc2ZUVvODl4ZHlZYlE1SUNwMDByZldZZ1ZYUnNuck1raUFGa1IwV0N0?oc=5",
+      "title": "アプリアップデート情報 | Xperia Hello!（G1209） | Xperia Smart Products | サポート・お問い合わせ - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83OTB5ZThHbjhxNk4zNjRWQUJHenRQeTVIV0U5blhoQnA3QTYtc0pkQjRFZXo3THVFY3U2UFpQZXc2ZUVvODl4ZHlZYlE1SUNwMDByZldZZ1ZYUnNuck1raUFGa1IwV0N0?oc=5",
+      "pubDate": "Mon, 10 May 2021 07:00:00 GMT",
+      "timestamp": 1620630000.0,
+      "description": "アプリアップデート情報 | Xperia Hello!（G1209） | Xperia Smart Products | サポート・お問い合わせ&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
     },
@@ -372,22 +372,22 @@
       "feedName": "カメラ更新"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlZFLUZEUnpvc3BUcjhOQjVHOVBiWDEyN1FyOVVXUVNwaVIza0FXSGVqOFpnNU1BM1pPQ2pZZUptVU5fQXlVOTJmOGpXSVIwRGFPczdTel9UZndOT0tsWl92LXJSc3dHcXd1SlV2RHJHX2NBZ2dEbjhKMTlnRE9CbmQ5dmZVNkItdlk0ZDAtOA?oc=5",
+      "title": "デジタルスチルカメラ サイバーショット ファームウェアアップデートのご案内 - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQlZFLUZEUnpvc3BUcjhOQjVHOVBiWDEyN1FyOVVXUVNwaVIza0FXSGVqOFpnNU1BM1pPQ2pZZUptVU5fQXlVOTJmOGpXSVIwRGFPczdTel9UZndOT0tsWl92LXJSc3dHcXd1SlV2RHJHX2NBZ2dEbjhKMTlnRE9CbmQ5dmZVNkItdlk0ZDAtOA?oc=5",
+      "pubDate": "Thu, 24 May 2018 12:29:44 GMT",
+      "timestamp": 1527164984.0,
+      "description": "デジタルスチルカメラ サイバーショット ファームウェアアップデートのご案内&nbsp;&nbsp;ソニーストア",
+      "feedId": "camera_update",
+      "feedName": "カメラ更新"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nd1J3N3lkV3lzeGxfS010OUk0YzRuVk9HOEd5S1ptbGZsM1I5anA2WVFDcjV2ZnJLTFg4cEROY1RyRGJvSWVfRF9YLW94My1hZndDTkp1Y0h3Y2ZhdGMtOUFTMWxxYjJpZWV3SFgzY1ZIM1V2ZWNMWEpHMA?oc=5",
       "title": "α700(DSLR-A700) ファームウェアアップデート - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nd1J3N3lkV3lzeGxfS010OUk0YzRuVk9HOEd5S1ptbGZsM1I5anA2WVFDcjV2ZnJLTFg4cEROY1RyRGJvSWVfRF9YLW94My1hZndDTkp1Y0h3Y2ZhdGMtOUFTMWxxYjJpZWV3SFgzY1ZIM1V2ZWNMWEpHMA?oc=5",
       "pubDate": "Thu, 08 Mar 2018 02:29:47 GMT",
       "timestamp": 1520476187.0,
       "description": "α700(DSLR-A700) ファームウェアアップデート&nbsp;&nbsp;ソニーストア",
-      "feedId": "camera_update",
-      "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83OTB5ZThHbjhxNk4zNjRWQUJHenRQeTVIV0U5blhoQnA3QTYtc0pkQjRFZXo3THVFY3U2UFpQZXc2ZUVvODl4ZHlZYlE1SUNwMDByZldZZ1ZYUnNuck1raUFGa1IwV0N0?oc=5",
-      "title": "アプリアップデート情報 | Xperia Hello!（G1209） | Xperia Smart Products | サポート・お問い合わせ - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83OTB5ZThHbjhxNk4zNjRWQUJHenRQeTVIV0U5blhoQnA3QTYtc0pkQjRFZXo3THVFY3U2UFpQZXc2ZUVvODl4ZHlZYlE1SUNwMDByZldZZ1ZYUnNuck1raUFGa1IwV0N0?oc=5",
-      "pubDate": "Wed, 07 Feb 2018 14:44:57 GMT",
-      "timestamp": 1518014697.0,
-      "description": "アプリアップデート情報 | Xperia Hello!（G1209） | Xperia Smart Products | サポート・お問い合わせ&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
     },
