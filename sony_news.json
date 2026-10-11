@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-10T23:16:12.852225+00:00",
+  "updatedAt": "2026-10-11T04:16:52.207732+00:00",
   "items": [
-    {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 22:24:09 GMT",
-      "timestamp": 1791584649.0,
-      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
     {
       "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ESUhMR3p0SzZnWXQ2WHFnX3hsOXBGMmF1N2FtbmdSR200bWZTM0w1SEEzZUpTM1hMQ25lUXpwVFpZcmd1OHM0dWxGeEFoeV94OWJNbGRtRlVBNVZVbktOSFF3YTQ?oc=5",
       "title": "ECM-AX10 主な仕様 | マイクロホン - ソニーストア",
@@ -18,6 +8,16 @@
       "pubDate": "Fri, 09 Oct 2026 03:59:57 GMT",
       "timestamp": 1791518397.0,
       "description": "ECM-AX10 主な仕様 | マイクロホン&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "pubDate": "Fri, 09 Oct 2026 01:26:11 GMT",
+      "timestamp": 1791509171.0,
+      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -152,16 +152,6 @@
       "feedName": "サポート・全般"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcWVQcTVzc0ZRbTRmYURqNUhFeVg3eF9iUHRDalczMkRYWjdjMmxKVkxvZjdvWTdXbjJrckhWa0FReDdMaG1OZ2t1a01sTWVwWXBLZ1hZa2pudXdpeUV0NVFKbF80dm5CVEk3bUFnYXlQMS13T3UwS1BUT2JveDB4dnE2YXpVQQ?oc=5",
-      "title": "ILCE-7M3 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPcWVQcTVzc0ZRbTRmYURqNUhFeVg3eF9iUHRDalczMkRYWjdjMmxKVkxvZjdvWTdXbjJrckhWa0FReDdMaG1OZ2t1a01sTWVwWXBLZ1hZa2pudXdpeUV0NVFKbF80dm5CVEk3bUFnYXlQMS13T3UwS1BUT2JveDB4dnE2YXpVQQ?oc=5",
-      "pubDate": "Tue, 03 Mar 2026 19:08:20 GMT",
-      "timestamp": 1772564900.0,
-      "description": "ILCE-7M3&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YRFFQOEc4YVJYVzh5SENjUWRva0NjNzBhRUpReDZKVnRwNE1Pam04WHlQTzhKZHFFSHk3d0ppZXg0LXNnRWpVRTN1QWRlSldEWjFnbVR3d2JYZi1mcUkyOXFBWEFBSE9RTFBnWndn?oc=5",
       "title": "メモリーカードでカメラをアップデートする方法 - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YRFFQOEc4YVJYVzh5SENjUWRva0NjNzBhRUpReDZKVnRwNE1Pam04WHlQTzhKZHFFSHk3d0ppZXg0LXNnRWpVRTN1QWRlSldEWjFnbVR3d2JYZi1mcUkyOXFBWEFBSE9RTFBnWndn?oc=5",
@@ -250,6 +240,16 @@
       "description": "ソニーグループ共通 インターンシップ・新卒採用マイページ&nbsp;&nbsp;ソニー株式会社",
       "feedId": "product",
       "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BLW1DQ2pqWUVHNUluV240WmhnNGE3WjNDRmdWdU94aEJKaHdkQk5KM1hxcHdub3REWF9HQjQ0UWJRVkpRbVoycGlWWGJXMFNZMUV5U0lRcWwtYmNqMlBrVHRHWU1ZaTBMVy1faVJn?oc=5",
+      "title": "Androidのソフトウェアアップデートを行う方法は？ - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BLW1DQ2pqWUVHNUluV240WmhnNGE3WjNDRmdWdU94aEJKaHdkQk5KM1hxcHdub3REWF9HQjQ0UWJRVkpRbVoycGlWWGJXMFNZMUV5U0lRcWwtYmNqMlBrVHRHWU1ZaTBMVy1faVJn?oc=5",
+      "pubDate": "Tue, 11 Mar 2025 07:00:00 GMT",
+      "timestamp": 1741676400.0,
+      "description": "Androidのソフトウェアアップデートを行う方法は？&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGX1RFclNJSVFqU2p4eWJTRmQwR1hCZVVuOUV2VHdXQnFqUXk0bDhIU200RWpkZDVaelVBMzhwcEN5Tlg2VXBSTS1Ba1h4cTcwQXhkNnZULVRZdlJPQjRuMkszNnVodW1NVUlYbmRWczAxUFdEZlE?oc=5",
@@ -422,6 +422,16 @@
       "feedName": "カメラ更新"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1TEV0eVV4UURyOGxudHU5a0ZRbzcwS2ZDdzZZVm51RUJ0Zk9xSUU4R1FyMlkzMUNSdVFTYmZ4dzBJOTJZNHpTT3ltZzZjV1hkNUxNaGZRdjc?oc=5",
+      "title": "ソフトウェアダウンロード | ポータブルオーディオプレーヤー WALKMAN ウォークマン | サポート・お問い合わせ - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB1TEV0eVV4UURyOGxudHU5a0ZRbzcwS2ZDdzZZVm51RUJ0Zk9xSUU4R1FyMlkzMUNSdVFTYmZ4dzBJOTJZNHpTT3ltZzZjV1hkNUxNaGZRdjc?oc=5",
+      "pubDate": "Fri, 11 Dec 2015 21:41:13 GMT",
+      "timestamp": 1449870073.0,
+      "description": "ソフトウェアダウンロード | ポータブルオーディオプレーヤー WALKMAN ウォークマン | サポート・お問い合わせ&nbsp;&nbsp;ソニーストア",
+      "feedId": "camera_update",
+      "feedName": "カメラ更新"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4X1YtcTZUNFBuTnotd3BSSDlwTERXbV83cmxKUlRJR0hOdUM3eFNEeUVBMHNKOVVleXNYenJOVEtMdHYwTWRR?oc=5",
       "title": "ソニーストアのご利用ガイド | ソニーストアについて | ソニー - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4X1YtcTZUNFBuTnotd3BSSDlwTERXbV83cmxKUlRJR0hOdUM3eFNEeUVBMHNKOVVleXNYenJOVEtMdHYwTWRR?oc=5",
@@ -510,16 +520,6 @@
       "description": "エラー&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2QUJwTnFGTjEzbGZQRl9UMlg0WEpiNHd5UXQ0Zk83MHMyajd2VzhRT1Q4VXZES29VWGNIbW5xR2NoVlo5X2VpRVZQU1k2a2l0akNScV96eXNfTFp3RHhJenhyTERXbmlfQ3pqeVd6NTNXZUstLVk4OTJhc1lZekU?oc=5",
-      "title": "“ウォークマン”詳細操作ガイド 取扱説明書（HTML版） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2QUJwTnFGTjEzbGZQRl9UMlg0WEpiNHd5UXQ0Zk83MHMyajd2VzhRT1Q4VXZES29VWGNIbW5xR2NoVlo5X2VpRVZQU1k2a2l0akNScV96eXNfTFp3RHhJenhyTERXbmlfQ3pqeVd6NTNXZUstLVk4OTJhc1lZekU?oc=5",
-      "pubDate": "Mon, 07 Nov 2011 18:16:06 GMT",
-      "timestamp": 1320689766.0,
-      "description": "“ウォークマン”詳細操作ガイド 取扱説明書（HTML版）&nbsp;&nbsp;ソニーストア",
-      "feedId": "camera_update",
-      "feedName": "カメラ更新"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPOU12VThwLWYtS1I0Q1dOaWg3Qk8xU0tQRXoxT0RsWF9JZ2Y0dXNIMTZLbmhfNW9QUkVvQTNMTEZfTnpsaXhIY0lTcmNVcVlMdDZrU0hQOHJ0SURuaXNlZDB2eE91SG5LNGlWOVpGaHlKM1hRRlJQRGpWSDdYcTJYclJCQlczdw?oc=5",
