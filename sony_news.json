@@ -1,12 +1,22 @@
 {
-  "updatedAt": "2026-10-14T00:53:57.799126+00:00",
+  "updatedAt": "2026-10-14T05:52:01.158505+00:00",
   "items": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
+      "title": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
+      "pubDate": "Tue, 13 Oct 2026 00:02:42 GMT",
+      "timestamp": 1791849762.0,
+      "description": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Sun, 11 Oct 2026 22:57:28 GMT",
-      "timestamp": 1791759448.0,
+      "pubDate": "Mon, 12 Oct 2026 04:58:41 GMT",
+      "timestamp": 1791781121.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -20,16 +30,6 @@
       "description": "【結果発表】月例オープンフォトコンテスト 第65回&nbsp;&nbsp;αcafe",
       "feedId": "store",
       "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fUFZndlVVRzQ1d2MzaklTZjl2Q2FJS0tqY2hUNGhKdU5KdnBqd1FMWUhuWjlWNE0tSGNSNGRXWC1VdWt3aUg1YXMxTlJUOTFIZDV4NmhwQ1MzcE1kbWc?oc=5",
-      "title": "ECM-AX10 | マイクロホン - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fUFZndlVVRzQ1d2MzaklTZjl2Q2FJS0tqY2hUNGhKdU5KdnBqd1FMWUhuWjlWNE0tSGNSNGRXWC1VdWt3aUg1YXMxTlJUOTFIZDV4NmhwQ1MzcE1kbWc?oc=5",
-      "pubDate": "Fri, 09 Oct 2026 01:54:00 GMT",
-      "timestamp": 1791510840.0,
-      "description": "ECM-AX10 | マイクロホン&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fcXBzT0FpUGxLZGhJSDlaQ2U0YmxjbTRrN0JnSnY0VnBlbGl5djdRVXNQRkZTQmFLaHFTM1YwY2lJc2xYRktya25DWlpsalgyejJpMXp0OENCRHU1MnZZdVZod3RydS00?oc=5",
@@ -92,6 +92,16 @@
       "feedName": "ストア・イベント"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHTXdUTDVBNWRuUm1FZ3FJN0FXcWxkZTBMaDZ4bEc1VnlxQjd3QXBTUnN2cHQ0Q1ZLLU5ncVBaVGhjTnd5UjVxMUtUTzZvMS1PbTZBMFphSUE4eFlNOGx4UTRHSmx2MExqWWZoZQ?oc=5",
+      "title": "ソニーストア 店舗 感謝祭 | ソニーストアについて | ソニー - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHTXdUTDVBNWRuUm1FZ3FJN0FXcWxkZTBMaDZ4bEc1VnlxQjd3QXBTUnN2cHQ0Q1ZLLU5ncVBaVGhjTnd5UjVxMUtUTzZvMS1PbTZBMFphSUE4eFlNOGx4UTRHSmx2MExqWWZoZQ?oc=5",
+      "pubDate": "Wed, 16 Sep 2026 10:49:47 GMT",
+      "timestamp": 1789555787.0,
+      "description": "ソニーストア 店舗 感謝祭 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sRkpGdmZEVjROR19JS2FiaU84Q2huZ3pDdnAzb0h5LVNsN2kxcGRvY2k3ZkVKNktQaHJ4RmlUMi1Hd1JxVWc1V0tjTkljSWpuc09UUDZVcGY5OHJWOEVKLXJLX1JjRGFGQ29XSWVn?oc=5",
       "title": "Android™ 17で Xperiaをもっと楽しく - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sRkpGdmZEVjROR19JS2FiaU84Q2huZ3pDdnAzb0h5LVNsN2kxcGRvY2k3ZkVKNktQaHJ4RmlUMi1Hd1JxVWc1V0tjTkljSWpuc09UUDZVcGY5OHJWOEVKLXJLX1JjRGFGQ29XSWVn?oc=5",
@@ -128,16 +138,6 @@
       "pubDate": "Mon, 06 Apr 2026 06:00:41 GMT",
       "timestamp": 1775455241.0,
       "description": "ドライバーとソフトウェアのアップデート スマートフォン | ソニー&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tTHhFb21VanNTS3k1MVhZODhlMkcyR1NMUXRKMW5pU3dIYVo4eGowZHFwdXhpb1ZUZmh6NV8ybEdFR3JYMUZoTVZwVmh0X0szdzN1Q1JUT0V1SDJ0Z181d2ZKSDl3V3lDZkhaRzVB?oc=5",
-      "title": "SEL600F40GM レンズ 本体ソフトウェアアップデート Ver. 02 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tTHhFb21VanNTS3k1MVhZODhlMkcyR1NMUXRKMW5pU3dIYVo4eGowZHFwdXhpb1ZUZmh6NV8ybEdFR3JYMUZoTVZwVmh0X0szdzN1Q1JUT0V1SDJ0Z181d2ZKSDl3V3lDZkhaRzVB?oc=5",
-      "pubDate": "Tue, 10 Mar 2026 09:07:28 GMT",
-      "timestamp": 1773133648.0,
-      "description": "SEL600F40GM レンズ 本体ソフトウェアアップデート Ver. 02&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -198,6 +198,16 @@
       "pubDate": "Tue, 18 Nov 2025 05:51:42 GMT",
       "timestamp": 1763445102.0,
       "description": "WF-1000XM5 本体ソフトウェア アップデート方法（Ver 6.1.0）Android | ヘッドホン | ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtekV0OXYzUFFPdDRKU2dMenNWTHZnQXZVdEpJXzEzUWJaUGZadTlmRlpoS1VoWm9UZzc2RC1kbms2dTh4dVNTY0s2OFZINFROYnZnS1hxY2h1YkE?oc=5",
+      "title": "Xperia 10 VII - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtekV0OXYzUFFPdDRKU2dMenNWTHZnQXZVdEpJXzEzUWJaUGZadTlmRlpoS1VoWm9UZzc2RC1kbms2dTh4dVNTY0s2OFZINFROYnZnS1hxY2h1YkE?oc=5",
+      "pubDate": "Fri, 12 Sep 2025 05:19:26 GMT",
+      "timestamp": 1757654366.0,
+      "description": "Xperia 10 VII&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -288,16 +298,6 @@
       "pubDate": "Wed, 22 Feb 2023 03:51:08 GMT",
       "timestamp": 1677037868.0,
       "description": "ソニーストアご利用感謝 ラッキー抽選会 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TeF9rZm83UUs1TGVKRGNhSXVmVHVxaWpSMzdONlQ0V1psdkxTdHRxY3hjRXg4dG5hemV3SHdzRXRYX3BRTEs3TFE4U3lhMTdGNjkzY1RaZXJCeThvekdr?oc=5",
-      "title": "残価設定クレジット（SIMフリーモデル） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TeF9rZm83UUs1TGVKRGNhSXVmVHVxaWpSMzdONlQ0V1psdkxTdHRxY3hjRXg4dG5hemV3SHdzRXRYX3BRTEs3TFE4U3lhMTdGNjkzY1RaZXJCeThvekdr?oc=5",
-      "pubDate": "Wed, 11 May 2022 22:31:08 GMT",
-      "timestamp": 1652308268.0,
-      "description": "残価設定クレジット（SIMフリーモデル）&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
     },
