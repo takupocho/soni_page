@@ -1,12 +1,22 @@
 {
-  "updatedAt": "2026-10-14T23:43:05.158008+00:00",
+  "updatedAt": "2026-10-15T03:25:09.203936+00:00",
   "items": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xeWZ3QXA4cndWX2F6VklnM0l0WmlOR3ZkR1NGdXdDdk5RTmUzbGxPNHhoc2k3MHE0d1lkSWdIUzhrN0o1dE5BRmRlQjZfeGRyVDhjYjF0OGJpaDZhMEE?oc=5",
+      "title": "魚住誠一のWho’s Next Vol.8 川原美杏 Kawahara Mian | α Universe | デジタル一眼カメラα（アルファ） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4xeWZ3QXA4cndWX2F6VklnM0l0WmlOR3ZkR1NGdXdDdk5RTmUzbGxPNHhoc2k3MHE0d1lkSWdIUzhrN0o1dE5BRmRlQjZfeGRyVDhjYjF0OGJpaDZhMEE?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 15:00:00 GMT",
+      "timestamp": 1791990000.0,
+      "description": "魚住誠一のWho’s Next Vol.8 川原美杏 Kawahara Mian | α Universe | デジタル一眼カメラα（アルファ）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
       "title": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
-      "pubDate": "Tue, 13 Oct 2026 21:41:34 GMT",
-      "timestamp": 1791927694.0,
+      "pubDate": "Wed, 14 Oct 2026 00:44:10 GMT",
+      "timestamp": 1791938650.0,
       "description": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -18,16 +28,6 @@
       "pubDate": "Tue, 13 Oct 2026 17:18:54 GMT",
       "timestamp": 1791911934.0,
       "description": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Mon, 12 Oct 2026 20:06:08 GMT",
-      "timestamp": 1791835568.0,
-      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -162,6 +162,16 @@
       "feedName": "サポート・全般"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "pubDate": "Wed, 13 May 2026 02:14:31 GMT",
+      "timestamp": 1778638471.0,
+      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzdoQUw0VTlQc0Z4WWg1SmJjaHhPcUFtWHlsNGswWkFxWlJTVEtFR3RqU1lJczFOYl9pRno4bVZlaHZHZ0E4aDI2bkh6aWg2OUNJRTlxN0xnT2JaanBxeG9yQkstMklYbTFBT2JOaUdkaGZMRnJyRUk1X09fVW5NWlI1RTlZaXRkRlVQLTVZZFN4a0k?oc=5",
       "title": "ドライバーとソフトウェアのアップデート スマートフォン | ソニー - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzdoQUw0VTlQc0Z4WWg1SmJjaHhPcUFtWHlsNGswWkFxWlJTVEtFR3RqU1lJczFOYl9pRno4bVZlaHZHZ0E4aDI2bkh6aWg2OUNJRTlxN0xnT2JaanBxeG9yQkstMklYbTFBT2JOaUdkaGZMRnJyRUk1X09fVW5NWlI1RTlZaXRkRlVQLTVZZFN4a0k?oc=5",
@@ -292,16 +302,6 @@
       "feedName": "サポート・全般"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nTlktMUZlX3J4LUZmSTJZZk9DMkk2b1JhYU9CY1RGVzNXVmd0NzRFREV3dzQ5V05scWNhWXF3SEZuZG5hU0pMdnlCcHZBTDN4VnFFQmdR?oc=5",
-      "title": "壁紙ダウンロード | My Sony | ソニー - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1nTlktMUZlX3J4LUZmSTJZZk9DMkk2b1JhYU9CY1RGVzNXVmd0NzRFREV3dzQ5V05scWNhWXF3SEZuZG5hU0pMdnlCcHZBTDN4VnFFQmdR?oc=5",
-      "pubDate": "Thu, 03 Oct 2024 19:42:04 GMT",
-      "timestamp": 1727984524.0,
-      "description": "壁紙ダウンロード | My Sony | ソニー&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpUW14Q2VvMWh4aGR2UmFob1dSeVMwcG50QTZoSjRPSVpQWlBiZkt6dzJ0UktreFZqNV9FdnFmM1hZQWROU2RoZUlR?oc=5",
       "title": "Xperia（エクスペリア）スマートフォン | Xperia（エクスペリア） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpUW14Q2VvMWh4aGR2UmFob1dSeVMwcG50QTZoSjRPSVpQWlBiZkt6dzJ0UktreFZqNV9FdnFmM1hZQWROU2RoZUlR?oc=5",
@@ -388,6 +388,16 @@
       "pubDate": "Thu, 08 Mar 2018 02:29:47 GMT",
       "timestamp": 1520476187.0,
       "description": "α700(DSLR-A700) ファームウェアアップデート&nbsp;&nbsp;ソニーストア",
+      "feedId": "camera_update",
+      "feedName": "カメラ更新"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ0gtOHBWODNKajVLamViWUw1UWZZZ1Jjcnhkb0Z2dzVZSkJ2U05ydHJXNUpZcncxSlk5RWRoejVxZHNyVlJFczQ3R1JCUjdFRVB6QlBva2JCem1WTklvbzYtY2JaaVFuSFZGLVRrZWhNVEpwRzc0MnZHRnA1SGtpdUtB?oc=5",
+      "title": "α100(DSLR-A100) ファームウェアアップデート - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ0gtOHBWODNKajVLamViWUw1UWZZZ1Jjcnhkb0Z2dzVZSkJ2U05ydHJXNUpZcncxSlk5RWRoejVxZHNyVlJFczQ3R1JCUjdFRVB6QlBva2JCem1WTklvbzYtY2JaaVFuSFZGLVRrZWhNVEpwRzc0MnZHRnA1SGtpdUtB?oc=5",
+      "pubDate": "Sat, 03 Mar 2018 07:07:42 GMT",
+      "timestamp": 1520060862.0,
+      "description": "α100(DSLR-A100) ファームウェアアップデート&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
     },
@@ -490,16 +500,6 @@
       "description": "My Sony について | My Sony | ソニー&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTRQRzAtRlVENUZPMFcwandpc09aejVOdjEyZVJRRXRHcC1zTXl2c2h6bE1vM3lIM0E4dG5SRmxrZHRSeUEyOVhaWndfNUZSMjVSamRTY2pMSUdGSmhCYWhVWG91ZW9mbVNmelVVTFhYSDlKLTdfempCWlltdjZMVE9WZ3I?oc=5",
-      "title": "ヘルプガイド - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMTRQRzAtRlVENUZPMFcwandpc09aejVOdjEyZVJRRXRHcC1zTXl2c2h6bE1vM3lIM0E4dG5SRmxrZHRSeUEyOVhaWndfNUZSMjVSamRTY2pMSUdGSmhCYWhVWG91ZW9mbVNmelVVTFhYSDlKLTdfempCWlltdjZMVE9WZ3I?oc=5",
-      "pubDate": "Wed, 16 Oct 2013 23:30:44 GMT",
-      "timestamp": 1381966244.0,
-      "description": "ヘルプガイド&nbsp;&nbsp;ソニーストア",
-      "feedId": "camera_update",
-      "feedName": "カメラ更新"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtR0VDY1g1ODZKMktRd0xSWXZjRUc3UWdqWUREcmpxSEstRldJRmxTQXc1dWl0Zms4ODI3U3c3OFJUS0RvamJrRmdkRFVhbU9BNnYyVUx5aw?oc=5",
