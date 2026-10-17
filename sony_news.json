@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T11:24:08.410269+00:00",
+  "updatedAt": "2026-10-17T15:02:28.042312+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sVDk4UFBFR3JneWNJc3ZTZlc1anJ3dHhTcEotT082NUNZRzBpY2ZmbTVCclpVbURLYU8wOC1NOE5saUlRV01EaTVITEc4ejVXdURrdjE1c3JvbGxWYzd0ekUzV0t3aVFaZE81WjNHdw?oc=5",
@@ -32,16 +32,6 @@
       "feedName": "サポート・全般"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zUzJvUGRVWi1zTWlMZ0VncjRZaUJqd2NfWGhZTkY2bl8tQk1YYXoyOVJNUmhHc2tHRjhaMGR5MW5NQ2dGR21ROTJNMU9JRVZvd1lGQ1hmS29ZdzZDNlhxUERWNkZIOGc?oc=5",
-      "title": "NW-ZX900 の特長： 高音質パーツ | ポータブルオーディオプレーヤー ウォークマン - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zUzJvUGRVWi1zTWlMZ0VncjRZaUJqd2NfWGhZTkY2bl8tQk1YYXoyOVJNUmhHc2tHRjhaMGR5MW5NQ2dGR21ROTJNMU9JRVZvd1lGQ1hmS29ZdzZDNlhxUERWNkZIOGc?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 04:39:50 GMT",
-      "timestamp": 1792125590.0,
-      "description": "NW-ZX900 の特長： 高音質パーツ | ポータブルオーディオプレーヤー ウォークマン&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ySjlBLXRyT05XY0k0Ym56YkxLWlFYdmNNR2VyUXE5cUhKTkNwN2tjQ1IwMTNFcEtfVzdmLWotYTBfdmJZLU85NURJMngzWThDR1ZWZVdXVzJ2UQ?oc=5",
       "title": "NW-ZX900 | ポータブルオーディオプレーヤー ウォークマン - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ySjlBLXRyT05XY0k0Ym56YkxLWlFYdmNNR2VyUXE5cUhKTkNwN2tjQ1IwMTNFcEtfVzdmLWotYTBfdmJZLU85NURJMngzWThDR1ZWZVdXVzJ2UQ?oc=5",
@@ -50,6 +40,16 @@
       "description": "NW-ZX900 | ポータブルオーディオプレーヤー ウォークマン&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ySjlBLXRyT05XY0k0Ym56YkxLWlFYdmNNR2VyUXE5cUhKTkNwN2tjQ1IwMTNFcEtfVzdmLWotYTBfdmJZLU85NURJMngzWThDR1ZWZVdXVzJ2UQ?oc=5",
+      "title": "NW-ZX900 | ポータブルオーディオプレーヤー ウォークマン - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ySjlBLXRyT05XY0k0Ym56YkxLWlFYdmNNR2VyUXE5cUhKTkNwN2tjQ1IwMTNFcEtfVzdmLWotYTBfdmJZLU85NURJMngzWThDR1ZWZVdXVzJ2UQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 04:37:41 GMT",
+      "timestamp": 1792125461.0,
+      "description": "NW-ZX900 | ポータブルオーディオプレーヤー ウォークマン&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80RXBVWHFYd244US1adnZVRVJ4MmdtN29EMDB1UFlRLXVMaWRXT2lPcGRCb2gzemcwYjdhUTZ3eTg0cG82Y1Yxb3ptQkNELVlOYjJocUhDRnp0RW03UlhULVp2aW03UkNVa0R3THVOMkM4a095dnk4MllEQ1A?oc=5",
@@ -98,6 +98,16 @@
       "pubDate": "Fri, 16 Oct 2026 01:31:08 GMT",
       "timestamp": 1792114268.0,
       "description": "NW-WM1ZM3 | ポータブルオーディオプレーヤー ウォークマン&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kdXl0X3RmWlh2NGdtbGptZ0lEVnF0cEFYdXVBZVlTZ1NZMEo2dFA1aVRKRGoyUlpqOVRZOXl1ZVIzWDZRUVdmRGV0MUxGdWx3Y3JMUXdocWpjQ00?oc=5",
+      "title": "NW-WM1ZM3 | ポータブルオーディオプレーヤー ウォークマン - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kdXl0X3RmWlh2NGdtbGptZ0lEVnF0cEFYdXVBZVlTZ1NZMEo2dFA1aVRKRGoyUlpqOVRZOXl1ZVIzWDZRUVdmRGV0MUxGdWx3Y3JMUXdocWpjQ00?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 01:31:08 GMT",
+      "timestamp": 1792114268.0,
+      "description": "NW-WM1ZM3 | ポータブルオーディオプレーヤー ウォークマン&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -112,6 +122,16 @@
       "feedName": "製品ニュース"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "pubDate": "Thu, 15 Oct 2026 14:40:14 GMT",
+      "timestamp": 1792075214.0,
+      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82OTRxRXFvdXc0a3QzX2hxQmswWXJjMHhMeE1WTGtNeWw2aVdNV25ia3dmTE83Z2FuOGhvOEYtek5lSS1MYm1WOFBpY3gxQW9qMklhSEp5Q0NXVXpVXzNPcnFzSmVCZw?oc=5",
       "title": "コンテンツ情報 - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82OTRxRXFvdXc0a3QzX2hxQmswWXJjMHhMeE1WTGtNeWw2aVdNV25ia3dmTE83Z2FuOGhvOEYtek5lSS1MYm1WOFBpY3gxQW9qMklhSEp5Q0NXVXpVXzNPcnFzSmVCZw?oc=5",
@@ -120,16 +140,6 @@
       "description": "コンテンツ情報&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 08:39:19 GMT",
-      "timestamp": 1792053559.0,
-      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5SbU04SXBBNnJJRHFVT1VxT0JkUWVYN0tWNFROQmxiS2Zmbnp4bUI3UXFlUklWMWlkb1VjOXRSVXZ2Y2ZTSU52UnZNdDJrR1poM19kbFJPV2V5eGhZbmpRbGwzZVI?oc=5",
@@ -180,16 +190,6 @@
       "description": "ECM-W5 | デジタル一眼カメラ α（アルファ）&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
-      "title": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 10:15:13 GMT",
-      "timestamp": 1791972913.0,
-      "description": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1waDNuUHJFSVZoQm85Q2pGNHowSDlkY2dyZ1NNUUYxdXFwSEkwejY2dld0aTM5ckJqMzlVUUctNGNwUWNyYms3RnJWNG5wT0RueWRuX2l1REpfaEYtVlppZWk1VXpLdw?oc=5",
@@ -352,16 +352,6 @@
       "feedName": "ストア・イベント"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xRVdBejN1X1k0TFJ4ZWNUZmpZLXhqZ2xycVNPaHNLNmNod2pDNTRtdHlvMDFORkE5eGxnVnhqZEJ1aVplVHN6WVVhNEI?oc=5",
-      "title": "ソニーグループ共通 インターンシップ・新卒採用マイページ - ソニー株式会社",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xRVdBejN1X1k0TFJ4ZWNUZmpZLXhqZ2xycVNPaHNLNmNod2pDNTRtdHlvMDFORkE5eGxnVnhqZEJ1aVplVHN6WVVhNEI?oc=5",
-      "pubDate": "Tue, 01 Apr 2025 07:00:00 GMT",
-      "timestamp": 1743490800.0,
-      "description": "ソニーグループ共通 インターンシップ・新卒採用マイページ&nbsp;&nbsp;ソニー株式会社",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BLW1DQ2pqWUVHNUluV240WmhnNGE3WjNDRmdWdU94aEJKaHdkQk5KM1hxcHdub3REWF9HQjQ0UWJRVkpRbVoycGlWWGJXMFNZMUV5U0lRcWwtYmNqMlBrVHRHWU1ZaTBMVy1faVJn?oc=5",
       "title": "Androidのソフトウェアアップデートを行う方法は？ - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5BLW1DQ2pqWUVHNUluV240WmhnNGE3WjNDRmdWdU94aEJKaHdkQk5KM1hxcHdub3REWF9HQjQ0UWJRVkpRbVoycGlWWGJXMFNZMUV5U0lRcWwtYmNqMlBrVHRHWU1ZaTBMVy1faVJn?oc=5",
@@ -390,6 +380,16 @@
       "description": "アプリをアップデート（インストール）できない | よくある質問 | Windows アプリ | PC TV Plus&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
+      "title": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
+      "pubDate": "Sun, 21 May 2023 21:33:45 GMT",
+      "timestamp": 1684704825.0,
+      "description": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ZVYyNFB2N0k5b1l0a2JvS3Y2OFFOeWNfQWhQUmtDR3hVcGFnSFNWdFA4bkp3ZDVDMzVLUVRCazVoWEFObVlmTGItR2taRHlRLVdab2dBVVg?oc=5",
