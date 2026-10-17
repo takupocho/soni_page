@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T06:36:36.638702+00:00",
+  "updatedAt": "2026-10-17T11:24:08.410269+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sVDk4UFBFR3JneWNJc3ZTZlc1anJ3dHhTcEotT082NUNZRzBpY2ZmbTVCclpVbURLYU8wOC1NOE5saUlRV01EaTVITEc4ejVXdURrdjE1c3JvbGxWYzd0ekUzV0t3aVFaZE81WjNHdw?oc=5",
@@ -32,6 +32,16 @@
       "feedName": "サポート・全般"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zUzJvUGRVWi1zTWlMZ0VncjRZaUJqd2NfWGhZTkY2bl8tQk1YYXoyOVJNUmhHc2tHRjhaMGR5MW5NQ2dGR21ROTJNMU9JRVZvd1lGQ1hmS29ZdzZDNlhxUERWNkZIOGc?oc=5",
+      "title": "NW-ZX900 の特長： 高音質パーツ | ポータブルオーディオプレーヤー ウォークマン - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8zUzJvUGRVWi1zTWlMZ0VncjRZaUJqd2NfWGhZTkY2bl8tQk1YYXoyOVJNUmhHc2tHRjhaMGR5MW5NQ2dGR21ROTJNMU9JRVZvd1lGQ1hmS29ZdzZDNlhxUERWNkZIOGc?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 04:39:50 GMT",
+      "timestamp": 1792125590.0,
+      "description": "NW-ZX900 の特長： 高音質パーツ | ポータブルオーディオプレーヤー ウォークマン&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ySjlBLXRyT05XY0k0Ym56YkxLWlFYdmNNR2VyUXE5cUhKTkNwN2tjQ1IwMTNFcEtfVzdmLWotYTBfdmJZLU85NURJMngzWThDR1ZWZVdXVzJ2UQ?oc=5",
       "title": "NW-ZX900 | ポータブルオーディオプレーヤー ウォークマン - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ySjlBLXRyT05XY0k0Ym56YkxLWlFYdmNNR2VyUXE5cUhKTkNwN2tjQ1IwMTNFcEtfVzdmLWotYTBfdmJZLU85NURJMngzWThDR1ZWZVdXVzJ2UQ?oc=5",
@@ -40,6 +50,26 @@
       "description": "NW-ZX900 | ポータブルオーディオプレーヤー ウォークマン&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80RXBVWHFYd244US1adnZVRVJ4MmdtN29EMDB1UFlRLXVMaWRXT2lPcGRCb2gzemcwYjdhUTZ3eTg0cG82Y1Yxb3ptQkNELVlOYjJocUhDRnp0RW03UlhULVp2aW03UkNVa0R3THVOMkM4a095dnk4MllEQ1A?oc=5",
+      "title": "NW-WM1ZM3 購入 | ポータブルオーディオプレーヤー ウォークマン - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE80RXBVWHFYd244US1adnZVRVJ4MmdtN29EMDB1UFlRLXVMaWRXT2lPcGRCb2gzemcwYjdhUTZ3eTg0cG82Y1Yxb3ptQkNELVlOYjJocUhDRnp0RW03UlhULVp2aW03UkNVa0R3THVOMkM4a095dnk4MllEQ1A?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 04:26:24 GMT",
+      "timestamp": 1792124784.0,
+      "description": "NW-WM1ZM3 購入 | ポータブルオーディオプレーヤー ウォークマン&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YWDEwaTlMY0ZKR3NXSmw2VEdhdnQzc18wZ1ZxQ3BYQS1OT0s5Y1ZlLTR6amZ6U3ZMVS1ZNHFHWUctSVlPZjA3dTNiM0VYbjFMMnBCd29oUVliYTdnMXdnVm1XWm91b3lidU1RSWlBeDFJVjRQdXp6Qw?oc=5",
+      "title": "WF-1000XM6 本体ソフトウェア アップデート手順（Ver 2.0.5）Android | ヘッドホン - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YWDEwaTlMY0ZKR3NXSmw2VEdhdnQzc18wZ1ZxQ3BYQS1OT0s5Y1ZlLTR6amZ6U3ZMVS1ZNHFHWUctSVlPZjA3dTNiM0VYbjFMMnBCd29oUVliYTdnMXdnVm1XWm91b3lidU1RSWlBeDFJVjRQdXp6Qw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 03:38:25 GMT",
+      "timestamp": 1792121905.0,
+      "description": "WF-1000XM6 本体ソフトウェア アップデート手順（Ver 2.0.5）Android | ヘッドホン&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1mYXJlZTE2YXJaakJvVnRySG9qYS1jaFVveG8zVHlEZ185UlU0SmZrUXBIbngwWG5pTzUwVENWdWNTYzZIdVBaVk1MTmtRYi1uNmE5dHJ2SWc1RUZaNVM3am1zRjQ5ZHkxTVE?oc=5",
@@ -58,16 +88,6 @@
       "pubDate": "Fri, 16 Oct 2026 01:53:59 GMT",
       "timestamp": 1792115639.0,
       "description": "NW-WM1ZM3 Sony Store Limited Package&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OS1V1NUlSdHQ3U1lMZ1YyWDg4SG40VVJuZy1kWmFIeFpLN3NZeUxUTVNhTHVTUHRvalQybDJMenh3dnB1RERtc3NiWjhRY3R3NTR5bmZuWVRNdEtpZXpkOVY1OVc0ZEpUbkczTjFvN2x1dW9WYXkydnNR?oc=5",
-      "title": "NW-ZX900 購入 | ポータブルオーディオプレーヤー ウォークマン - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5OS1V1NUlSdHQ3U1lMZ1YyWDg4SG40VVJuZy1kWmFIeFpLN3NZeUxUTVNhTHVTUHRvalQybDJMenh3dnB1RERtc3NiWjhRY3R3NTR5bmZuWVRNdEtpZXpkOVY1OVc0ZEpUbkczTjFvN2x1dW9WYXkydnNR?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 01:53:53 GMT",
-      "timestamp": 1792115633.0,
-      "description": "NW-ZX900 購入 | ポータブルオーディオプレーヤー ウォークマン&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -105,8 +125,8 @@
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Thu, 15 Oct 2026 05:39:35 GMT",
-      "timestamp": 1792042775.0,
+      "pubDate": "Thu, 15 Oct 2026 08:39:19 GMT",
+      "timestamp": 1792053559.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -162,6 +182,16 @@
       "feedName": "サポート・全般"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
+      "title": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
+      "pubDate": "Wed, 14 Oct 2026 10:15:13 GMT",
+      "timestamp": 1791972913.0,
+      "description": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1waDNuUHJFSVZoQm85Q2pGNHowSDlkY2dyZ1NNUUYxdXFwSEkwejY2dld0aTM5ckJqMzlVUUctNGNwUWNyYms3RnJWNG5wT0RueWRuX2l1REpfaEYtVlppZWk1VXpLdw?oc=5",
       "title": "aibo - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1waDNuUHJFSVZoQm85Q2pGNHowSDlkY2dyZ1NNUUYxdXFwSEkwejY2dld0aTM5ckJqMzlVUUctNGNwUWNyYms3RnJWNG5wT0RueWRuX2l1REpfaEYtVlppZWk1VXpLdw?oc=5",
@@ -170,16 +200,6 @@
       "description": "aibo&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
-      "title": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
-      "pubDate": "Wed, 14 Oct 2026 04:12:54 GMT",
-      "timestamp": 1791951174.0,
-      "description": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEFtOUwtdDRVUFg5YUx4aG1USjI2R3pUcjd4VlBCQ1dwdUJaZUdndDhmRXV4YXMxN1RObDVzWHRhWl9JMWJIQ1JNTXVqaC00S2MxTHI3N0VUNU96bzhJelNHa084Qi1nenhsMGhpNWpoQVZvRk1uaG1SY21yRk9QaUNXMm85ZDFLcVE2SFFSVzFzc3hyY0ZpY1g3OFZrNVlMV2lYN2VSZ0RZWGhBV3o1VGh1YlE?oc=5",
@@ -282,16 +302,6 @@
       "feedName": "サポート・全般"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tTHhFb21VanNTS3k1MVhZODhlMkcyR1NMUXRKMW5pU3dIYVo4eGowZHFwdXhpb1ZUZmh6NV8ybEdFR3JYMUZoTVZwVmh0X0szdzN1Q1JUT0V1SDJ0Z181d2ZKSDl3V3lDZkhaRzVB?oc=5",
-      "title": "SEL600F40GM レンズ 本体ソフトウェアアップデート Ver. 02 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tTHhFb21VanNTS3k1MVhZODhlMkcyR1NMUXRKMW5pU3dIYVo4eGowZHFwdXhpb1ZUZmh6NV8ybEdFR3JYMUZoTVZwVmh0X0szdzN1Q1JUT0V1SDJ0Z181d2ZKSDl3V3lDZkhaRzVB?oc=5",
-      "pubDate": "Tue, 10 Mar 2026 09:07:28 GMT",
-      "timestamp": 1773133648.0,
-      "description": "SEL600F40GM レンズ 本体ソフトウェアアップデート Ver. 02&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jSmhOb0xJZkw1SGt3dUc2Y1l4ZFhOaFJJNDNlbmdxLUc0Z0VjTUR4SDBwcGR1bkM4ZEhRLXRvbGZsTEhLbzQyV3hFVkR5SHpRRTF3NlpEQXNSWkZhbmp6LWozNA?oc=5",
       "title": "ソニー製品のドライバーとソフトウェアのアップデート - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jSmhOb0xJZkw1SGt3dUc2Y1l4ZFhOaFJJNDNlbmdxLUc0Z0VjTUR4SDBwcGR1bkM4ZEhRLXRvbGZsTEhLbzQyV3hFVkR5SHpRRTF3NlpEQXNSWkZhbmp6LWozNA?oc=5",
@@ -320,16 +330,6 @@
       "description": "サポート&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BOFZWN1UtVnlhRE05N0dUcVEyNnJOU0FGeEdQOEdHYU8zYlh2R1EyLVhFZ2toUFh2STJlT1JrSjZOaU1UWWtKX1RFWFR0YlJhN1luYUJaazIwOWdvY1dma1NXcnJuTmtGSnFIeWxwS09BczI3cGVrag?oc=5",
-      "title": "WF-1000XM6 本体ソフトウェア アップデート手順（Ver 1.5.0）Android | ヘッドホン - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1BOFZWN1UtVnlhRE05N0dUcVEyNnJOU0FGeEdQOEdHYU8zYlh2R1EyLVhFZ2toUFh2STJlT1JrSjZOaU1UWWtKX1RFWFR0YlJhN1luYUJaazIwOWdvY1dma1NXcnJuTmtGSnFIeWxwS09BczI3cGVrag?oc=5",
-      "pubDate": "Fri, 13 Feb 2026 04:39:46 GMT",
-      "timestamp": 1770957586.0,
-      "description": "WF-1000XM6 本体ソフトウェア アップデート手順（Ver 1.5.0）Android | ヘッドホン&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxekJVVk01SHRMMm1jdVBtYW1nZVl4RFByWmtBY3BQeVpjUnVjQ0dRY25yaHQyZEhYQmxZU0lDU1ZEekZLd0hETE5nVXlZSEhoYV9qWjg0Mm1kaUl2MklLczgwNlBoZWZJaTA2dGlWMWRKWjFaY2c?oc=5",
@@ -422,6 +422,16 @@
       "feedName": "カメラ更新"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5samJKcmx0c2RCMk5KRFB6blBDQTJRNUtSZDRlVDJRWm84MDhOcjU2NWN4eFFmQThJT3RaRmJWS1h4SEVHdU9PV0QyQ29SeFE?oc=5",
+      "title": "ソニーストア店舗 採用情報 | ソニーストアについて | ソニー - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5samJKcmx0c2RCMk5KRFB6blBDQTJRNUtSZDRlVDJRWm84MDhOcjU2NWN4eFFmQThJT3RaRmJWS1h4SEVHdU9PV0QyQ29SeFE?oc=5",
+      "pubDate": "Mon, 01 Jun 2020 05:42:20 GMT",
+      "timestamp": 1590990140.0,
+      "description": "ソニーストア店舗 採用情報 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPemNvbHZ6LWFYSUMyUlE5U3owQTJpR1lrYXZoUDZmRFZ5Z2dxeWVpdVRvVGFFbTBYYnpYTmc5VURIcnpoWld5a0pYenVOM1RfcGZfTlRQNlM0MEdXSEJzbFZteExhSXlrU1VHMkQ1dFpCbXNoNUxhRkNXTTFVSHZweEp3?oc=5",
       "title": "Infineon TPM ファームウェア アップデート手順書 For Windows 10 - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPemNvbHZ6LWFYSUMyUlE5U3owQTJpR1lrYXZoUDZmRFZ5Z2dxeWVpdVRvVGFFbTBYYnpYTmc5VURIcnpoWld5a0pYenVOM1RfcGZfTlRQNlM0MEdXSEJzbFZteExhSXlrU1VHMkQ1dFpCbXNoNUxhRkNXTTFVSHZweEp3?oc=5",
@@ -480,16 +490,6 @@
       "description": "Xperia Z4 Tablet特集＞ Android 6.0アップデートで何が変わる！？ | 使いかた | タブレット | サポート・お問い合わせ&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLdVVKMHNSdzJIZFJfb1ltQWYxMnZUNFdnbE9GYXI5SGZiZlZZMTExS0pPTUVCZkloVm9GVWNJYWVPcmsxRGJFNTRsdGJPWTQwTHRuMmp3?oc=5",
-      "title": "長期保証 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLdVVKMHNSdzJIZFJfb1ltQWYxMnZUNFdnbE9GYXI5SGZiZlZZMTExS0pPTUVCZkloVm9GVWNJYWVPcmsxRGJFNTRsdGJPWTQwTHRuMmp3?oc=5",
-      "pubDate": "Sat, 15 Aug 2015 22:00:04 GMT",
-      "timestamp": 1439676004.0,
-      "description": "長期保証&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFA4X1YtcTZUNFBuTnotd3BSSDlwTERXbV83cmxKUlRJR0hOdUM3eFNEeUVBMHNKOVVleXNYenJOVEtMdHYwTWRR?oc=5",
