@@ -1,13 +1,23 @@
 {
-  "updatedAt": "2026-10-18T22:14:17.226062+00:00",
+  "updatedAt": "2026-10-19T00:50:40.827026+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 02:04:05 GMT",
-      "timestamp": 1792289045.0,
+      "pubDate": "Sun, 18 Oct 2026 00:20:08 GMT",
+      "timestamp": 1792282808.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
+      "title": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 22:36:11 GMT",
+      "timestamp": 1792190171.0,
+      "description": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -242,6 +252,16 @@
       "feedName": "サポート・全般"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tTHhFb21VanNTS3k1MVhZODhlMkcyR1NMUXRKMW5pU3dIYVo4eGowZHFwdXhpb1ZUZmh6NV8ybEdFR3JYMUZoTVZwVmh0X0szdzN1Q1JUT0V1SDJ0Z181d2ZKSDl3V3lDZkhaRzVB?oc=5",
+      "title": "SEL600F40GM レンズ 本体ソフトウェアアップデート Ver. 02 - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tTHhFb21VanNTS3k1MVhZODhlMkcyR1NMUXRKMW5pU3dIYVo4eGowZHFwdXhpb1ZUZmh6NV8ybEdFR3JYMUZoTVZwVmh0X0szdzN1Q1JUT0V1SDJ0Z181d2ZKSDl3V3lDZkhaRzVB?oc=5",
+      "pubDate": "Tue, 10 Mar 2026 09:07:28 GMT",
+      "timestamp": 1773133648.0,
+      "description": "SEL600F40GM レンズ 本体ソフトウェアアップデート Ver. 02&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jSmhOb0xJZkw1SGt3dUc2Y1l4ZFhOaFJJNDNlbmdxLUc0Z0VjTUR4SDBwcGR1bkM4ZEhRLXRvbGZsTEhLbzQyV3hFVkR5SHpRRTF3NlpEQXNSWkZhbmp6LWozNA?oc=5",
       "title": "ソニー製品のドライバーとソフトウェアのアップデート - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jSmhOb0xJZkw1SGt3dUc2Y1l4ZFhOaFJJNDNlbmdxLUc0Z0VjTUR4SDBwcGR1bkM4ZEhRLXRvbGZsTEhLbzQyV3hFVkR5SHpRRTF3NlpEQXNSWkZhbmp6LWozNA?oc=5",
@@ -260,16 +280,6 @@
       "description": "メモリーカードでカメラをアップデートする方法&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSSC1Hb05BYmNidUxkcl9tN05uVEh2aTgzWkJfaVVjWTk2c0JsWUVJUXJjNFVyel91SWI3ZlJ1bDMxQVY1RF8xVDE3Uy13S1A5MGxOY25FSmhsbUZBVGNDMHEyN3pRQUx2TmV3UFQ1YnlYQQ?oc=5",
-      "title": "Music Center for PC - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSSC1Hb05BYmNidUxkcl9tN05uVEh2aTgzWkJfaVVjWTk2c0JsWUVJUXJjNFVyel91SWI3ZlJ1bDMxQVY1RF8xVDE3Uy13S1A5MGxOY25FSmhsbUZBVGNDMHEyN3pRQUx2TmV3UFQ1YnlYQQ?oc=5",
-      "pubDate": "Tue, 03 Mar 2026 04:56:44 GMT",
-      "timestamp": 1772513804.0,
-      "description": "Music Center for PC&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBlZnhtMjJsRThrdGhqQkMxWWVaeGNXTVpvVHZleXg3eGw2RGhuVGw4cDU0MlViNWZnZnBYcU9sWExqSVJtVDA1cDhn?oc=5",
@@ -328,16 +338,6 @@
       "pubDate": "Tue, 11 Mar 2025 07:00:00 GMT",
       "timestamp": 1741676400.0,
       "description": "ソフトウェアアップデートを行う方法は？&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RTVE5cXhmZXk2RGF0dGNsWHJLbEpTMG1wb21iakVuc0pGSkdvOXU3SVhUZmlqOG93LXlrcmM0M2laNjIxeHJtWGlZakxHS0FTbmtBOA?oc=5",
-      "title": "Xperiaを比較する - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9RTVE5cXhmZXk2RGF0dGNsWHJLbEpTMG1wb21iakVuc0pGSkdvOXU3SVhUZmlqOG93LXlrcmM0M2laNjIxeHJtWGlZakxHS0FTbmtBOA?oc=5",
-      "pubDate": "Mon, 11 Sep 2023 00:58:03 GMT",
-      "timestamp": 1694393883.0,
-      "description": "Xperiaを比較する&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -513,11 +513,11 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtR0VDY1g1ODZKMktRd0xSWXZjRUc3UWdqWUREcmpxSEstRldJRmxTQXc1dWl0Zms4ODI3U3c3OFJUS0RvamJrRmdkRFVhbU9BNnYyVUx5aw?oc=5",
-      "title": "マイページ/アカウントサービス - My Sony - ソニーストア - ソニーストア",
+      "title": "エラー - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtR0VDY1g1ODZKMktRd0xSWXZjRUc3UWdqWUREcmpxSEstRldJRmxTQXc1dWl0Zms4ODI3U3c3OFJUS0RvamJrRmdkRFVhbU9BNnYyVUx5aw?oc=5",
       "pubDate": "Wed, 07 Aug 2013 05:16:29 GMT",
       "timestamp": 1375852589.0,
-      "description": "マイページ/アカウントサービス - My Sony - ソニーストア&nbsp;&nbsp;ソニーストア",
+      "description": "エラー&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
