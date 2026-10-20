@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T18:56:16.777974+00:00",
+  "updatedAt": "2026-10-20T22:09:32.425955+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyUjl4YlJacGs1U1NGZXRhOWJsNklua1RyMFpWX21sLVVDVWlOMy1QZEVkN0dYOTdtU21UbjJhNGw2NnJyam45Smh1T2JKaEQ0MTgzaDlzYzRyYlc1YTNtT0pnc3ZXRG9TMzRrY1RB?oc=5",
@@ -28,6 +28,16 @@
       "pubDate": "Tue, 20 Oct 2026 02:32:18 GMT",
       "timestamp": 1792463538.0,
       "description": "PlayStation(R) 5 本体&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMickFVX3lxTE05QV8tdFd5RXJGVXdIbERoMXNrbVd4Q0gwcXdJYkxZemFKTGxQbE5vVnhyYzFVR1l3X0ZNR2FsVGVWVTl4Y0JFSDdKc1dJY3Q3elRaTUpfUUVoSVdoa1d0N0FZbjQ1LTdaajI3eTBOYXRiQQ?oc=5",
+      "title": "PlayStation(R) 5 本体 - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05QV8tdFd5RXJGVXdIbERoMXNrbVd4Q0gwcXdJYkxZemFKTGxQbE5vVnhyYzFVR1l3X0ZNR2FsVGVWVTl4Y0JFSDdKc1dJY3Q3elRaTUpfUUVoSVdoa1d0N0FZbjQ1LTdaajI3eTBOYXRiQQ?oc=5",
+      "pubDate": "Tue, 20 Oct 2026 02:32:18 GMT",
+      "timestamp": 1792463538.0,
+      "description": "PlayStation(R) 5 本体&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -35,8 +45,8 @@
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Sun, 18 Oct 2026 15:30:34 GMT",
-      "timestamp": 1792337434.0,
+      "pubDate": "Sun, 18 Oct 2026 18:29:21 GMT",
+      "timestamp": 1792348161.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -60,26 +70,6 @@
       "description": "BEYOND THE LIGHT ULTRAMAN TIGA 30th ANNIVERSARY in Sony Store&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ySjlBLXRyT05XY0k0Ym56YkxLWlFYdmNNR2VyUXE5cUhKTkNwN2tjQ1IwMTNFcEtfVzdmLWotYTBfdmJZLU85NURJMngzWThDR1ZWZVdXVzJ2UQ?oc=5",
-      "title": "NW-ZX900 | ポータブルオーディオプレーヤー ウォークマン - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ySjlBLXRyT05XY0k0Ym56YkxLWlFYdmNNR2VyUXE5cUhKTkNwN2tjQ1IwMTNFcEtfVzdmLWotYTBfdmJZLU85NURJMngzWThDR1ZWZVdXVzJ2UQ?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 04:37:41 GMT",
-      "timestamp": 1792125461.0,
-      "description": "NW-ZX900 | ポータブルオーディオプレーヤー ウォークマン&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ySjlBLXRyT05XY0k0Ym56YkxLWlFYdmNNR2VyUXE5cUhKTkNwN2tjQ1IwMTNFcEtfVzdmLWotYTBfdmJZLU85NURJMngzWThDR1ZWZVdXVzJ2UQ?oc=5",
-      "title": "NW-ZX900 | ポータブルオーディオプレーヤー ウォークマン - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8ySjlBLXRyT05XY0k0Ym56YkxLWlFYdmNNR2VyUXE5cUhKTkNwN2tjQ1IwMTNFcEtfVzdmLWotYTBfdmJZLU85NURJMngzWThDR1ZWZVdXVzJ2UQ?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 04:37:41 GMT",
-      "timestamp": 1792125461.0,
-      "description": "NW-ZX900 | ポータブルオーディオプレーヤー ウォークマン&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YWDEwaTlMY0ZKR3NXSmw2VEdhdnQzc18wZ1ZxQ3BYQS1OT0s5Y1ZlLTR6amZ6U3ZMVS1ZNHFHWUctSVlPZjA3dTNiM0VYbjFMMnBCd29oUVliYTdnMXdnVm1XWm91b3lidU1RSWlBeDFJVjRQdXp6Qw?oc=5",
@@ -248,6 +238,16 @@
       "pubDate": "Mon, 06 Apr 2026 06:00:41 GMT",
       "timestamp": 1775455241.0,
       "description": "ドライバーとソフトウェアのアップデート スマートフォン | ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tTHhFb21VanNTS3k1MVhZODhlMkcyR1NMUXRKMW5pU3dIYVo4eGowZHFwdXhpb1ZUZmh6NV8ybEdFR3JYMUZoTVZwVmh0X0szdzN1Q1JUT0V1SDJ0Z181d2ZKSDl3V3lDZkhaRzVB?oc=5",
+      "title": "SEL600F40GM レンズ 本体ソフトウェアアップデート Ver. 02 - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9tTHhFb21VanNTS3k1MVhZODhlMkcyR1NMUXRKMW5pU3dIYVo4eGowZHFwdXhpb1ZUZmh6NV8ybEdFR3JYMUZoTVZwVmh0X0szdzN1Q1JUT0V1SDJ0Z181d2ZKSDl3V3lDZkhaRzVB?oc=5",
+      "pubDate": "Tue, 10 Mar 2026 09:07:28 GMT",
+      "timestamp": 1773133648.0,
+      "description": "SEL600F40GM レンズ 本体ソフトウェアアップデート Ver. 02&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
