@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T18:19:32.119189+00:00",
+  "updatedAt": "2026-10-22T22:07:44.417627+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdjF5aWp0MjVrLVFBSXRqRFkzNjhBVG9OS1RadklBaDU1Y2kzbWNBOTB1WVFQdUJKbmxibTZEd09DUGtid3ZxZHJiblBOOUt3Zm5wWEo0d1JCR3BGNG9PbjEwNEY0UEhOX1ZaTlpn?oc=5",
@@ -312,16 +312,6 @@
       "feedName": "サポート・全般"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xRVdBejN1X1k0TFJ4ZWNUZmpZLXhqZ2xycVNPaHNLNmNod2pDNTRtdHlvMDFORkE5eGxnVnhqZEJ1aVplVHN6WVVhNEI?oc=5",
-      "title": "ソニーグループ共通 インターンシップ・新卒採用マイページ - ソニー株式会社",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0xRVdBejN1X1k0TFJ4ZWNUZmpZLXhqZ2xycVNPaHNLNmNod2pDNTRtdHlvMDFORkE5eGxnVnhqZEJ1aVplVHN6WVVhNEI?oc=5",
-      "pubDate": "Tue, 01 Apr 2025 07:00:00 GMT",
-      "timestamp": 1743490800.0,
-      "description": "ソニーグループ共通 インターンシップ・新卒採用マイページ&nbsp;&nbsp;ソニー株式会社",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGX1RFclNJSVFqU2p4eWJTRmQwR1hCZVVuOUV2VHdXQnFqUXk0bDhIU200RWpkZDVaelVBMzhwcEN5Tlg2VXBSTS1Ba1h4cTcwQXhkNnZULVRZdlJPQjRuMkszNnVodW1NVUlYbmRWczAxUFdEZlE?oc=5",
       "title": "ソフトウェアアップデートを行う方法は？ - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGX1RFclNJSVFqU2p4eWJTRmQwR1hCZVVuOUV2VHdXQnFqUXk0bDhIU200RWpkZDVaelVBMzhwcEN5Tlg2VXBSTS1Ba1h4cTcwQXhkNnZULVRZdlJPQjRuMkszNnVodW1NVUlYbmRWczAxUFdEZlE?oc=5",
@@ -330,6 +320,16 @@
       "description": "ソフトウェアアップデートを行う方法は？&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpUW14Q2VvMWh4aGR2UmFob1dSeVMwcG50QTZoSjRPSVpQWlBiZkt6dzJ0UktreFZqNV9FdnFmM1hZQWROU2RoZUlR?oc=5",
+      "title": "Xperia（エクスペリア）スマートフォン | Xperia（エクスペリア） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpUW14Q2VvMWh4aGR2UmFob1dSeVMwcG50QTZoSjRPSVpQWlBiZkt6dzJ0UktreFZqNV9FdnFmM1hZQWROU2RoZUlR?oc=5",
+      "pubDate": "Mon, 11 Sep 2023 00:58:07 GMT",
+      "timestamp": 1694393887.0,
+      "description": "Xperia（エクスペリア）スマートフォン | Xperia（エクスペリア）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0pwLUxVb29Gc0dHZlRXcE9adjRrWkF2Vk14ci1maEt4cjRZbm9feHpfdjFfYWhGOHYzRG1weFBlZWJpM1VFQ3dpOU9oWTZZcU05ckhYd0NMaXVfQzNkR053Tl9WMFJSbk5rajNyUWJIY0hVREs0SGVrUmtHSmRyY24tcTBsal9MMjZWdFNaZ1J2R3ZPblcwRWFpUQ?oc=5",
