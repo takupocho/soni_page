@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-24T10:22:12.180341+00:00",
+  "updatedAt": "2026-10-24T14:16:14.139787+00:00",
   "items": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
+      "title": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
+      "pubDate": "Sat, 24 Oct 2026 13:00:30 GMT",
+      "timestamp": 1792846830.0,
+      "description": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9heGJIQTlENFpjTmhQNW5UclpQcVBxdGRkNlF5NTgwN01hOFB2UmNSTG1IdjVpM2s5cnZhVmdzSE5pSVNGS2lvTENMbDdqdDZDbEhhem80RXptcVUyZUxNcE9DdndWaUt4M3c?oc=5",
       "title": "よさこいさせぼ祭り2026 - αcafe",
@@ -132,16 +142,6 @@
       "feedName": "ストア・イベント"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kdXl0X3RmWlh2NGdtbGptZ0lEVnF0cEFYdXVBZVlTZ1NZMEo2dFA1aVRKRGoyUlpqOVRZOXl1ZVIzWDZRUVdmRGV0MUxGdWx3Y3JMUXdocWpjQ00?oc=5",
-      "title": "NW-WM1ZM3 | ポータブルオーディオプレーヤー ウォークマン - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kdXl0X3RmWlh2NGdtbGptZ0lEVnF0cEFYdXVBZVlTZ1NZMEo2dFA1aVRKRGoyUlpqOVRZOXl1ZVIzWDZRUVdmRGV0MUxGdWx3Y3JMUXdocWpjQ00?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 01:31:08 GMT",
-      "timestamp": 1792114268.0,
-      "description": "NW-WM1ZM3 | ポータブルオーディオプレーヤー ウォークマン&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEFtOUwtdDRVUFg5YUx4aG1USjI2R3pUcjd4VlBCQ1dwdUJaZUdndDhmRXV4YXMxN1RObDVzWHRhWl9JMWJIQ1JNTXVqaC00S2MxTHI3N0VUNU96bzhJelNHa084Qi1nenhsMGhpNWpoQVZvRk1uaG1SY21yRk9QaUNXMm85ZDFLcVE2SFFSVzFzc3hyY0ZpY1g3OFZrNVlMV2lYN2VSZ0RZWGhBV3o1VGh1YlE?oc=5",
       "title": "【結果発表】月例オープンフォトコンテスト 第65回 - αcafe",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWEFtOUwtdDRVUFg5YUx4aG1USjI2R3pUcjd4VlBCQ1dwdUJaZUdndDhmRXV4YXMxN1RObDVzWHRhWl9JMWJIQ1JNTXVqaC00S2MxTHI3N0VUNU96bzhJelNHa084Qi1nenhsMGhpNWpoQVZvRk1uaG1SY21yRk9QaUNXMm85ZDFLcVE2SFFSVzFzc3hyY0ZpY1g3OFZrNVlMV2lYN2VSZ0RZWGhBV3o1VGh1YlE?oc=5",
@@ -210,16 +210,6 @@
       "description": "ゼブラで一目瞭然！質感を美しく残せる白飛び回避術｜染谷ノエル’s recipe&nbsp;&nbsp;αCafe",
       "feedId": "store",
       "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sRkpGdmZEVjROR19JS2FiaU84Q2huZ3pDdnAzb0h5LVNsN2kxcGRvY2k3ZkVKNktQaHJ4RmlUMi1Hd1JxVWc1V0tjTkljSWpuc09UUDZVcGY5OHJWOEVKLXJLX1JjRGFGQ29XSWVn?oc=5",
-      "title": "Android™ 17で Xperiaをもっと楽しく - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sRkpGdmZEVjROR19JS2FiaU84Q2huZ3pDdnAzb0h5LVNsN2kxcGRvY2k3ZkVKNktQaHJ4RmlUMi1Hd1JxVWc1V0tjTkljSWpuc09UUDZVcGY5OHJWOEVKLXJLX1JjRGFGQ29XSWVn?oc=5",
-      "pubDate": "Fri, 11 Sep 2026 14:00:37 GMT",
-      "timestamp": 1789135237.0,
-      "description": "Android™ 17で Xperiaをもっと楽しく&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1sRkpGdmZEVjROR19JS2FiaU84Q2huZ3pDdnAzb0h5LVNsN2kxcGRvY2k3ZkVKNktQaHJ4RmlUMi1Hd1JxVWc1V0tjTkljSWpuc09UUDZVcGY5OHJWOEVKLXJLX1JjRGFGQ29XSWVn?oc=5",
@@ -310,16 +300,6 @@
       "description": "WF-1000XM5 本体ソフトウェア アップデート方法（Ver 6.1.0）Android | ヘッドホン | ソニー&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjb2dLLWttX2pKYURYc1lnT1c3S2x3TWxSdUFrYjc5ay1OQ1U3OGVteEFkN3VBU001TTV6WlIzMEVGNkJyOVp4eEozRXA1SkUySEVPYmxRcFRkeE9OZE9EUi1wbEg3LTQ?oc=5",
-      "title": "My Sonyキャンペーン | My Sony - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjb2dLLWttX2pKYURYc1lnT1c3S2x3TWxSdUFrYjc5ay1OQ1U3OGVteEFkN3VBU001TTV6WlIzMEVGNkJyOVp4eEozRXA1SkUySEVPYmxRcFRkeE9OZE9EUi1wbEg3LTQ?oc=5",
-      "pubDate": "Thu, 03 Jul 2025 13:58:20 GMT",
-      "timestamp": 1751551100.0,
-      "description": "My Sonyキャンペーン | My Sony&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxekJVVk01SHRMMm1jdVBtYW1nZVl4RFByWmtBY3BQeVpjUnVjQ0dRY25yaHQyZEhYQmxZU0lDU1ZEekZLd0hETE5nVXlZSEhoYV9qWjg0Mm1kaUl2MklLczgwNlBoZWZJaTA2dGlWMWRKWjFaY2c?oc=5",
@@ -512,6 +492,16 @@
       "feedName": "ストア・イベント"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB2TGpNNDlwelp4NGVGd1QzSXRjOUFpMmxDZWNxOXROcG54aE9QRldSUFNjNkpsMFlTVlBrN09iOVlrM19W?oc=5",
+      "title": "My Sony について - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB2TGpNNDlwelp4NGVGd1QzSXRjOUFpMmxDZWNxOXROcG54aE9QRldSUFNjNkpsMFlTVlBrN09iOVlrM19W?oc=5",
+      "pubDate": "Tue, 16 Dec 2014 06:41:09 GMT",
+      "timestamp": 1418712069.0,
+      "description": "My Sony について&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtR0VDY1g1ODZKMktRd0xSWXZjRUc3UWdqWUREcmpxSEstRldJRmxTQXc1dWl0Zms4ODI3U3c3OFJUS0RvamJrRmdkRFVhbU9BNnYyVUx5aw?oc=5",
       "title": "エラー - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtR0VDY1g1ODZKMktRd0xSWXZjRUc3UWdqWUREcmpxSEstRldJRmxTQXc1dWl0Zms4ODI3U3c3OFJUS0RvamJrRmdkRFVhbU9BNnYyVUx5aw?oc=5",
@@ -588,6 +578,16 @@
       "pubDate": "Mon, 24 Oct 2011 03:19:08 GMT",
       "timestamp": 1319426348.0,
       "description": "ソニー製品情報・ソニーストア - ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1EbVhtOTJSRWV6di1nQVQ3RjBrbU1NLVBwX3JmOGhSNVRwTllQQkxMUXF5YzhsNHkzcXpiMFlqNA?oc=5",
+      "title": "αcafe - αcafe",
+      "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1EbVhtOTJSRWV6di1nQVQ3RjBrbU1NLVBwX3JmOGhSNVRwTllQQkxMUXF5YzhsNHkzcXpiMFlqNA?oc=5",
+      "pubDate": "Fri, 20 May 2011 04:16:07 GMT",
+      "timestamp": 1305864967.0,
+      "description": "αcafe&nbsp;&nbsp;αcafe",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
