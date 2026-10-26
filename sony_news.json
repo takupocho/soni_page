@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T23:50:19.519256+00:00",
+  "updatedAt": "2026-10-26T03:26:30.245472+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
@@ -40,26 +40,6 @@
       "description": "ソニー株式会社 | ニュースリリース | ソニー株式会社 役員人事&nbsp;&nbsp;ソニー株式会社",
       "feedId": "product",
       "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdjF5aWp0MjVrLVFBSXRqRFkzNjhBVG9OS1RadklBaDU1Y2kzbWNBOTB1WVFQdUJKbmxibTZEd09DUGtid3ZxZHJiblBOOUt3Zm5wWEo0d1JCR3BGNG9PbjEwNEY0UEhOX1ZaTlpn?oc=5",
-      "title": "ILCE-7RM6 本体ソフトウェアアップデート Ver. 1.02 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FdjF5aWp0MjVrLVFBSXRqRFkzNjhBVG9OS1RadklBaDU1Y2kzbWNBOTB1WVFQdUJKbmxibTZEd09DUGtid3ZxZHJiblBOOUt3Zm5wWEo0d1JCR3BGNG9PbjEwNEY0UEhOX1ZaTlpn?oc=5",
-      "pubDate": "Wed, 21 Oct 2026 04:52:33 GMT",
-      "timestamp": 1792558353.0,
-      "description": "ILCE-7RM6 本体ソフトウェアアップデート Ver. 1.02&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyUjl4YlJacGs1U1NGZXRhOWJsNklua1RyMFpWX21sLVVDVWlOMy1QZEVkN0dYOTdtU21UbjJhNGw2NnJyam45Smh1T2JKaEQ0MTgzaDlzYzRyYlc1YTNtT0pnc3ZXRG9TMzRrY1RB?oc=5",
-      "title": "WF-1000XM6 本体ソフトウェアアップデート Ver. 2.0.5 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAyUjl4YlJacGs1U1NGZXRhOWJsNklua1RyMFpWX21sLVVDVWlOMy1QZEVkN0dYOTdtU21UbjJhNGw2NnJyam45Smh1T2JKaEQ0MTgzaDlzYzRyYlc1YTNtT0pnc3ZXRG9TMzRrY1RB?oc=5",
-      "pubDate": "Tue, 20 Oct 2026 13:40:08 GMT",
-      "timestamp": 1792503608.0,
-      "description": "WF-1000XM6 本体ソフトウェアアップデート Ver. 2.0.5&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBENnJPY1pWeDBuaGlXYm5wb0RpVXdFN21ncTlpVHFMVG9rR1NOZmFlQkZJU3RhX3lwTXJSeEdqNlZBTVBBaGxaWEIwNFJia0JTVExjUW5qVnFJd3JpT3c?oc=5",
@@ -222,6 +202,16 @@
       "feedName": "サポート・全般"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jSmhOb0xJZkw1SGt3dUc2Y1l4ZFhOaFJJNDNlbmdxLUc0Z0VjTUR4SDBwcGR1bkM4ZEhRLXRvbGZsTEhLbzQyV3hFVkR5SHpRRTF3NlpEQXNSWkZhbmp6LWozNA?oc=5",
+      "title": "ソニー製品のドライバーとソフトウェアのアップデート - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5jSmhOb0xJZkw1SGt3dUc2Y1l4ZFhOaFJJNDNlbmdxLUc0Z0VjTUR4SDBwcGR1bkM4ZEhRLXRvbGZsTEhLbzQyV3hFVkR5SHpRRTF3NlpEQXNSWkZhbmp6LWozNA?oc=5",
+      "pubDate": "Wed, 04 Mar 2026 08:24:17 GMT",
+      "timestamp": 1772612657.0,
+      "description": "ソニー製品のドライバーとソフトウェアのアップデート&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YRFFQOEc4YVJYVzh5SENjUWRva0NjNzBhRUpReDZKVnRwNE1Pam04WHlQTzhKZHFFSHk3d0ppZXg0LXNnRWpVRTN1QWRlSldEWjFnbVR3d2JYZi1mcUkyOXFBWEFBSE9RTFBnWndn?oc=5",
       "title": "メモリーカードでカメラをアップデートする方法 - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YRFFQOEc4YVJYVzh5SENjUWRva0NjNzBhRUpReDZKVnRwNE1Pam04WHlQTzhKZHFFSHk3d0ppZXg0LXNnRWpVRTN1QWRlSldEWjFnbVR3d2JYZi1mcUkyOXFBWEFBSE9RTFBnWndn?oc=5",
@@ -230,6 +220,16 @@
       "description": "メモリーカードでカメラをアップデートする方法&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzaHp0dnYtMVJHY2NkbWlKaXlmMkZBaUFiaWxZeXFpWVg2UkM5YWh6V3F1SC1jSnYzR0dKOTQ5VVE2aGVxeUwyeFltYnBPLWNGWXZfX1BB?oc=5",
+      "title": "総合サポート・お問い合わせ - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzaHp0dnYtMVJHY2NkbWlKaXlmMkZBaUFiaWxZeXFpWVg2UkM5YWh6V3F1SC1jSnYzR0dKOTQ5VVE2aGVxeUwyeFltYnBPLWNGWXZfX1BB?oc=5",
+      "pubDate": "Tue, 03 Mar 2026 05:10:48 GMT",
+      "timestamp": 1772514648.0,
+      "description": "総合サポート・お問い合わせ&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSSC1Hb05BYmNidUxkcl9tN05uVEh2aTgzWkJfaVVjWTk2c0JsWUVJUXJjNFVyel91SWI3ZlJ1bDMxQVY1RF8xVDE3Uy13S1A5MGxOY25FSmhsbUZBVGNDMHEyN3pRQUx2TmV3UFQ1YnlYQQ?oc=5",
@@ -260,16 +260,6 @@
       "description": "サポート&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxekJVVk01SHRMMm1jdVBtYW1nZVl4RFByWmtBY3BQeVpjUnVjQ0dRY25yaHQyZEhYQmxZU0lDU1ZEekZLd0hETE5nVXlZSEhoYV9qWjg0Mm1kaUl2MklLczgwNlBoZWZJaTA2dGlWMWRKWjFaY2c?oc=5",
-      "title": "ソフトウェアアップデートできているか確認したい / 自動アップデートされるための設定方法は？ - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxekJVVk01SHRMMm1jdVBtYW1nZVl4RFByWmtBY3BQeVpjUnVjQ0dRY25yaHQyZEhYQmxZU0lDU1ZEekZLd0hETE5nVXlZSEhoYV9qWjg0Mm1kaUl2MklLczgwNlBoZWZJaTA2dGlWMWRKWjFaY2c?oc=5",
-      "pubDate": "Thu, 19 Jun 2025 07:00:00 GMT",
-      "timestamp": 1750316400.0,
-      "description": "ソフトウェアアップデートできているか確認したい / 自動アップデートされるための設定方法は？&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpUW14Q2VvMWh4aGR2UmFob1dSeVMwcG50QTZoSjRPSVpQWlBiZkt6dzJ0UktreFZqNV9FdnFmM1hZQWROU2RoZUlR?oc=5",
@@ -522,6 +512,16 @@
       "feedName": "カメラ更新"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BSm1xV1o5dW11cEFaQjBhLXYxXzZNNHlqNG5JTmhQUEtQbW1HWU9zTjRBd3lDdEVDOC1MM2liNEEwem1aMDJVcWJn?oc=5",
+      "title": "本体アップデート情報 | テレビ ブラビア | ソニー - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BSm1xV1o5dW11cEFaQjBhLXYxXzZNNHlqNG5JTmhQUEtQbW1HWU9zTjRBd3lDdEVDOC1MM2liNEEwem1aMDJVcWJn?oc=5",
+      "pubDate": "Fri, 04 Nov 2011 01:25:24 GMT",
+      "timestamp": 1320369924.0,
+      "description": "本体アップデート情報 | テレビ ブラビア | ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVb2FqSU8wNGV2VWtpbEF5R1h2aXlCN2hULWRFN1NiN29RYUtmRS1hRkpWZWtyWVBUQWNxa3V3STZmcU1rTWYyX1p2ZFNjNWx0NnpGNldpUjNCaEFxeEhtalF0eWppYlZmUmt6dk9ZN3ZUbjQ?oc=5",
       "title": "カスタマーサポート - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBVb2FqSU8wNGV2VWtpbEF5R1h2aXlCN2hULWRFN1NiN29RYUtmRS1hRkpWZWtyWVBUQWNxa3V3STZmcU1rTWYyX1p2ZFNjNWx0NnpGNldpUjNCaEFxeEhtalF0eWppYlZmUmt6dk9ZN3ZUbjQ?oc=5",
@@ -530,6 +530,16 @@
       "description": "カスタマーサポート&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiREFVX3lxTE50Qy1Rc1BVYS10VHhOM1IxRk4tR042NkVxSFRhRzVxVFUtQ3A4QXNwcW83cUhJSG9JelZveVctNFc0djRU?oc=5",
+      "title": "本体アップデート情報 | ブルーレイディスクレコーダー | ソニー - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE50Qy1Rc1BVYS10VHhOM1IxRk4tR042NkVxSFRhRzVxVFUtQ3A4QXNwcW83cUhJSG9JelZveVctNFc0djRU?oc=5",
+      "pubDate": "Thu, 03 Nov 2011 03:13:10 GMT",
+      "timestamp": 1320289990.0,
+      "description": "本体アップデート情報 | ブルーレイディスクレコーダー | ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE51OFhFY3M4WnppYTVmaUFGYWhUSVVFazF5VkpEdEhCbFFBOGZVQURXWTdiTDhrX1Y3WkE5Zw?oc=5",
@@ -568,16 +578,6 @@
       "pubDate": "Mon, 24 Oct 2011 03:19:08 GMT",
       "timestamp": 1319426348.0,
       "description": "ソニー製品情報・ソニーストア - ソニー&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OM0NpM0R3SjlKNlQ4ZEY1czBuamNrZXB6eVVTU0JkTlBxVjhRUGE0dGF5S3JuaTBYYXYtU0lUN3UtOS04SXJIbnlxMGE?oc=5",
-      "title": "αcafeとは？ - αcafe",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5OM0NpM0R3SjlKNlQ4ZEY1czBuamNrZXB6eVVTU0JkTlBxVjhRUGE0dGF5S3JuaTBYYXYtU0lUN3UtOS04SXJIbnlxMGE?oc=5",
-      "pubDate": "Thu, 22 Sep 2011 03:09:41 GMT",
-      "timestamp": 1316660981.0,
-      "description": "αcafeとは？&nbsp;&nbsp;αcafe",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
