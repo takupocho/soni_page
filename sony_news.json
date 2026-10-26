@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-26T09:45:56.947386+00:00",
+  "updatedAt": "2026-10-26T16:31:39.944339+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
       "title": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaZzI5NG8taGR5M2FadEtndDNBZkNpRVo3aEJoVWVaQTFQb2liLXFwVHp6eEdCOTV0WkNZY3I3RUhnY3NwNmJqc0xVSFY0VTdQSmtWNFR3NHBpS09MNElGTHJBZEdFVlhkVmZNbDAxZURTZ21HMlhlbkJZblVldw?oc=5",
-      "pubDate": "Sat, 24 Oct 2026 08:06:56 GMT",
-      "timestamp": 1792829216.0,
+      "pubDate": "Sat, 24 Oct 2026 14:10:50 GMT",
+      "timestamp": 1792851050.0,
       "description": "Xperia 10 VII（XQ-FE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -108,6 +108,16 @@
       "pubDate": "Fri, 09 Oct 2026 07:00:00 GMT",
       "timestamp": 1791529200.0,
       "description": "【復旧済み】動画投稿機能不具合について&nbsp;&nbsp;αCafe",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nRVBxekhseHBjdGFIUlJRUndlcW1CZE5lc3IxQlMweDE3QlZHaGRRWHFvemFUM3RDTHM2RDNHWi05Sk5aMTE1elpLM2hKNVo4LUlHb0NodVkxWXNsMnNNT1hjYU5PcGNwMlRxbnJn?oc=5",
+      "title": "みんなの写真投稿でαcafeオリジナルカレンダーを作ろう！2027年版 - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nRVBxekhseHBjdGFIUlJRUndlcW1CZE5lc3IxQlMweDE3QlZHaGRRWHFvemFUM3RDTHM2RDNHWi05Sk5aMTE1elpLM2hKNVo4LUlHb0NodVkxWXNsMnNNT1hjYU5PcGNwMlRxbnJn?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 06:49:30 GMT",
+      "timestamp": 1791355770.0,
+      "description": "みんなの写真投稿でαcafeオリジナルカレンダーを作ろう！2027年版&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
     },
@@ -460,16 +470,6 @@
       "description": "パーソナルコンピューター VAIO&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tVEdrSGxmd2Z0T2lDUExrWUVnSXdXWDVSNi1fQXlLdHpYRWRWNHlCNG5xams4anhzeUI4Xzd4eFotM3A2eHZXVVpkNlBvekYw?oc=5",
-      "title": "ソニーストア 銀座 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tVEdrSGxmd2Z0T2lDUExrWUVnSXdXWDVSNi1fQXlLdHpYRWRWNHlCNG5xams4anhzeUI4Xzd4eFotM3A2eHZXVVpkNlBvekYw?oc=5",
-      "pubDate": "Fri, 27 Mar 2015 19:17:37 GMT",
-      "timestamp": 1427483857.0,
-      "description": "ソニーストア 銀座&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtOElaZ01ZUEo3cjhrQk1haldMSkIyaE5GakNkSkFRS2t2ZmoxVmlEckVkbWZDUGlTd0pBSlFWWl9fdmZRQk14MWg4NU5nT1g3Y216bVNwX0xLRTdMRjBmYlRFQy0?oc=5",
