@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T16:52:34.539082+00:00",
+  "updatedAt": "2026-11-04T22:26:08.116512+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pTWNkQ0xxMVBoRWQxMVlkVm1NeUpfcjY4eElLdTRSdDZYV2EtTjNpMDh5dHUtNWJuYjZORXpZTWhvTllydjlhdGJlMG9fUTVkcUlBTno0OFlSc3lWTFFfOGJUSW14aXNwZXJRTE9qdmFCVjVV?oc=5",
@@ -12,21 +12,11 @@
       "feedName": "ストア・イベント"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 16:31:10 GMT",
-      "timestamp": 1793723470.0,
-      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
       "title": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 16:15:13 GMT",
-      "timestamp": 1793722513.0,
+      "pubDate": "Wed, 04 Nov 2026 06:20:21 GMT",
+      "timestamp": 1793773221.0,
       "description": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -528,6 +518,16 @@
       "pubDate": "Wed, 07 Aug 2013 05:16:29 GMT",
       "timestamp": 1375852589.0,
       "description": "マイページ/アカウントサービス - My Sony - ソニーストア&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5laVBsRi1VVjlEQTAzNXBWeU1Hc2FTR3doTkRaT0lkQ0JwemZXcjdvYm91SUVLaHFtdTRxcmliQ1o?oc=5",
+      "title": "電子書籍・漫画ならソニーのReader Store｜無料でも楽しめる！ - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5laVBsRi1VVjlEQTAzNXBWeU1Hc2FTR3doTkRaT0lkQ0JwemZXcjdvYm91SUVLaHFtdTRxcmliQ1o?oc=5",
+      "pubDate": "Thu, 10 Nov 2011 17:00:49 GMT",
+      "timestamp": 1320944449.0,
+      "description": "電子書籍・漫画ならソニーのReader Store｜無料でも楽しめる！&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
