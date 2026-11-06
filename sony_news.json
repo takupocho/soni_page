@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T15:41:03.078195+00:00",
+  "updatedAt": "2026-11-06T21:17:30.430136+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTE42WHQxVXBNRlV6Q0NtNVVhWml2YXE3Y0JPUkh0NkdsWUZtNm9LY25LT0xGQlAzUXEtNnNSVFVyaEFybDlqMzA4cjV2RjNYb2FHaXA0OF9QSFFic1hSSGpPYmFVOGtreEIwSDNZ?oc=5",
@@ -10,6 +10,26 @@
       "description": "MDR-3R 商品一覧 | ヘッドホン&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10VWhiaXY5cjlDWWVrU3l2bTVsWnpLWnZ4RjcweUMydGJKRDdCWFlURUctckstQ3NZcFd0UUpkZG00QUdacFdPNWtaOXZyMFh0UXFlSm1yaW9NZGxLeVpMR3dzeE1FRzQ?oc=5",
+      "title": "MDR-3R の特長： 使いやすさ・接続性 | ヘッドホン - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10VWhiaXY5cjlDWWVrU3l2bTVsWnpLWnZ4RjcweUMydGJKRDdCWFlURUctckstQ3NZcFd0UUpkZG00QUdacFdPNWtaOXZyMFh0UXFlSm1yaW9NZGxLeVpMR3dzeE1FRzQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 03:39:24 GMT",
+      "timestamp": 1793936364.0,
+      "description": "MDR-3R の特長： 使いやすさ・接続性 | ヘッドホン&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10VWhiaXY5cjlDWWVrU3l2bTVsWnpLWnZ4RjcweUMydGJKRDdCWFlURUctckstQ3NZcFd0UUpkZG00QUdacFdPNWtaOXZyMFh0UXFlSm1yaW9NZGxLeVpMR3dzeE1FRzQ?oc=5",
+      "title": "MDR-3R の特長： 使いやすさ・接続性 | ヘッドホン - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10VWhiaXY5cjlDWWVrU3l2bTVsWnpLWnZ4RjcweUMydGJKRDdCWFlURUctckstQ3NZcFd0UUpkZG00QUdacFdPNWtaOXZyMFh0UXFlSm1yaW9NZGxLeVpMR3dzeE1FRzQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 03:39:24 GMT",
+      "timestamp": 1793936364.0,
+      "description": "MDR-3R の特長： 使いやすさ・接続性 | ヘッドホン&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wcE91OWlQRHA0QnRUS05HMUV3OGJ4ck5vcUhOemQ5Zk1mZkc5aFB2OTEzc1hBbGJpTXByY2RxcWFvb0Z2a1FKNllJUEFYTjJXSXBRQlNibmhoUQ?oc=5",
@@ -32,12 +52,22 @@
       "feedName": "サポート・全般"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xblNyc2xhUzd5bUdFM2FCaWVkMGNyNUxObGhnOHp0VWdiVjE5WGRKT3JsamlSUnA2OVYyZFVScE1YZ2RxT3dadXU3MS1KVE41R1BCSXYyVjF6VEt1TWNNbFItN2RONUNOU3dZR2psX0RGY1hwSFBn?oc=5",
-      "title": "MDR-3R 購入 | ヘッドホン - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xblNyc2xhUzd5bUdFM2FCaWVkMGNyNUxObGhnOHp0VWdiVjE5WGRKT3JsamlSUnA2OVYyZFVScE1YZ2RxT3dadXU3MS1KVE41R1BCSXYyVjF6VEt1TWNNbFItN2RONUNOU3dZR2psX0RGY1hwSFBn?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 01:58:53 GMT",
-      "timestamp": 1793930333.0,
-      "description": "MDR-3R 購入 | ヘッドホン&nbsp;&nbsp;ソニーストア",
+      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IOTAwQWpidGExM2d3VXAzeHQ3RXdMSTZfenVWM1RaUHY3WWdLUDVNN2tZaDE1QVVRYW1rQVVQam1GUkxPX01kZVBhZE90NVhYYy1MQTFPVjNYNndES2ZiN1BpUHRMc2s?oc=5",
+      "title": "MDR-3R の特長： デザイン | ヘッドホン - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IOTAwQWpidGExM2d3VXAzeHQ3RXdMSTZfenVWM1RaUHY3WWdLUDVNN2tZaDE1QVVRYW1rQVVQam1GUkxPX01kZVBhZE90NVhYYy1MQTFPVjNYNndES2ZiN1BpUHRMc2s?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 02:51:35 GMT",
+      "timestamp": 1793933495.0,
+      "description": "MDR-3R の特長： デザイン | ヘッドホン&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rZWU0TTEyQkg5T29hRXZRVGI5bWllSVVQS0RWbms0c0NUUFpOSmpYendVQ0FXcVhJVVlDak1QU1htNVJUVDlTS0NVRG1aSzYxMzZzYVNkZUtFcEhvUHBzcDlyM3pIa2NZZlRzUDBrSVNRMkJkN1RCcE5XWQ?oc=5",
+      "title": "MDR-3R/SI 購入 | ヘッドホン - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rZWU0TTEyQkg5T29hRXZRVGI5bWllSVVQS0RWbms0c0NUUFpOSmpYendVQ0FXcVhJVVlDak1QU1htNVJUVDlTS0NVRG1aSzYxMzZzYVNkZUtFcEhvUHBzcDlyM3pIa2NZZlRzUDBrSVNRMkJkN1RCcE5XWQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 01:58:56 GMT",
+      "timestamp": 1793930336.0,
+      "description": "MDR-3R/SI 購入 | ヘッドホン&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -72,72 +102,62 @@
       "feedName": "サポート・全般"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Thu, 05 Nov 2026 13:52:37 GMT",
-      "timestamp": 1793886757.0,
-      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pTWNkQ0xxMVBoRWQxMVlkVm1NeUpfcjY4eElLdTRSdDZYV2EtTjNpMDh5dHUtNWJuYjZORXpZTWhvTllydjlhdGJlMG9fUTVkcUlBTno0OFlSc3lWTFFfOGJUSW14aXNwZXJRTE9qdmFCVjVV?oc=5",
-      "title": "ソニーストア 大阪 22周年 感謝祭 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pTWNkQ0xxMVBoRWQxMVlkVm1NeUpfcjY4eElLdTRSdDZYV2EtTjNpMDh5dHUtNWJuYjZORXpZTWhvTllydjlhdGJlMG9fUTVkcUlBTno0OFlSc3lWTFFfOGJUSW14aXNwZXJRTE9qdmFCVjVV?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 11:13:58 GMT",
-      "timestamp": 1793790838.0,
-      "description": "ソニーストア 大阪 22周年 感謝祭&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pTWNkQ0xxMVBoRWQxMVlkVm1NeUpfcjY4eElLdTRSdDZYV2EtTjNpMDh5dHUtNWJuYjZORXpZTWhvTllydjlhdGJlMG9fUTVkcUlBTno0OFlSc3lWTFFfOGJUSW14aXNwZXJRTE9qdmFCVjVV?oc=5",
-      "title": "ソニーストア 大阪 22周年 感謝祭 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pTWNkQ0xxMVBoRWQxMVlkVm1NeUpfcjY4eElLdTRSdDZYV2EtTjNpMDh5dHUtNWJuYjZORXpZTWhvTllydjlhdGJlMG9fUTVkcUlBTno0OFlSc3lWTFFfOGJUSW14aXNwZXJRTE9qdmFCVjVV?oc=5",
-      "pubDate": "Wed, 04 Nov 2026 11:13:58 GMT",
-      "timestamp": 1793790838.0,
-      "description": "ソニーストア 大阪 22周年 感謝祭&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
-      "title": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 13:48:35 GMT",
-      "timestamp": 1793713715.0,
-      "description": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HeDhrdUFMYkdOLWlVNWg2a0xrUXN5UWZIclF1SkI0RzNZd1NtQmJzYmZ6S20xZjBVaTEyTkV0SlhORDJjRWhpWmF1aTQyOUlORjZBU0VydGxsWlhWX0dMZTVyckhCN2t5V0JCTE02V2w2M0xF?oc=5",
-      "title": "宇多田ヒカル × Sony Store 「Intentions」先行フル試聴会 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HeDhrdUFMYkdOLWlVNWg2a0xrUXN5UWZIclF1SkI0RzNZd1NtQmJzYmZ6S20xZjBVaTEyTkV0SlhORDJjRWhpWmF1aTQyOUlORjZBU0VydGxsWlhWX0dMZTVyckhCN2t5V0JCTE02V2w2M0xF?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 03:18:04 GMT",
-      "timestamp": 1793503084.0,
-      "description": "宇多田ヒカル × Sony Store 「Intentions」先行フル試聴会&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HeDhrdUFMYkdOLWlVNWg2a0xrUXN5UWZIclF1SkI0RzNZd1NtQmJzYmZ6S20xZjBVaTEyTkV0SlhORDJjRWhpWmF1aTQyOUlORjZBU0VydGxsWlhWX0dMZTVyckhCN2t5V0JCTE02V2w2M0xF?oc=5",
-      "title": "宇多田ヒカル × Sony Store 「Intentions」先行フル試聴会 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HeDhrdUFMYkdOLWlVNWg2a0xrUXN5UWZIclF1SkI0RzNZd1NtQmJzYmZ6S20xZjBVaTEyTkV0SlhORDJjRWhpWmF1aTQyOUlORjZBU0VydGxsWlhWX0dMZTVyckhCN2t5V0JCTE02V2w2M0xF?oc=5",
-      "pubDate": "Sun, 01 Nov 2026 03:18:04 GMT",
-      "timestamp": 1793503084.0,
-      "description": "宇多田ヒカル × Sony Store 「Intentions」先行フル試聴会&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xenN0QnRNODdjdXpSR2h2UFA1QjYtaHNoakpoT1kzYjZ5RXNqSmdJVXBzM2JyM2dvZHFFV19UWmRxTkpSNnoxZ1pOa3Nuckh3dlp5X203ZVVUTUpJZ3dJYkh0S2pPTUxpVGc?oc=5",
+      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCb2xuSTlLeWx0SHNwSWJ0TFhWRWJyWHZGNzNJUEhFcnVCVDhIemtRVG81YWg4YjFRNE9acE52eGhJZnk2SDNRX2lUTFYwU083SkE5cjJ5cmJDVFVwcHdXR0xHc0dHeU5XT3c?oc=5",
       "title": "新商品 発売前先行体験・展示について - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xenN0QnRNODdjdXpSR2h2UFA1QjYtaHNoakpoT1kzYjZ5RXNqSmdJVXBzM2JyM2dvZHFFV19UWmRxTkpSNnoxZ1pOa3Nuckh3dlp5X203ZVVUTUpJZ3dJYkh0S2pPTUxpVGc?oc=5",
-      "pubDate": "Wed, 28 Oct 2026 05:25:32 GMT",
-      "timestamp": 1793165132.0,
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCb2xuSTlLeWx0SHNwSWJ0TFhWRWJyWHZGNzNJUEhFcnVCVDhIemtRVG81YWg4YjFRNE9acE52eGhJZnk2SDNRX2lUTFYwU083SkE5cjJ5cmJDVFVwcHdXR0xHc0dHeU5XT3c?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 00:08:10 GMT",
+      "timestamp": 1793923690.0,
       "description": "新商品 発売前先行体験・展示について&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCb2xuSTlLeWx0SHNwSWJ0TFhWRWJyWHZGNzNJUEhFcnVCVDhIemtRVG81YWg4YjFRNE9acE52eGhJZnk2SDNRX2lUTFYwU083SkE5cjJ5cmJDVFVwcHdXR0xHc0dHeU5XT3c?oc=5",
+      "title": "新商品 発売前先行体験・展示について - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCb2xuSTlLeWx0SHNwSWJ0TFhWRWJyWHZGNzNJUEhFcnVCVDhIemtRVG81YWg4YjFRNE9acE52eGhJZnk2SDNRX2lUTFYwU083SkE5cjJ5cmJDVFVwcHdXR0xHc0dHeU5XT3c?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 00:08:10 GMT",
+      "timestamp": 1793923690.0,
+      "description": "新商品 発売前先行体験・展示について&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pTWNkQ0xxMVBoRWQxMVlkVm1NeUpfcjY4eElLdTRSdDZYV2EtTjNpMDh5dHUtNWJuYjZORXpZTWhvTllydjlhdGJlMG9fUTVkcUlBTno0OFlSc3lWTFFfOGJUSW14aXNwZXJRTE9qdmFCVjVV?oc=5",
+      "title": "ソニーストア 大阪 22周年 感謝祭 - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pTWNkQ0xxMVBoRWQxMVlkVm1NeUpfcjY4eElLdTRSdDZYV2EtTjNpMDh5dHUtNWJuYjZORXpZTWhvTllydjlhdGJlMG9fUTVkcUlBTno0OFlSc3lWTFFfOGJUSW14aXNwZXJRTE9qdmFCVjVV?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 11:13:58 GMT",
+      "timestamp": 1793790838.0,
+      "description": "ソニーストア 大阪 22周年 感謝祭&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pTWNkQ0xxMVBoRWQxMVlkVm1NeUpfcjY4eElLdTRSdDZYV2EtTjNpMDh5dHUtNWJuYjZORXpZTWhvTllydjlhdGJlMG9fUTVkcUlBTno0OFlSc3lWTFFfOGJUSW14aXNwZXJRTE9qdmFCVjVV?oc=5",
+      "title": "ソニーストア 大阪 22周年 感謝祭 - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pTWNkQ0xxMVBoRWQxMVlkVm1NeUpfcjY4eElLdTRSdDZYV2EtTjNpMDh5dHUtNWJuYjZORXpZTWhvTllydjlhdGJlMG9fUTVkcUlBTno0OFlSc3lWTFFfOGJUSW14aXNwZXJRTE9qdmFCVjVV?oc=5",
+      "pubDate": "Wed, 04 Nov 2026 11:13:58 GMT",
+      "timestamp": 1793790838.0,
+      "description": "ソニーストア 大阪 22周年 感謝祭&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HeDhrdUFMYkdOLWlVNWg2a0xrUXN5UWZIclF1SkI0RzNZd1NtQmJzYmZ6S20xZjBVaTEyTkV0SlhORDJjRWhpWmF1aTQyOUlORjZBU0VydGxsWlhWX0dMZTVyckhCN2t5V0JCTE02V2w2M0xF?oc=5",
+      "title": "宇多田ヒカル × Sony Store 「Intentions」先行フル試聴会 - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HeDhrdUFMYkdOLWlVNWg2a0xrUXN5UWZIclF1SkI0RzNZd1NtQmJzYmZ6S20xZjBVaTEyTkV0SlhORDJjRWhpWmF1aTQyOUlORjZBU0VydGxsWlhWX0dMZTVyckhCN2t5V0JCTE02V2w2M0xF?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 03:18:04 GMT",
+      "timestamp": 1793503084.0,
+      "description": "宇多田ヒカル × Sony Store 「Intentions」先行フル試聴会&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HeDhrdUFMYkdOLWlVNWg2a0xrUXN5UWZIclF1SkI0RzNZd1NtQmJzYmZ6S20xZjBVaTEyTkV0SlhORDJjRWhpWmF1aTQyOUlORjZBU0VydGxsWlhWX0dMZTVyckhCN2t5V0JCTE02V2w2M0xF?oc=5",
+      "title": "宇多田ヒカル × Sony Store 「Intentions」先行フル試聴会 - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HeDhrdUFMYkdOLWlVNWg2a0xrUXN5UWZIclF1SkI0RzNZd1NtQmJzYmZ6S20xZjBVaTEyTkV0SlhORDJjRWhpWmF1aTQyOUlORjZBU0VydGxsWlhWX0dMZTVyckhCN2t5V0JCTE02V2w2M0xF?oc=5",
+      "pubDate": "Sun, 01 Nov 2026 03:18:04 GMT",
+      "timestamp": 1793503084.0,
+      "description": "宇多田ヒカル × Sony Store 「Intentions」先行フル試聴会&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
     },
@@ -222,16 +242,6 @@
       "feedName": "サポート・全般"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zX0FqbW1oVEMwSTFQUjNOYXFtTGRDYmJ2S0M1d3VTTlh1RTRtTGtwVlk1M0dnalJKbzM5RTdoUUx3Z2p1SE1WTEZURzRjckdDVngtT3FHOXhFQmc?oc=5",
-      "title": "Xperia 10 VIII - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zX0FqbW1oVEMwSTFQUjNOYXFtTGRDYmJ2S0M1d3VTTlh1RTRtTGtwVlk1M0dnalJKbzM5RTdoUUx3Z2p1SE1WTEZURzRjckdDVngtT3FHOXhFQmc?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 02:29:01 GMT",
-      "timestamp": 1787624941.0,
-      "description": "Xperia 10 VIII&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzdoQUw0VTlQc0Z4WWg1SmJjaHhPcUFtWHlsNGswWkFxWlJTVEtFR3RqU1lJczFOYl9pRno4bVZlaHZHZ0E4aDI2bkh6aWg2OUNJRTlxN0xnT2JaanBxeG9yQkstMklYbTFBT2JOaUdkaGZMRnJyRUk1X09fVW5NWlI1RTlZaXRkRlVQLTVZZFN4a0k?oc=5",
       "title": "ドライバーとソフトウェアのアップデート スマートフォン | ソニー - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzdoQUw0VTlQc0Z4WWg1SmJjaHhPcUFtWHlsNGswWkFxWlJTVEtFR3RqU1lJczFOYl9pRno4bVZlaHZHZ0E4aDI2bkh6aWg2OUNJRTlxN0xnT2JaanBxeG9yQkstMklYbTFBT2JOaUdkaGZMRnJyRUk1X09fVW5NWlI1RTlZaXRkRlVQLTVZZFN4a0k?oc=5",
@@ -310,6 +320,16 @@
       "description": "アプリアップデート情報 | Xperia Hello!（G1209） | Xperia Smart Products | サポート・お問い合わせ&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5samJKcmx0c2RCMk5KRFB6blBDQTJRNUtSZDRlVDJRWm84MDhOcjU2NWN4eFFmQThJT3RaRmJWS1h4SEVHdU9PV0QyQ29SeFE?oc=5",
+      "title": "ソニーストア店舗 採用情報 | ソニーストアについて | ソニー - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5samJKcmx0c2RCMk5KRFB6blBDQTJRNUtSZDRlVDJRWm84MDhOcjU2NWN4eFFmQThJT3RaRmJWS1h4SEVHdU9PV0QyQ29SeFE?oc=5",
+      "pubDate": "Mon, 01 Jun 2020 05:42:20 GMT",
+      "timestamp": 1590990140.0,
+      "description": "ソニーストア店舗 採用情報 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RVXVfd2RBRjY4dXhMSEJXZEtIUnNSbW5RSGo2UG03X1p2eGpSZG54WmRBT3RuMkxrSTA3WWZVam9uVHJEMFllV2xqUnhCZkljT1BkRDRVR0xkM28w?oc=5",
@@ -448,26 +468,6 @@
       "pubDate": "Sun, 03 May 2015 20:19:48 GMT",
       "timestamp": 1430684388.0,
       "description": "ソニーストアのご利用ガイド | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fNWZhTDhhWTE4bGxodkRldVFTZDlUbmxmc1JrYUs1RmZoVnZVVVJjWExEcHFjV2ExdlZHVElCbDFQTXVPRXozdjFJRWJ5QQ?oc=5",
-      "title": "本体アップデート情報 | ヘッドホン | ソニー - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fNWZhTDhhWTE4bGxodkRldVFTZDlUbmxmc1JrYUs1RmZoVnZVVVJjWExEcHFjV2ExdlZHVElCbDFQTXVPRXozdjFJRWJ5QQ?oc=5",
-      "pubDate": "Wed, 01 Apr 2015 19:33:37 GMT",
-      "timestamp": 1427916817.0,
-      "description": "本体アップデート情報 | ヘッドホン | ソニー&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43UTVOTFdwLTZSQll3LVJMdlpjNHhjQm5SS2YyUkc5OWlfYXA2elVFWW9CUkdabDliSmlfS2Q1REQxZ055MU1rQ3Q3N1FxM1BrOEQxYzVCVDJlRlM0eXlQei0xWlBqNkU?oc=5",
-      "title": "ご注文の変更、キャンセル、配送状況の確認 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43UTVOTFdwLTZSQll3LVJMdlpjNHhjQm5SS2YyUkc5OWlfYXA2elVFWW9CUkdabDliSmlfS2Q1REQxZ055MU1rQ3Q3N1FxM1BrOEQxYzVCVDJlRlM0eXlQei0xWlBqNkU?oc=5",
-      "pubDate": "Fri, 27 Mar 2015 19:18:17 GMT",
-      "timestamp": 1427483897.0,
-      "description": "ご注文の変更、キャンセル、配送状況の確認&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
     },
