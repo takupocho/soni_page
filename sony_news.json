@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-07T19:54:45.538629+00:00",
+  "updatedAt": "2026-11-07T23:26:54.124250+00:00",
   "items": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1HSnE1eXB2VmVlSXRtYzByYklnU2s0Y2xJV29oSmRqbDhGNkpyV0FEdTVKb0tOa2ZlTDh5M3RNRTBncEdQZkk4Zml3?oc=5",
+      "title": "れとお - αcafe",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1HSnE1eXB2VmVlSXRtYzByYklnU2s0Y2xJV29oSmRqbDhGNkpyV0FEdTVKb0tOa2ZlTDh5M3RNRTBncEdQZkk4Zml3?oc=5",
+      "pubDate": "Sat, 07 Nov 2026 20:36:47 GMT",
+      "timestamp": 1794083807.0,
+      "description": "れとお&nbsp;&nbsp;αcafe",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pTWNkQ0xxMVBoRWQxMVlkVm1NeUpfcjY4eElLdTRSdDZYV2EtTjNpMDh5dHUtNWJuYjZORXpZTWhvTllydjlhdGJlMG9fUTVkcUlBTno0OFlSc3lWTFFfOGJUSW14aXNwZXJRTE9qdmFCVjVV?oc=5",
       "title": "ソニーストア 大阪 22周年 感謝祭 - ソニーストア",
@@ -210,16 +220,6 @@
       "description": "ILCE-7RM6 本体ソフトウェアアップデート Ver. 1.02&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sVDk4UFBFR3JneWNJc3ZTZlc1anJ3dHhTcEotT082NUNZRzBpY2ZmbTVCclpVbURLYU8wOC1NOE5saUlRV01EaTVITEc4ejVXdURrdjE1c3JvbGxWYzd0ekUzV0t3aVFaZE81WjNHdw?oc=5",
-      "title": "BEYOND THE LIGHT ULTRAMAN TIGA 30th ANNIVERSARY in Sony Store - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sVDk4UFBFR3JneWNJc3ZTZlc1anJ3dHhTcEotT082NUNZRzBpY2ZmbTVCclpVbURLYU8wOC1NOE5saUlRV01EaTVITEc4ejVXdURrdjE1c3JvbGxWYzd0ekUzV0t3aVFaZE81WjNHdw?oc=5",
-      "pubDate": "Fri, 16 Oct 2026 06:12:47 GMT",
-      "timestamp": 1792131167.0,
-      "description": "BEYOND THE LIGHT ULTRAMAN TIGA 30th ANNIVERSARY in Sony Store&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmbkdEN2pVY084NjdZaWplQmNuR3dhSTlvTEFfS2F1aU9JRlBBMm92a3ZIWjN5TmVKeFZIUUZMYUcyX3lIVkhOTXBRZnVUWHpONGxSa0JwX3pnRWFvWk43ekJoVG9jOG1icVVKSFln?oc=5",
@@ -462,6 +462,16 @@
       "feedName": "ストア・イベント"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lbkxMNk1aLUg4aW5VcnRFZXhQQ0ZkRWJoZER0M05XUVBlQ29uSEFraGJWbHBwbDNSbC00NGpzbGxpQkZyZlRUU1JNOWE1R3dyWXpV?oc=5",
+      "title": "ソニーストア 札幌 - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lbkxMNk1aLUg4aW5VcnRFZXhQQ0ZkRWJoZER0M05XUVBlQ29uSEFraGJWbHBwbDNSbC00NGpzbGxpQkZyZlRUU1JNOWE1R3dyWXpV?oc=5",
+      "pubDate": "Sun, 28 May 2017 04:51:44 GMT",
+      "timestamp": 1495947104.0,
+      "description": "ソニーストア 札幌&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9udEZhUm5SUHpBdjlHSHJhdWZMNFpIMEdfRlVqRGZnOVctcTRxNzY4bFNtM3JXWGdhYUdtYlpVNUUtUjFjc25iWA?oc=5",
       "title": "ソニーストア 店舗のご案内 | ソニーストアについて | ソニー - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9udEZhUm5SUHpBdjlHSHJhdWZMNFpIMEdfRlVqRGZnOVctcTRxNzY4bFNtM3JXWGdhYUdtYlpVNUUtUjFjc25iWA?oc=5",
@@ -532,16 +542,6 @@
       "feedName": "製品ニュース"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5laVBsRi1VVjlEQTAzNXBWeU1Hc2FTR3doTkRaT0lkQ0JwemZXcjdvYm91SUVLaHFtdTRxcmliQ1o?oc=5",
-      "title": "電子書籍・漫画ならソニーのReader Store｜無料でも楽しめる！ - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5laVBsRi1VVjlEQTAzNXBWeU1Hc2FTR3doTkRaT0lkQ0JwemZXcjdvYm91SUVLaHFtdTRxcmliQ1o?oc=5",
-      "pubDate": "Thu, 10 Nov 2011 17:00:49 GMT",
-      "timestamp": 1320944449.0,
-      "description": "電子書籍・漫画ならソニーのReader Store｜無料でも楽しめる！&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2QUJwTnFGTjEzbGZQRl9UMlg0WEpiNHd5UXQ0Zk83MHMyajd2VzhRT1Q4VXZES29VWGNIbW5xR2NoVlo5X2VpRVZQU1k2a2l0akNScV96eXNfTFp3RHhJenhyTERXbmlfQ3pqeVd6NTNXZUstLVk4OTJhc1lZekU?oc=5",
       "title": "“ウォークマン”詳細操作ガイド 取扱説明書（HTML版） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2QUJwTnFGTjEzbGZQRl9UMlg0WEpiNHd5UXQ0Zk83MHMyajd2VzhRT1Q4VXZES29VWGNIbW5xR2NoVlo5X2VpRVZQU1k2a2l0akNScV96eXNfTFp3RHhJenhyTERXbmlfQ3pqeVd6NTNXZUstLVk4OTJhc1lZekU?oc=5",
@@ -553,11 +553,11 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BSm1xV1o5dW11cEFaQjBhLXYxXzZNNHlqNG5JTmhQUEtQbW1HWU9zTjRBd3lDdEVDOC1MM2liNEEwem1aMDJVcWJn?oc=5",
-      "title": "本体アップデート情報 | テレビ ブラビア - ソニーストア",
+      "title": "本体アップデート情報 | テレビ ブラビア | ソニー - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1BSm1xV1o5dW11cEFaQjBhLXYxXzZNNHlqNG5JTmhQUEtQbW1HWU9zTjRBd3lDdEVDOC1MM2liNEEwem1aMDJVcWJn?oc=5",
       "pubDate": "Fri, 04 Nov 2011 01:25:24 GMT",
       "timestamp": 1320369924.0,
-      "description": "本体アップデート情報 | テレビ ブラビア&nbsp;&nbsp;ソニーストア",
+      "description": "本体アップデート情報 | テレビ ブラビア | ソニー&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
