@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T15:26:44.015832+00:00",
+  "updatedAt": "2026-11-07T19:54:45.538629+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pTWNkQ0xxMVBoRWQxMVlkVm1NeUpfcjY4eElLdTRSdDZYV2EtTjNpMDh5dHUtNWJuYjZORXpZTWhvTllydjlhdGJlMG9fUTVkcUlBTno0OFlSc3lWTFFfOGJUSW14aXNwZXJRTE9qdmFCVjVV?oc=5",
@@ -92,12 +92,12 @@
       "feedName": "サポート・全般"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xblNyc2xhUzd5bUdFM2FCaWVkMGNyNUxObGhnOHp0VWdiVjE5WGRKT3JsamlSUnA2OVYyZFVScE1YZ2RxT3dadXU3MS1KVE41R1BCSXYyVjF6VEt1TWNNbFItN2RONUNOU3dZR2psX0RGY1hwSFBn?oc=5",
-      "title": "MDR-3R 購入 | ヘッドホン - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xblNyc2xhUzd5bUdFM2FCaWVkMGNyNUxObGhnOHp0VWdiVjE5WGRKT3JsamlSUnA2OVYyZFVScE1YZ2RxT3dadXU3MS1KVE41R1BCSXYyVjF6VEt1TWNNbFItN2RONUNOU3dZR2psX0RGY1hwSFBn?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 01:58:53 GMT",
-      "timestamp": 1793930333.0,
-      "description": "MDR-3R 購入 | ヘッドホン&nbsp;&nbsp;ソニーストア",
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rZWU0TTEyQkg5T29hRXZRVGI5bWllSVVQS0RWbms0c0NUUFpOSmpYendVQ0FXcVhJVVlDak1QU1htNVJUVDlTS0NVRG1aSzYxMzZzYVNkZUtFcEhvUHBzcDlyM3pIa2NZZlRzUDBrSVNRMkJkN1RCcE5XWQ?oc=5",
+      "title": "MDR-3R/SI 購入 | ヘッドホン - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rZWU0TTEyQkg5T29hRXZRVGI5bWllSVVQS0RWbms0c0NUUFpOSmpYendVQ0FXcVhJVVlDak1QU1htNVJUVDlTS0NVRG1aSzYxMzZzYVNkZUtFcEhvUHBzcDlyM3pIa2NZZlRzUDBrSVNRMkJkN1RCcE5XWQ?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 01:58:56 GMT",
+      "timestamp": 1793930336.0,
+      "description": "MDR-3R/SI 購入 | ヘッドホン&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -155,8 +155,8 @@
       "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
       "title": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
-      "pubDate": "Tue, 03 Nov 2026 14:04:53 GMT",
-      "timestamp": 1793714693.0,
+      "pubDate": "Tue, 03 Nov 2026 17:05:36 GMT",
+      "timestamp": 1793725536.0,
       "description": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -312,12 +312,32 @@
       "feedName": "カメラ更新"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iaEhPb3I3R2lPLVExYW91MlRMeWZYTUl6UVdkdlRnem4weHpNNm1PY2FZTURub2NydmJnY3RqR2pTcEdBUXBPSGpWM1BHcWFxMkE?oc=5",
+      "title": "ソニーストアの来店予約 | ソニーストアについて | ソニー - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iaEhPb3I3R2lPLVExYW91MlRMeWZYTUl6UVdkdlRnem4weHpNNm1PY2FZTURub2NydmJnY3RqR2pTcEdBUXBPSGpWM1BHcWFxMkE?oc=5",
+      "pubDate": "Thu, 01 Oct 2020 10:38:08 GMT",
+      "timestamp": 1601548688.0,
+      "description": "ソニーストアの来店予約 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5samJKcmx0c2RCMk5KRFB6blBDQTJRNUtSZDRlVDJRWm84MDhOcjU2NWN4eFFmQThJT3RaRmJWS1h4SEVHdU9PV0QyQ29SeFE?oc=5",
       "title": "ソニーストア店舗 採用情報 | ソニーストアについて | ソニー - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5samJKcmx0c2RCMk5KRFB6blBDQTJRNUtSZDRlVDJRWm84MDhOcjU2NWN4eFFmQThJT3RaRmJWS1h4SEVHdU9PV0QyQ29SeFE?oc=5",
       "pubDate": "Mon, 01 Jun 2020 05:42:20 GMT",
       "timestamp": 1590990140.0,
       "description": "ソニーストア店舗 採用情報 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zMnp4YnkxOHNKY0xtWjNVQUYyeE55N2RUUVhYSnN5cW1DUzI0a2lsa2hMVnlERDY1V1Y5dkNkV0NkSnQ5T3dqTmN0bmpqWk1jLUQ5Y0FnTWxwXzNpTkZYS24tRUtBMG8?oc=5",
+      "title": "「毎週おトクなd曜日」 - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4zMnp4YnkxOHNKY0xtWjNVQUYyeE55N2RUUVhYSnN5cW1DUzI0a2lsa2hMVnlERDY1V1Y5dkNkV0NkSnQ5T3dqTmN0bmpqWk1jLUQ5Y0FnTWxwXzNpTkZYS24tRUtBMG8?oc=5",
+      "pubDate": "Sat, 25 Apr 2020 03:37:16 GMT",
+      "timestamp": 1587785836.0,
+      "description": "「毎週おトクなd曜日」&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
     },
@@ -472,16 +492,6 @@
       "feedName": "カメラ更新"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qcjZYanZsN19kRUd5QVZpaXNUWTh5NjJNc25UMEZPOHo0T2RIeTZyb0s0MGxCdzdXN1EtMndrVzROXzFaeGRZWHIzQkUzdXRO?oc=5",
-      "title": "ソニーストア 大阪 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qcjZYanZsN19kRUd5QVZpaXNUWTh5NjJNc25UMEZPOHo0T2RIeTZyb0s0MGxCdzdXN1EtMndrVzROXzFaeGRZWHIzQkUzdXRO?oc=5",
-      "pubDate": "Fri, 27 Mar 2015 19:17:30 GMT",
-      "timestamp": 1427483850.0,
-      "description": "ソニーストア 大阪&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tdnBxWGhSZW1BemdRbjNxWTROMEdpaXVFTWo4RGVrT0VENE0zeXM4UUdtZ05kUXpaNzhDcEpQTk9tejF1ZHpmV3J2anVoYkk4anc?oc=5",
       "title": "ソニーストア 名古屋 | ソニーストアについて | ソニー - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tdnBxWGhSZW1BemdRbjNxWTROMEdpaXVFTWo4RGVrT0VENE0zeXM4UUdtZ05kUXpaNzhDcEpQTk9tejF1ZHpmV3J2anVoYkk4anc?oc=5",
@@ -498,16 +508,6 @@
       "pubDate": "Tue, 24 Mar 2015 20:42:01 GMT",
       "timestamp": 1427229721.0,
       "description": "残価設定クレジット&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtOElaZ01ZUEo3cjhrQk1haldMSkIyaE5GakNkSkFRS2t2ZmoxVmlEckVkbWZDUGlTd0pBSlFWWl9fdmZRQk14MWg4NU5nT1g3Y216bVNwX0xLRTdMRjBmYlRFQy0?oc=5",
-      "title": "送料、配送 | ご注文の前に | ソニーストアのご利用ガイド | ソニーストアについて | ソニー - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAtOElaZ01ZUEo3cjhrQk1haldMSkIyaE5GakNkSkFRS2t2ZmoxVmlEckVkbWZDUGlTd0pBSlFWWl9fdmZRQk14MWg4NU5nT1g3Y216bVNwX0xLRTdMRjBmYlRFQy0?oc=5",
-      "pubDate": "Tue, 24 Mar 2015 20:15:45 GMT",
-      "timestamp": 1427228145.0,
-      "description": "送料、配送 | ご注文の前に | ソニーストアのご利用ガイド | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
     },
