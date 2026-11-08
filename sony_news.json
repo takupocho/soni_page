@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T17:39:26.007609+00:00",
+  "updatedAt": "2026-11-08T21:43:59.673260+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
@@ -8,6 +8,16 @@
       "pubDate": "Sun, 08 Nov 2026 08:05:00 GMT",
       "timestamp": 1794125100.0,
       "description": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "pubDate": "Fri, 06 Nov 2026 17:16:43 GMT",
+      "timestamp": 1793985403.0,
+      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -232,6 +242,16 @@
       "feedName": "ストア・イベント"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RTHdRUnpsV3NNd0VKWjhoZjB4LXhOM1ZRUkRobDhkeHhwUF9TOU16bjJBUm9qY1F5LThSU2llRFNCSGZnRHBMTmVoUm1uUWtid2VDaWRiVjVfcUdYbEozaktMZGhtX0NHWi0zUkNn?oc=5",
+      "title": "指紋認証がうまく反応しない／認識が悪くなった - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RTHdRUnpsV3NNd0VKWjhoZjB4LXhOM1ZRUkRobDhkeHhwUF9TOU16bjJBUm9qY1F5LThSU2llRFNCSGZnRHBMTmVoUm1uUWtid2VDaWRiVjVfcUdYbEozaktMZGhtX0NHWi0zUkNn?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "timestamp": 1791356400.0,
+      "description": "指紋認証がうまく反応しない／認識が悪くなった&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmbkdEN2pVY084NjdZaWplQmNuR3dhSTlvTEFfS2F1aU9JRlBBMm92a3ZIWjN5TmVKeFZIUUZMYUcyX3lIVkhOTXBRZnVUWHpONGxSa0JwX3pnRWFvWk43ekJoVG9jOG1icVVKSFln?oc=5",
       "title": "カメラアップデートのすすめ - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmbkdEN2pVY084NjdZaWplQmNuR3dhSTlvTEFfS2F1aU9JRlBBMm92a3ZIWjN5TmVKeFZIUUZMYUcyX3lIVkhOTXBRZnVUWHpONGxSa0JwX3pnRWFvWk43ekJoVG9jOG1icVVKSFln?oc=5",
@@ -262,16 +282,6 @@
       "feedName": "サポート・全般"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YRFFQOEc4YVJYVzh5SENjUWRva0NjNzBhRUpReDZKVnRwNE1Pam04WHlQTzhKZHFFSHk3d0ppZXg0LXNnRWpVRTN1QWRlSldEWjFnbVR3d2JYZi1mcUkyOXFBWEFBSE9RTFBnWndn?oc=5",
-      "title": "メモリーカードでカメラをアップデートする方法 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YRFFQOEc4YVJYVzh5SENjUWRva0NjNzBhRUpReDZKVnRwNE1Pam04WHlQTzhKZHFFSHk3d0ppZXg0LXNnRWpVRTN1QWRlSldEWjFnbVR3d2JYZi1mcUkyOXFBWEFBSE9RTFBnWndn?oc=5",
-      "pubDate": "Tue, 03 Mar 2026 11:39:01 GMT",
-      "timestamp": 1772537941.0,
-      "description": "メモリーカードでカメラをアップデートする方法&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSSC1Hb05BYmNidUxkcl9tN05uVEh2aTgzWkJfaVVjWTk2c0JsWUVJUXJjNFVyel91SWI3ZlJ1bDMxQVY1RF8xVDE3Uy13S1A5MGxOY25FSmhsbUZBVGNDMHEyN3pRQUx2TmV3UFQ1YnlYQQ?oc=5",
       "title": "Music Center for PC - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSSC1Hb05BYmNidUxkcl9tN05uVEh2aTgzWkJfaVVjWTk2c0JsWUVJUXJjNFVyel91SWI3ZlJ1bDMxQVY1RF8xVDE3Uy13S1A5MGxOY25FSmhsbUZBVGNDMHEyN3pRQUx2TmV3UFQ1YnlYQQ?oc=5",
@@ -282,6 +292,16 @@
       "feedName": "サポート・全般"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00UzFEeXhLamhaOFIyUGd1ejByaUt6MlpMQTluTzljUHJZR2NVb1FmOWN5X2cxQWZyTXNLQlA2YUx3eFVnbEg0eUZscVprRU5ZdmlCd0ZBZUVZRGd5bUtDNA?oc=5",
+      "title": "BABYMONSTER “THANKS MONSTIEZ” @Sony Store イベント概要 - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00UzFEeXhLamhaOFIyUGd1ejByaUt6MlpMQTluTzljUHJZR2NVb1FmOWN5X2cxQWZyTXNLQlA2YUx3eFVnbEg0eUZscVprRU5ZdmlCd0ZBZUVZRGd5bUtDNA?oc=5",
+      "pubDate": "Fri, 19 Dec 2025 12:50:03 GMT",
+      "timestamp": 1766148603.0,
+      "description": "BABYMONSTER “THANKS MONSTIEZ” @Sony Store イベント概要&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0pwLUxVb29Gc0dHZlRXcE9adjRrWkF2Vk14ci1maEt4cjRZbm9feHpfdjFfYWhGOHYzRG1weFBlZWJpM1VFQ3dpOU9oWTZZcU05ckhYd0NMaXVfQzNkR053Tl9WMFJSbk5rajNyUWJIY0hVREs0SGVrUmtHSmRyY24tcTBsal9MMjZWdFNaZ1J2R3ZPblcwRWFpUQ?oc=5",
       "title": "アプリをアップデート（インストール）できない | よくある質問 | Windows アプリ | PC TV Plus - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0pwLUxVb29Gc0dHZlRXcE9adjRrWkF2Vk14ci1maEt4cjRZbm9feHpfdjFfYWhGOHYzRG1weFBlZWJpM1VFQ3dpOU9oWTZZcU05ckhYd0NMaXVfQzNkR053Tl9WMFJSbk5rajNyUWJIY0hVREs0SGVrUmtHSmRyY24tcTBsal9MMjZWdFNaZ1J2R3ZPblcwRWFpUQ?oc=5",
@@ -290,16 +310,6 @@
       "description": "アプリをアップデート（インストール）できない | よくある質問 | Windows アプリ | PC TV Plus&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ZVYyNFB2N0k5b1l0a2JvS3Y2OFFOeWNfQWhQUmtDR3hVcGFnSFNWdFA4bkp3ZDVDMzVLUVRCazVoWEFObVlmTGItR2taRHlRLVdab2dBVVg?oc=5",
-      "title": "ソニーストアご利用感謝 ラッキー抽選会 | ソニーストアについて | ソニー - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE04ZVYyNFB2N0k5b1l0a2JvS3Y2OFFOeWNfQWhQUmtDR3hVcGFnSFNWdFA4bkp3ZDVDMzVLUVRCazVoWEFObVlmTGItR2taRHlRLVdab2dBVVg?oc=5",
-      "pubDate": "Wed, 22 Feb 2023 03:51:08 GMT",
-      "timestamp": 1677037868.0,
-      "description": "ソニーストアご利用感謝 ラッキー抽選会 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE83OTB5ZThHbjhxNk4zNjRWQUJHenRQeTVIV0U5blhoQnA3QTYtc0pkQjRFZXo3THVFY3U2UFpQZXc2ZUVvODl4ZHlZYlE1SUNwMDByZldZZ1ZYUnNuck1raUFGa1IwV0N0?oc=5",
@@ -538,16 +548,6 @@
       "pubDate": "Wed, 07 Aug 2013 05:16:29 GMT",
       "timestamp": 1375852589.0,
       "description": "マイページ/アカウントサービス - My Sony - ソニーストア&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5laVBsRi1VVjlEQTAzNXBWeU1Hc2FTR3doTkRaT0lkQ0JwemZXcjdvYm91SUVLaHFtdTRxcmliQ1o?oc=5",
-      "title": "電子書籍・漫画ならソニーのReader Store｜無料でも楽しめる！ - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE5laVBsRi1VVjlEQTAzNXBWeU1Hc2FTR3doTkRaT0lkQ0JwemZXcjdvYm91SUVLaHFtdTRxcmliQ1o?oc=5",
-      "pubDate": "Thu, 10 Nov 2011 17:00:49 GMT",
-      "timestamp": 1320944449.0,
-      "description": "電子書籍・漫画ならソニーのReader Store｜無料でも楽しめる！&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
