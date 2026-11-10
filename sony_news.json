@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-11-09T20:26:46.580500+00:00",
+  "updatedAt": "2026-11-10T03:12:08.084104+00:00",
   "items": [
-    {
-      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 07:29:57 GMT",
-      "timestamp": 1794209397.0,
-      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
     {
       "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IOTAwQWpidGExM2d3VXAzeHQ3RXdMSTZfenVWM1RaUHY3WWdLUDVNN2tZaDE1QVVRYW1rQVVQam1GUkxPX01kZVBhZE90NVhYYy1MQTFPVjNYNndES2ZiN1BpUHRMc2s?oc=5",
       "title": "MDR-3R の特長： デザイン | ヘッドホン - ソニーストア",
@@ -32,11 +22,21 @@
       "feedName": "サポート・全般"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
+      "pubDate": "Mon, 09 Nov 2026 02:33:29 GMT",
+      "timestamp": 1794191609.0,
+      "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
       "title": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
-      "pubDate": "Sun, 08 Nov 2026 16:29:48 GMT",
-      "timestamp": 1794155388.0,
+      "pubDate": "Mon, 09 Nov 2026 00:45:46 GMT",
+      "timestamp": 1794185146.0,
       "description": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -72,16 +72,6 @@
       "feedName": "サポート・全般"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IaXh5eGZ6N1dNOWdoQnZ3RFRQdUc4WkJhYjNTNHZPaTBuTTNraU9Xck5EaE9KLUlwSmVnb1kyR2JVb3JxTWcyM2JySDh0RVp1RW1RS0V0S3R6Q2dKWm5xaQ?oc=5",
-      "title": "MDR-3R 主な仕様 | ヘッドホン - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IaXh5eGZ6N1dNOWdoQnZ3RFRQdUc4WkJhYjNTNHZPaTBuTTNraU9Xck5EaE9KLUlwSmVnb1kyR2JVb3JxTWcyM2JySDh0RVp1RW1RS0V0S3R6Q2dKWm5xaQ?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 03:22:37 GMT",
-      "timestamp": 1793935357.0,
-      "description": "MDR-3R 主な仕様 | ヘッドホン&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wcE91OWlQRHA0QnRUS05HMUV3OGJ4ck5vcUhOemQ5Zk1mZkc5aFB2OTEzc1hBbGJpTXByY2RxcWFvb0Z2a1FKNllJUEFYTjJXSXBRQlNibmhoUQ?oc=5",
       "title": "MDR-3R | ヘッドホン - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wcE91OWlQRHA0QnRUS05HMUV3OGJ4ck5vcUhOemQ5Zk1mZkc5aFB2OTEzc1hBbGJpTXByY2RxcWFvb0Z2a1FKNllJUEFYTjJXSXBRQlNibmhoUQ?oc=5",
@@ -98,16 +88,6 @@
       "pubDate": "Fri, 06 Nov 2026 01:58:56 GMT",
       "timestamp": 1793930336.0,
       "description": "MDR-3R/SI 購入 | ヘッドホン&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HQWZ4MW5UUVViLUp6c3NrbVRjcnVnNGlKRXg2SmhJN09Jd2Z5WThDbkNwWVhkajdJSGFNV19LX1NmSzV6LVRFTERyT1BfZHdtSV9wM2E4ejQ?oc=5",
-      "title": "MDR-3R コンセプトサイト | ヘッドホン - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HQWZ4MW5UUVViLUp6c3NrbVRjcnVnNGlKRXg2SmhJN09Jd2Z5WThDbkNwWVhkajdJSGFNV19LX1NmSzV6LVRFTERyT1BfZHdtSV9wM2E4ejQ?oc=5",
-      "pubDate": "Fri, 06 Nov 2026 00:20:06 GMT",
-      "timestamp": 1793924406.0,
-      "description": "MDR-3R コンセプトサイト | ヘッドホン&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -212,6 +192,36 @@
       "feedName": "ストア・イベント"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YWDEwaTlMY0ZKR3NXSmw2VEdhdnQzc18wZ1ZxQ3BYQS1OT0s5Y1ZlLTR6amZ6U3ZMVS1ZNHFHWUctSVlPZjA3dTNiM0VYbjFMMnBCd29oUVliYTdnMXdnVm1XWm91b3lidU1RSWlBeDFJVjRQdXp6Qw?oc=5",
+      "title": "WF-1000XM6 本体ソフトウェア アップデート手順（Ver 2.0.5）Android | ヘッドホン | ソニー - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YWDEwaTlMY0ZKR3NXSmw2VEdhdnQzc18wZ1ZxQ3BYQS1OT0s5Y1ZlLTR6amZ6U3ZMVS1ZNHFHWUctSVlPZjA3dTNiM0VYbjFMMnBCd29oUVliYTdnMXdnVm1XWm91b3lidU1RSWlBeDFJVjRQdXp6Qw?oc=5",
+      "pubDate": "Fri, 16 Oct 2026 03:38:25 GMT",
+      "timestamp": 1792121905.0,
+      "description": "WF-1000XM6 本体ソフトウェア アップデート手順（Ver 2.0.5）Android | ヘッドホン | ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RTHdRUnpsV3NNd0VKWjhoZjB4LXhOM1ZRUkRobDhkeHhwUF9TOU16bjJBUm9qY1F5LThSU2llRFNCSGZnRHBMTmVoUm1uUWtid2VDaWRiVjVfcUdYbEozaktMZGhtX0NHWi0zUkNn?oc=5",
+      "title": "指紋認証がうまく反応しない／認識が悪くなった - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RTHdRUnpsV3NNd0VKWjhoZjB4LXhOM1ZRUkRobDhkeHhwUF9TOU16bjJBUm9qY1F5LThSU2llRFNCSGZnRHBMTmVoUm1uUWtid2VDaWRiVjVfcUdYbEozaktMZGhtX0NHWi0zUkNn?oc=5",
+      "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
+      "timestamp": 1791356400.0,
+      "description": "指紋認証がうまく反応しない／認識が悪くなった&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YOTBKQWlyUXJzOWZvblJMOEVFOXBlUU1rWTVHN1pIbWltU1ptREJNUkU2cTllTlRVampjR0NmUkwweDh2SkhTbEFPOF9oZWp4NzJvRldHZGhvMnRhUWIw?oc=5",
+      "title": "ハローキティとソニーが初のコラボレーション♪ - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5YOTBKQWlyUXJzOWZvblJMOEVFOXBlUU1rWTVHN1pIbWltU1ptREJNUkU2cTllTlRVampjR0NmUkwweDh2SkhTbEFPOF9oZWp4NzJvRldHZGhvMnRhUWIw?oc=5",
+      "pubDate": "Thu, 01 Oct 2026 00:29:48 GMT",
+      "timestamp": 1790814588.0,
+      "description": "ハローキティとソニーが初のコラボレーション♪&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zX0FqbW1oVEMwSTFQUjNOYXFtTGRDYmJ2S0M1d3VTTlh1RTRtTGtwVlk1M0dnalJKbzM5RTdoUUx3Z2p1SE1WTEZURzRjckdDVngtT3FHOXhFQmc?oc=5",
       "title": "Xperia 10 VIII - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zX0FqbW1oVEMwSTFQUjNOYXFtTGRDYmJ2S0M1d3VTTlh1RTRtTGtwVlk1M0dnalJKbzM5RTdoUUx3Z2p1SE1WTEZURzRjckdDVngtT3FHOXhFQmc?oc=5",
@@ -248,16 +258,6 @@
       "pubDate": "Tue, 03 Mar 2026 04:56:44 GMT",
       "timestamp": 1772513804.0,
       "description": "Music Center for PC&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iME9oa0llVnFuY193U3lILXVqRTF6Z3pPUTIwMGxPNzNSNjk3Slp3UUR5cWhzTmpTeUNsNWRPS3U2UWtaWDBLWjc1Y1BvX0sxYjF3dWZkTTd2aWhTMmp6V1pXMm5naDRkdVdiMEppUl9fVDh0VlJLMg?oc=5",
-      "title": "WF-1000XM5 本体ソフトウェア アップデート方法（Ver 6.1.0）Android | ヘッドホン | ソニー - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iME9oa0llVnFuY193U3lILXVqRTF6Z3pPUTIwMGxPNzNSNjk3Slp3UUR5cWhzTmpTeUNsNWRPS3U2UWtaWDBLWjc1Y1BvX0sxYjF3dWZkTTd2aWhTMmp6V1pXMm5naDRkdVdiMEppUl9fVDh0VlJLMg?oc=5",
-      "pubDate": "Tue, 18 Nov 2025 05:51:42 GMT",
-      "timestamp": 1763445102.0,
-      "description": "WF-1000XM5 本体ソフトウェア アップデート方法（Ver 6.1.0）Android | ヘッドホン | ソニー&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -410,16 +410,6 @@
       "description": "アプリアップデート情報 | Xperia Hello!（G1209） | Xperia Smart Products | サポート・お問い合わせ&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HRWVKdkY2VzRCV2ViRWRKODAwSVhDZnFWRFJXQlBhdWZhZDJkdG1ScUpZWXo3alpqb0FDRzYta3BpNTZxeDMxVHEzYWpqWkIzdWJ0OTQwWQ?oc=5",
-      "title": "aiboに会いに来ませんか ソニーストアで待っています | ソニーストアについて | ソニー - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HRWVKdkY2VzRCV2ViRWRKODAwSVhDZnFWRFJXQlBhdWZhZDJkdG1ScUpZWXo3alpqb0FDRzYta3BpNTZxeDMxVHEzYWpqWkIzdWJ0OTQwWQ?oc=5",
-      "pubDate": "Sat, 13 Jan 2018 16:52:23 GMT",
-      "timestamp": 1515862343.0,
-      "description": "aiboに会いに来ませんか ソニーストアで待っています | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdDNvOGl5WDdNa01hQ0lTNUEybjAyMFVXeHRrS21ZTFdkZ2pKVnFWZmtpdVh1ZVV5Ynhic242SjVJNFlfRzJIdThkSHlxWVItUUVqbzFQMzVHeE1MbENjb2RJSFdRUC1kY19UUEJRR0w1S05hQTJhdHBSdEcxTnJkRjUybw?oc=5",
@@ -580,6 +570,16 @@
       "description": "My Sony&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE51OFhFY3M4WnppYTVmaUFGYWhUSVVFazF5VkpEdEhCbFFBOGZVQURXWTdiTDhrX1Y3WkE5Zw?oc=5",
+      "title": "My Sony - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE51OFhFY3M4WnppYTVmaUFGYWhUSVVFazF5VkpEdEhCbFFBOGZVQURXWTdiTDhrX1Y3WkE5Zw?oc=5",
+      "pubDate": "Thu, 03 Nov 2011 02:37:56 GMT",
+      "timestamp": 1320287876.0,
+      "description": "My Sony&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE8yZjJHM2xhVUtQYVdfV29RT25RSUgtbC1Cdmpac21oRjNWVF8wWWNqVnU5XzEwSVU?oc=5",
