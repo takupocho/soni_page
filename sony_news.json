@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-11T08:53:43.146973+00:00",
+  "updatedAt": "2026-11-11T16:54:30.576586+00:00",
   "items": [
+    {
+      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IOTAwQWpidGExM2d3VXAzeHQ3RXdMSTZfenVWM1RaUHY3WWdLUDVNN2tZaDE1QVVRYW1rQVVQam1GUkxPX01kZVBhZE90NVhYYy1MQTFPVjNYNndES2ZiN1BpUHRMc2s?oc=5",
+      "title": "MDR-3R の特長： デザイン | ヘッドホン - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IOTAwQWpidGExM2d3VXAzeHQ3RXdMSTZfenVWM1RaUHY3WWdLUDVNN2tZaDE1QVVRYW1rQVVQam1GUkxPX01kZVBhZE90NVhYYy1MQTFPVjNYNndES2ZiN1BpUHRMc2s?oc=5",
+      "pubDate": "Wed, 11 Nov 2026 10:04:25 GMT",
+      "timestamp": 1794391465.0,
+      "description": "MDR-3R の特長： デザイン | ヘッドホン&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
     {
       "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hTnFyX1FQNHBrYnp4cDM2M1Zhc2ZUVXo2VkdkekR0MlhOS3NMVVVIWTF1cnAxYzVKbXkxcEZvYUlFN1Fmbmg1RlNqWEVleTN5R1dTRjFqblIxMV84a2c?oc=5",
       "title": "お知らせ - ソニーストア",
@@ -22,14 +32,14 @@
       "feedName": "サポート・全般"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IOTAwQWpidGExM2d3VXAzeHQ3RXdMSTZfenVWM1RaUHY3WWdLUDVNN2tZaDE1QVVRYW1rQVVQam1GUkxPX01kZVBhZE90NVhYYy1MQTFPVjNYNndES2ZiN1BpUHRMc2s?oc=5",
-      "title": "MDR-3R の特長： デザイン | ヘッドホン - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1IOTAwQWpidGExM2d3VXAzeHQ3RXdMSTZfenVWM1RaUHY3WWdLUDVNN2tZaDE1QVVRYW1rQVVQam1GUkxPX01kZVBhZE90NVhYYy1MQTFPVjNYNndES2ZiN1BpUHRMc2s?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 07:33:41 GMT",
-      "timestamp": 1794296021.0,
-      "description": "MDR-3R の特長： デザイン | ヘッドホン&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
+      "id": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWQ3F3TTl4LThsZXNiSk90cE1UR09ubExQaC1Sa3BodnZKc3JiWm10YWcxNzBLUVotQmUzcll6SnRmZ1EzLTFEamN5LXY5TXpBSnRRekRR?oc=5",
+      "title": "今までにない UXをつくる。 - ソニー株式会社",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBWQ3F3TTl4LThsZXNiSk90cE1UR09ubExQaC1Sa3BodnZKc3JiWm10YWcxNzBLUVotQmUzcll6SnRmZ1EzLTFEamN5LXY5TXpBSnRRekRR?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 09:47:23 GMT",
+      "timestamp": 1794304043.0,
+      "description": "今までにない UXをつくる。&nbsp;&nbsp;ソニー株式会社",
+      "feedId": "product",
+      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PRG5KODVKdmlaanltZWVENm1VaE1SR0RCMjFJek5ONmUzcWgxNzhlbC1BZFFvd1l1RjJ4Z244QXhkQ1VaZWtiMmFKc2c0OTZOQXRURlhlQWxiSzNpNW1BQnJDNDhvR29YZHNCRQ?oc=5",
@@ -45,19 +55,9 @@
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Tue, 10 Nov 2026 05:53:53 GMT",
-      "timestamp": 1794290033.0,
+      "pubDate": "Mon, 09 Nov 2026 14:57:57 GMT",
+      "timestamp": 1794236277.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
-      "title": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53blEzYzNBN0dFV3FMSkp0a2l4YVNnMi03YnRqdzJUcUI5V1lKTjNGRDZRa2tEYW1YTThFaXlXbE1xcUZobFZTUnAtdy02V0w2VXZlSkVvVE5GbWFpa09mQ2tteS1TWmdyYnJWLVVGYXdaVS05YXlyVWJReDhfQQ?oc=5",
-      "pubDate": "Mon, 09 Nov 2026 07:35:37 GMT",
-      "timestamp": 1794209737.0,
-      "description": "Xperia 10 VIII（XQ-GH44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -212,22 +212,22 @@
       "feedName": "サポート・全般"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbDNFT0lNS2JuM1VWZkZMUGMxMm02T3A0RVQ3WEY1c255cVRPbDBVQzdxVmY3VTJIeFoyREVrbTZNMUtGWjVnMFoxMGF0SGJYclI0R2xsMU93enc?oc=5",
-      "title": "Xperia 10 VIIIに乗り換えるとこんなに変わる。Go to 10 | Xperia (エクスペリア) スマートフォン - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNbDNFT0lNS2JuM1VWZkZMUGMxMm02T3A0RVQ3WEY1c255cVRPbDBVQzdxVmY3VTJIeFoyREVrbTZNMUtGWjVnMFoxMGF0SGJYclI0R2xsMU93enc?oc=5",
-      "pubDate": "Thu, 01 Oct 2026 00:43:07 GMT",
-      "timestamp": 1790815387.0,
-      "description": "Xperia 10 VIIIに乗り換えるとこんなに変わる。Go to 10 | Xperia (エクスペリア) スマートフォン&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zX0FqbW1oVEMwSTFQUjNOYXFtTGRDYmJ2S0M1d3VTTlh1RTRtTGtwVlk1M0dnalJKbzM5RTdoUUx3Z2p1SE1WTEZURzRjckdDVngtT3FHOXhFQmc?oc=5",
       "title": "Xperia 10 VIII - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zX0FqbW1oVEMwSTFQUjNOYXFtTGRDYmJ2S0M1d3VTTlh1RTRtTGtwVlk1M0dnalJKbzM5RTdoUUx3Z2p1SE1WTEZURzRjckdDVngtT3FHOXhFQmc?oc=5",
       "pubDate": "Tue, 25 Aug 2026 02:29:01 GMT",
       "timestamp": 1787624941.0,
       "description": "Xperia 10 VIII&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzdoQUw0VTlQc0Z4WWg1SmJjaHhPcUFtWHlsNGswWkFxWlJTVEtFR3RqU1lJczFOYl9pRno4bVZlaHZHZ0E4aDI2bkh6aWg2OUNJRTlxN0xnT2JaanBxeG9yQkstMklYbTFBT2JOaUdkaGZMRnJyRUk1X09fVW5NWlI1RTlZaXRkRlVQLTVZZFN4a0k?oc=5",
+      "title": "ドライバーとソフトウェアのアップデート スマートフォン | ソニー - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONzdoQUw0VTlQc0Z4WWg1SmJjaHhPcUFtWHlsNGswWkFxWlJTVEtFR3RqU1lJczFOYl9pRno4bVZlaHZHZ0E4aDI2bkh6aWg2OUNJRTlxN0xnT2JaanBxeG9yQkstMklYbTFBT2JOaUdkaGZMRnJyRUk1X09fVW5NWlI1RTlZaXRkRlVQLTVZZFN4a0k?oc=5",
+      "pubDate": "Mon, 06 Apr 2026 06:00:41 GMT",
+      "timestamp": 1775455241.0,
+      "description": "ドライバーとソフトウェアのアップデート スマートフォン | ソニー&nbsp;&nbsp;ソニーストア",
       "feedId": "support",
       "feedName": "サポート・全般"
     },
@@ -312,6 +312,16 @@
       "feedName": "ストア・イベント"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qZUw1cTIyZERwVXBualBSV2V6eTRLOGRwNldHZ0hBaU5lalBMOU1NdjNaZzVUdlFxYXVuWldVNjJ6V3hFajNYanBfa3lZdzhDYlNiOXFaOE9DQ2FZRm1TZWhFMmlnV2J5RHNiMlAtZVBSRnU0OWlBXzVJUmM?oc=5",
+      "title": "ソフトウェアアップデートについて | 2019 | 使いかたマニュアル | ブルーレイディスク / DVDレコーダー | サポート・お問い合わせ - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qZUw1cTIyZERwVXBualBSV2V6eTRLOGRwNldHZ0hBaU5lalBMOU1NdjNaZzVUdlFxYXVuWldVNjJ6V3hFajNYanBfa3lZdzhDYlNiOXFaOE9DQ2FZRm1TZWhFMmlnV2J5RHNiMlAtZVBSRnU0OWlBXzVJUmM?oc=5",
+      "pubDate": "Thu, 07 Nov 2019 09:48:55 GMT",
+      "timestamp": 1573120135.0,
+      "description": "ソフトウェアアップデートについて | 2019 | 使いかたマニュアル | ブルーレイディスク / DVDレコーダー | サポート・お問い合わせ&nbsp;&nbsp;ソニーストア",
+      "feedId": "camera_update",
+      "feedName": "カメラ更新"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RVXVfd2RBRjY4dXhMSEJXZEtIUnNSbW5RSGo2UG03X1p2eGpSZG54WmRBT3RuMkxrSTA3WWZVam9uVHJEMFllV2xqUnhCZkljT1BkRDRVR0xkM28w?oc=5",
       "title": "アップデートプログラム | パーソナルコンピューター VAIO® | サポート・お問い合わせ | ソニー - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1RVXVfd2RBRjY4dXhMSEJXZEtIUnNSbW5RSGo2UG03X1p2eGpSZG54WmRBT3RuMkxrSTA3WWZVam9uVHJEMFllV2xqUnhCZkljT1BkRDRVR0xkM28w?oc=5",
@@ -332,6 +342,16 @@
       "feedName": "カメラ更新"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT3RERzg5MHYyRkVnT0wyaEpRS05GSlJyQXBYUEROU2hYTEtZRmI1UFBuVHc5S3kxS19DbWZIdjRaRkw5bmZ4T0ZZYXRXS0xqMkZQMmRTNWhJMF9wTmFkemozUGcwYXZqTTk3Qnhtdm9HQW1aTzlOTnJBdnZPUElvU1htTUpLQjhpdEdkX1BNTWo?oc=5",
+      "title": "DPF-D72ファームウェアアップデートのご案内（バージョン：1.52） - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQT3RERzg5MHYyRkVnT0wyaEpRS05GSlJyQXBYUEROU2hYTEtZRmI1UFBuVHc5S3kxS19DbWZIdjRaRkw5bmZ4T0ZZYXRXS0xqMkZQMmRTNWhJMF9wTmFkemozUGcwYXZqTTk3Qnhtdm9HQW1aTzlOTnJBdnZPUElvU1htTUpLQjhpdEdkX1BNTWo?oc=5",
+      "pubDate": "Thu, 08 Mar 2018 02:37:45 GMT",
+      "timestamp": 1520476665.0,
+      "description": "DPF-D72ファームウェアアップデートのご案内（バージョン：1.52）&nbsp;&nbsp;ソニーストア",
+      "feedId": "camera_update",
+      "feedName": "カメラ更新"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nd1J3N3lkV3lzeGxfS010OUk0YzRuVk9HOEd5S1ptbGZsM1I5anA2WVFDcjV2ZnJLTFg4cEROY1RyRGJvSWVfRF9YLW94My1hZndDTkp1Y0h3Y2ZhdGMtOUFTMWxxYjJpZWV3SFgzY1ZIM1V2ZWNMWEpHMA?oc=5",
       "title": "α700(DSLR-A700) ファームウェアアップデート - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5nd1J3N3lkV3lzeGxfS010OUk0YzRuVk9HOEd5S1ptbGZsM1I5anA2WVFDcjV2ZnJLTFg4cEROY1RyRGJvSWVfRF9YLW94My1hZndDTkp1Y0h3Y2ZhdGMtOUFTMWxxYjJpZWV3SFgzY1ZIM1V2ZWNMWEpHMA?oc=5",
@@ -342,42 +362,12 @@
       "feedName": "カメラ更新"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZnFVeEpYV3hUQnpSZlBvM0tNOHVBMElyVmkxRE9FWjhYa2RWWW9zOUQxVnNRQlVDclhVRVNxSnNPZE5PdUU3TXBGOWg3QlNKYmlnSldZNWY4MnYybzdUZjdkVldpaC1nSU8xYTZ6ZzFHNHdDM2NRUW1Ga09lanhJQ0RR?oc=5",
-      "title": "α100(DSLR-A100) ファームウェアアップデート - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZnFVeEpYV3hUQnpSZlBvM0tNOHVBMElyVmkxRE9FWjhYa2RWWW9zOUQxVnNRQlVDclhVRVNxSnNPZE5PdUU3TXBGOWg3QlNKYmlnSldZNWY4MnYybzdUZjdkVldpaC1nSU8xYTZ6ZzFHNHdDM2NRUW1Ga09lanhJQ0RR?oc=5",
-      "pubDate": "Tue, 06 Mar 2018 04:51:15 GMT",
-      "timestamp": 1520311875.0,
-      "description": "α100(DSLR-A100) ファームウェアアップデート&nbsp;&nbsp;ソニーストア",
-      "feedId": "camera_update",
-      "feedName": "カメラ更新"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT1k1eDVPdTB6RGJHMkc3S0ZoMGJ2N3lzN2FPalpmY0ZLeW5YSlhRdmwxdWo3cmdmZTFLcXN1RVcyTHg2ME53c25iR0YtQTFmYW5aTXBZSnh4LVNsVDg4czVKSU9EWm1ibGFBeWRfdm5yRTBxQm5DYklNSGhhRHhFcw?oc=5",
       "title": "注：このとき液晶画面には何も表示されませんが、アップデートはされています。 - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNT1k1eDVPdTB6RGJHMkc3S0ZoMGJ2N3lzN2FPalpmY0ZLeW5YSlhRdmwxdWo3cmdmZTFLcXN1RVcyTHg2ME53c25iR0YtQTFmYW5aTXBZSnh4LVNsVDg4czVKSU9EWm1ibGFBeWRfdm5yRTBxQm5DYklNSGhhRHhFcw?oc=5",
       "pubDate": "Mon, 05 Mar 2018 10:51:01 GMT",
       "timestamp": 1520247061.0,
       "description": "注：このとき液晶画面には何も表示されませんが、アップデートはされています。&nbsp;&nbsp;ソニーストア",
-      "feedId": "camera_update",
-      "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUk5OVHFUNzJjbVEyQnBfYkJpR0luNlhEUEczYk1jNHlTZW5mVXk4SS1tNEZST1k0TUU1dmpOamgyRTIyUGVGaFFNWlQ1SHZNOTM5XzV3aDNHeV9LNEMxWHdZQ25LV1E0Yml5NWVTcWE2YWFqeXBXYzZNVGhoWVRXOUhLd1ZUYW1CTmZF?oc=5",
-      "title": "DPF-A72ファームウェアアップデートのご案内 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUk5OVHFUNzJjbVEyQnBfYkJpR0luNlhEUEczYk1jNHlTZW5mVXk4SS1tNEZST1k0TUU1dmpOamgyRTIyUGVGaFFNWlQ1SHZNOTM5XzV3aDNHeV9LNEMxWHdZQ25LV1E0Yml5NWVTcWE2YWFqeXBXYzZNVGhoWVRXOUhLd1ZUYW1CTmZF?oc=5",
-      "pubDate": "Mon, 05 Mar 2018 08:14:17 GMT",
-      "timestamp": 1520237657.0,
-      "description": "DPF-A72ファームウェアアップデートのご案内&nbsp;&nbsp;ソニーストア",
-      "feedId": "camera_update",
-      "feedName": "カメラ更新"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLU83N2hjR0pjckItQjR6QWVXOEYycWVWcUxpQTRFdUVCU3hZUEJkSjhRSWZPNGtyYjZBdi1xdHlMc3ZWeDYwbDJSc3YxQzZTTk0wQ1BPMlA4MWdMRUhNbG9GVW9GUmZSVlYwWFdPTW1WaVcxSi1McG00ZDRlaGxqVFdvNTJrQ0k?oc=5",
-      "title": "DPF-D70ファームウェアアップデートのご案内 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOLU83N2hjR0pjckItQjR6QWVXOEYycWVWcUxpQTRFdUVCU3hZUEJkSjhRSWZPNGtyYjZBdi1xdHlMc3ZWeDYwbDJSc3YxQzZTTk0wQ1BPMlA4MWdMRUhNbG9GVW9GUmZSVlYwWFdPTW1WaVcxSi1McG00ZDRlaGxqVFdvNTJrQ0k?oc=5",
-      "pubDate": "Sun, 04 Mar 2018 21:02:46 GMT",
-      "timestamp": 1520197366.0,
-      "description": "DPF-D70ファームウェアアップデートのご案内&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
     },
@@ -480,6 +470,16 @@
       "description": "定期クーポンについて&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBITVdvNUNnTG1yWnc3aXhUSmdjc2Zxd1JGSU9sejFVSFlSLUtXYXlMSEhqem5jRXlQVV9MMjV6Sk1HUWRMSDhUUzRnaEFGb3ZuU3J6bzE2ZUtBQWt1V3J3S3hpX0tjWk9xbkxn?oc=5",
+      "title": "アップデートプログラム | ダウンロード | パーソナルコンピューター VAIO® | サポート・お問い合わせ - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBITVdvNUNnTG1yWnc3aXhUSmdjc2Zxd1JGSU9sejFVSFlSLUtXYXlMSEhqem5jRXlQVV9MMjV6Sk1HUWRMSDhUUzRnaEFGb3ZuU3J6bzE2ZUtBQWt1V3J3S3hpX0tjWk9xbkxn?oc=5",
+      "pubDate": "Mon, 25 Jan 2016 08:00:00 GMT",
+      "timestamp": 1453708800.0,
+      "description": "アップデートプログラム | ダウンロード | パーソナルコンピューター VAIO® | サポート・お問い合わせ&nbsp;&nbsp;ソニーストア",
+      "feedId": "camera_update",
+      "feedName": "カメラ更新"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9uYXVERTlSZ25wa2dYNWRKZnp4Ni16R1BpSDBsbEpZUFdYYnZ3RlBYeWtYSlNib084SzlWZlVmWWoxbFZmSDdUSDlaWF9OWC1pc2xHRzNXNA?oc=5",
