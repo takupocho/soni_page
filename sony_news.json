@@ -1,25 +1,15 @@
 {
-  "updatedAt": "2026-11-12T21:44:35.256168+00:00",
+  "updatedAt": "2026-11-13T02:25:29.673561+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Thu, 12 Nov 2026 20:43:33 GMT",
-      "timestamp": 1794516213.0,
+      "pubDate": "Thu, 12 Nov 2026 01:48:39 GMT",
+      "timestamp": 1794448119.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pTWNkQ0xxMVBoRWQxMVlkVm1NeUpfcjY4eElLdTRSdDZYV2EtTjNpMDh5dHUtNWJuYjZORXpZTWhvTllydjlhdGJlMG9fUTVkcUlBTno0OFlSc3lWTFFfOGJUSW14aXNwZXJRTE9qdmFCVjVV?oc=5",
-      "title": "ソニーストア 大阪 22周年 感謝祭 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1pTWNkQ0xxMVBoRWQxMVlkVm1NeUpfcjY4eElLdTRSdDZYV2EtTjNpMDh5dHUtNWJuYjZORXpZTWhvTllydjlhdGJlMG9fUTVkcUlBTno0OFlSc3lWTFFfOGJUSW14aXNwZXJRTE9qdmFCVjVV?oc=5",
-      "pubDate": "Wed, 11 Nov 2026 15:26:09 GMT",
-      "timestamp": 1794410769.0,
-      "description": "ソニーストア 大阪 22周年 感謝祭&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hTnFyX1FQNHBrYnp4cDM2M1Zhc2ZUVXo2VkdkekR0MlhOS3NMVVVIWTF1cnAxYzVKbXkxcEZvYUlFN1Fmbmg1RlNqWEVleTN5R1dTRjFqblIxMV84a2c?oc=5",
@@ -408,6 +398,16 @@
       "pubDate": "Fri, 28 Jul 2017 12:07:20 GMT",
       "timestamp": 1501243640.0,
       "description": "アクセス・営業時間&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9udEZhUm5SUHpBdjlHSHJhdWZMNFpIMEdfRlVqRGZnOVctcTRxNzY4bFNtM3JXWGdhYUdtYlpVNUUtUjFjc25iWA?oc=5",
+      "title": "ソニーストア 店舗のご案内 | ソニーストアについて | ソニー - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9udEZhUm5SUHpBdjlHSHJhdWZMNFpIMEdfRlVqRGZnOVctcTRxNzY4bFNtM3JXWGdhYUdtYlpVNUUtUjFjc25iWA?oc=5",
+      "pubDate": "Mon, 20 Mar 2017 01:32:32 GMT",
+      "timestamp": 1489973552.0,
+      "description": "ソニーストア 店舗のご案内 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
     },
