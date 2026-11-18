@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-18T16:12:31.813278+00:00",
+  "updatedAt": "2026-11-18T23:16:10.300398+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Mon, 16 Nov 2026 13:46:51 GMT",
-      "timestamp": 1794836811.0,
+      "pubDate": "Mon, 16 Nov 2026 22:51:11 GMT",
+      "timestamp": 1794869471.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -28,6 +28,16 @@
       "pubDate": "Fri, 13 Nov 2026 01:30:28 GMT",
       "timestamp": 1794533428.0,
       "description": "その他&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hTnFyX1FQNHBrYnp4cDM2M1Zhc2ZUVXo2VkdkekR0MlhOS3NMVVVIWTF1cnAxYzVKbXkxcEZvYUlFN1Fmbmg1RlNqWEVleTN5R1dTRjFqblIxMV84a2c?oc=5",
+      "title": "お知らせ - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hTnFyX1FQNHBrYnp4cDM2M1Zhc2ZUVXo2VkdkekR0MlhOS3NMVVVIWTF1cnAxYzVKbXkxcEZvYUlFN1Fmbmg1RlNqWEVleTN5R1dTRjFqblIxMV84a2c?oc=5",
+      "pubDate": "Tue, 10 Nov 2026 08:00:00 GMT",
+      "timestamp": 1794297600.0,
+      "description": "お知らせ&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -108,16 +118,6 @@
       "pubDate": "Wed, 07 Oct 2026 07:00:00 GMT",
       "timestamp": 1791356400.0,
       "description": "指紋認証がうまく反応しない／認識が悪くなった&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zX0FqbW1oVEMwSTFQUjNOYXFtTGRDYmJ2S0M1d3VTTlh1RTRtTGtwVlk1M0dnalJKbzM5RTdoUUx3Z2p1SE1WTEZURzRjckdDVngtT3FHOXhFQmc?oc=5",
-      "title": "Xperia 10 VIII - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zX0FqbW1oVEMwSTFQUjNOYXFtTGRDYmJ2S0M1d3VTTlh1RTRtTGtwVlk1M0dnalJKbzM5RTdoUUx3Z2p1SE1WTEZURzRjckdDVngtT3FHOXhFQmc?oc=5",
-      "pubDate": "Tue, 25 Aug 2026 02:29:01 GMT",
-      "timestamp": 1787624941.0,
-      "description": "Xperia 10 VIII&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
@@ -362,16 +362,6 @@
       "feedName": "カメラ更新"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lMVR0eWprUmEzU25lUUQtVlcwX1VwYkV1OVVIdzF1eTM0N1BIcktNaEhfMnFiVFNKNng1cUw5TXV0MUlXRU5HNHRXQ2xRTjQ3Q0RlQUlFVzJzT2wyMWE4MWpBZkZDU1U?oc=5",
-      "title": "デジタル一眼カメラ α（アルファ） - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lMVR0eWprUmEzU25lUUQtVlcwX1VwYkV1OVVIdzF1eTM0N1BIcktNaEhfMnFiVFNKNng1cUw5TXV0MUlXRU5HNHRXQ2xRTjQ3Q0RlQUlFVzJzT2wyMWE4MWpBZkZDU1U?oc=5",
-      "pubDate": "Sat, 03 Mar 2018 13:58:11 GMT",
-      "timestamp": 1520085491.0,
-      "description": "デジタル一眼カメラ α（アルファ）&nbsp;&nbsp;ソニーストア",
-      "feedId": "support",
-      "feedName": "サポート・全般"
-    },
-    {
       "id": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ0gtOHBWODNKajVLamViWUw1UWZZZ1Jjcnhkb0Z2dzVZSkJ2U05ydHJXNUpZcncxSlk5RWRoejVxZHNyVlJFczQ3R1JCUjdFRVB6QlBva2JCem1WTklvbzYtY2JaaVFuSFZGLVRrZWhNVEpwRzc0MnZHRnA1SGtpdUtB?oc=5",
       "title": "α100(DSLR-A100) ファームウェアアップデート - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZ0gtOHBWODNKajVLamViWUw1UWZZZ1Jjcnhkb0Z2dzVZSkJ2U05ydHJXNUpZcncxSlk5RWRoejVxZHNyVlJFczQ3R1JCUjdFRVB6QlBva2JCem1WTklvbzYtY2JaaVFuSFZGLVRrZWhNVEpwRzc0MnZHRnA1SGtpdUtB?oc=5",
@@ -400,6 +390,16 @@
       "description": "アプリアップデート情報 | Xperia Hello!（G1209） | Xperia Smart Products | サポート・お問い合わせ&nbsp;&nbsp;ソニーストア",
       "feedId": "camera_update",
       "feedName": "カメラ更新"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HRWVKdkY2VzRCV2ViRWRKODAwSVhDZnFWRFJXQlBhdWZhZDJkdG1ScUpZWXo3alpqb0FDRzYta3BpNTZxeDMxVHEzYWpqWkIzdWJ0OTQwWQ?oc=5",
+      "title": "aiboに会いに来ませんか ソニーストアで待っています | ソニーストアについて | ソニー - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9HRWVKdkY2VzRCV2ViRWRKODAwSVhDZnFWRFJXQlBhdWZhZDJkdG1ScUpZWXo3alpqb0FDRzYta3BpNTZxeDMxVHEzYWpqWkIzdWJ0OTQwWQ?oc=5",
+      "pubDate": "Sat, 13 Jan 2018 16:52:23 GMT",
+      "timestamp": 1515862343.0,
+      "description": "aiboに会いに来ませんか ソニーストアで待っています | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBMQ3hQN1dXSzk0cElTbVlZRHdSdlB1dmxOT0VpTzdrVTBxUGlheFNONFc3MnVRYTAyVWVpcXNWb1Q1aVhmWmc?oc=5",
@@ -492,14 +492,24 @@
       "feedName": "カメラ更新"
     },
     {
-      "id": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43UTVOTFdwLTZSQll3LVJMdlpjNHhjQm5SS2YyUkc5OWlfYXA2elVFWW9CUkdabDliSmlfS2Q1REQxZ055MU1rQ3Q3N1FxM1BrOEQxYzVCVDJlRlM0eXlQei0xWlBqNkU?oc=5",
-      "title": "ご注文の変更、キャンセル、配送状況の確認 - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE43UTVOTFdwLTZSQll3LVJMdlpjNHhjQm5SS2YyUkc5OWlfYXA2elVFWW9CUkdabDliSmlfS2Q1REQxZ055MU1rQ3Q3N1FxM1BrOEQxYzVCVDJlRlM0eXlQei0xWlBqNkU?oc=5",
-      "pubDate": "Fri, 27 Mar 2015 19:18:17 GMT",
-      "timestamp": 1427483897.0,
-      "description": "ご注文の変更、キャンセル、配送状況の確認&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
+      "id": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fNWZhTDhhWTE4bGxodkRldVFTZDlUbmxmc1JrYUs1RmZoVnZVVVJjWExEcHFjV2ExdlZHVElCbDFQTXVPRXozdjFJRWJ5QQ?oc=5",
+      "title": "本体アップデート情報 | ヘッドホン | ソニー - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fNWZhTDhhWTE4bGxodkRldVFTZDlUbmxmc1JrYUs1RmZoVnZVVVJjWExEcHFjV2ExdlZHVElCbDFQTXVPRXozdjFJRWJ5QQ?oc=5",
+      "pubDate": "Wed, 01 Apr 2015 19:33:37 GMT",
+      "timestamp": 1427916817.0,
+      "description": "本体アップデート情報 | ヘッドホン | ソニー&nbsp;&nbsp;ソニーストア",
+      "feedId": "support",
+      "feedName": "サポート・全般"
+    },
+    {
+      "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04YUVwaUNrcGY2cm9NOHhabHJlNUppM2VJM2NxSlNLdllTQVJpQmJFQTUtNE9lM0xxbUZOWHNTUkhiallWWUt4Z1R5Z3dUbUgxdHpHR0ZJTHJsaERMY0Z3RjN3?oc=5",
+      "title": "クーポン、お買い物券の種類とご利用方法 - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04YUVwaUNrcGY2cm9NOHhabHJlNUppM2VJM2NxSlNLdllTQVJpQmJFQTUtNE9lM0xxbUZOWHNTUkhiallWWUt4Z1R5Z3dUbUgxdHpHR0ZJTHJsaERMY0Z3RjN3?oc=5",
+      "pubDate": "Mon, 23 Mar 2015 12:33:24 GMT",
+      "timestamp": 1427114004.0,
+      "description": "クーポン、お買い物券の種類とご利用方法&nbsp;&nbsp;ソニーストア",
+      "feedId": "product",
+      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04YUVwaUNrcGY2cm9NOHhabHJlNUppM2VJM2NxSlNLdllTQVJpQmJFQTUtNE9lM0xxbUZOWHNTUkhiallWWUt4Z1R5Z3dUbUgxdHpHR0ZJTHJsaERMY0Z3RjN3?oc=5",
@@ -510,16 +520,6 @@
       "description": "クーポン、お買い物券の種類とご利用方法&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB2TGpNNDlwelp4NGVGd1QzSXRjOUFpMmxDZWNxOXROcG54aE9QRldSUFNjNkpsMFlTVlBrN09iOVlrM19W?oc=5",
-      "title": "My Sony について - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB2TGpNNDlwelp4NGVGd1QzSXRjOUFpMmxDZWNxOXROcG54aE9QRldSUFNjNkpsMFlTVlBrN09iOVlrM19W?oc=5",
-      "pubDate": "Tue, 16 Dec 2014 06:41:09 GMT",
-      "timestamp": 1418712069.0,
-      "description": "My Sony について&nbsp;&nbsp;ソニーストア",
-      "feedId": "product",
-      "feedName": "製品ニュース"
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtR0VDY1g1ODZKMktRd0xSWXZjRUc3UWdqWUREcmpxSEstRldJRmxTQXc1dWl0Zms4ODI3U3c3OFJUS0RvamJrRmdkRFVhbU9BNnYyVUx5aw?oc=5",
@@ -573,11 +573,11 @@
     },
     {
       "id": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE8yZjJHM2xhVUtQYVdfV29RT25RSUgtbC1Cdmpac21oRjNWVF8wWWNqVnU5XzEwSVU?oc=5",
-      "title": "ソニー製品情報・ソニーストア - ソニー - ソニーストア",
+      "title": "ソニーストア - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE8yZjJHM2xhVUtQYVdfV29RT25RSUgtbC1Cdmpac21oRjNWVF8wWWNqVnU5XzEwSVU?oc=5",
       "pubDate": "Mon, 24 Oct 2011 03:19:08 GMT",
       "timestamp": 1319426348.0,
-      "description": "ソニー製品情報・ソニーストア - ソニー&nbsp;&nbsp;ソニーストア",
+      "description": "ソニーストア&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
     },
