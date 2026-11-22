@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-21T19:56:40.484366+00:00",
+  "updatedAt": "2026-11-22T00:10:11.180581+00:00",
   "items": [
     {
       "id": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
       "title": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー） - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sZ3ZhMWdaSmZZUk5tWFowaV96cHVJSFN0dEdSVE5pUFhtQXZEZGdTU3djWG1oU25uem4xNGlxTzdsdFp0UV9KZS1ERDVaeEh4ZFpUSDNYd2xnSUREUGJ6N09XNmF2TGpNX3hnZjlReFZIWGctRkh5YldOdw?oc=5",
-      "pubDate": "Fri, 20 Nov 2026 14:57:32 GMT",
-      "timestamp": 1795186652.0,
+      "pubDate": "Fri, 20 Nov 2026 23:57:28 GMT",
+      "timestamp": 1795219048.0,
       "description": "Xperia 1 VIII（XQ-GE44） 購入 | Xperia™ スマートフォン（SIMフリー）&nbsp;&nbsp;ソニーストア",
       "feedId": "product",
       "feedName": "製品ニュース"
@@ -212,6 +212,16 @@
       "feedName": "サポート・全般"
     },
     {
+      "id": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zeXd6WjE4NDN4dE1OYWZDT0ZOLVRERUxaMXFocFhUenZrZkFGRmcwZFNIbVhkbVlrcVZrSjUxS2JCWEkycjNZaDVB?oc=5",
+      "title": "ソニーストアでご利用中の主なサービス - ソニーストア",
+      "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0zeXd6WjE4NDN4dE1OYWZDT0ZOLVRERUxaMXFocFhUenZrZkFGRmcwZFNIbVhkbVlrcVZrSjUxS2JCWEkycjNZaDVB?oc=5",
+      "pubDate": "Tue, 20 May 2025 01:52:42 GMT",
+      "timestamp": 1747705962.0,
+      "description": "ソニーストアでご利用中の主なサービス&nbsp;&nbsp;ソニーストア",
+      "feedId": "store",
+      "feedName": "ストア・イベント"
+    },
+    {
       "id": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0pwLUxVb29Gc0dHZlRXcE9adjRrWkF2Vk14ci1maEt4cjRZbm9feHpfdjFfYWhGOHYzRG1weFBlZWJpM1VFQ3dpOU9oWTZZcU05ckhYd0NMaXVfQzNkR053Tl9WMFJSbk5rajNyUWJIY0hVREs0SGVrUmtHSmRyY24tcTBsal9MMjZWdFNaZ1J2R3ZPblcwRWFpUQ?oc=5",
       "title": "アプリをアップデート（インストール）できない | よくある質問 | Windows アプリ | PC TV Plus - ソニーストア",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNR0pwLUxVb29Gc0dHZlRXcE9adjRrWkF2Vk14ci1maEt4cjRZbm9feHpfdjFfYWhGOHYzRG1weFBlZWJpM1VFQ3dpOU9oWTZZcU05ckhYd0NMaXVfQzNkR053Tl9WMFJSbk5rajNyUWJIY0hVREs0SGVrUmtHSmRyY24tcTBsal9MMjZWdFNaZ1J2R3ZPblcwRWFpUQ?oc=5",
@@ -248,16 +258,6 @@
       "pubDate": "Thu, 01 Oct 2020 10:38:08 GMT",
       "timestamp": 1601548688.0,
       "description": "ソニーストアの来店予約 | ソニーストアについて | ソニー&nbsp;&nbsp;ソニーストア",
-      "feedId": "store",
-      "feedName": "ストア・イベント"
-    },
-    {
-      "id": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qaUY3bktRcUVFVXdGNWZWUU8yYnYyb0tRS2RmX2xScWZvOWdzSXBfcmhWTUZMQXBjUDk0SEJ4WjBndHkycS1nd3J1S1o0QXFlZmFuUElpTQ?oc=5",
-      "title": "ソニーストアでご利用中の主なサービス - ソニーストア",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qaUY3bktRcUVFVXdGNWZWUU8yYnYyb0tRS2RmX2xScWZvOWdzSXBfcmhWTUZMQXBjUDk0SEJ4WjBndHkycS1nd3J1S1o0QXFlZmFuUElpTQ?oc=5",
-      "pubDate": "Fri, 28 Aug 2020 16:22:42 GMT",
-      "timestamp": 1598631762.0,
-      "description": "ソニーストアでご利用中の主なサービス&nbsp;&nbsp;ソニーストア",
       "feedId": "store",
       "feedName": "ストア・イベント"
     },
